@@ -1,4 +1,5 @@
 const express = require("express");
+const compression = require("compression");
 const rateLimit = require("express-rate-limit");
 const killerRouter = require("./routes/killerRoutes");
 const survRouter = require("./routes/survRoutes");
@@ -6,6 +7,8 @@ const itemRouter = require("./routes/itemRoutes");
 const perkRouter = require("./routes/perkRoutes");
 
 const app = express();
+
+app.use(compression());
 
 const limiter = rateLimit({
   max: 1000,
