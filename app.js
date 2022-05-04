@@ -14,10 +14,10 @@ const limiter = rateLimit({
 });
 app.use("/api", limiter);
 
-app.use("/api/v1/killers", killerRouter);
-app.use("/api/v1/survs", survRouter);
-app.use("/api/v1/items", itemRouter);
-app.use("/api/v1/perks", perkRouter);
+app.use("/api/killers", killerRouter);
+app.use("/api/survs", survRouter);
+app.use("/api/items", itemRouter);
+app.use("/api/perks", perkRouter);
 
 app.all("*", (req, res, next) => {
   res.status(404).json({
