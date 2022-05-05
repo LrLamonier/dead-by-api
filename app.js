@@ -1,3 +1,4 @@
+const path = require("path");
 const express = require("express");
 const compression = require("compression");
 const rateLimit = require("express-rate-limit");
@@ -10,11 +11,18 @@ const app = express();
 
 app.use(compression());
 
+app.use(express.static(path.resolve(__dirname, "./build")));
+
 const limiter = rateLimit({
   max: 1000,
   windowMs: 60 * 60 * 1000,
   message: "Too many requests to the Entity! Try again later!",
 });
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "./build/index.html"));
+});
+
 app.use("/api", limiter);
 
 app.use("/api/killers", killerRouter);

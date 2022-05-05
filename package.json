@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "startdev": "nodemon server.js"
+    "startdev": "nodemon server.js",
+    "build": ""
   },
   "author": "lucas lamonier",
   "license": "ISC",
