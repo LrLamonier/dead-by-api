@@ -10,6 +10,16 @@ This API uses data from both in-game and the [Dead by Daylight Wiki](https://dea
 
 This repo contains both the data (in JSON format) and the code to run the API.
 
+## Using the API
+
+The Dead by API is live on Heroku at [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
+
+Just add the address of the endpoint you want and you're good to go! The first request might take a couple of seconds because the app goes to sleep after spending some time inactive.
+
+Try it out!
+
+[https://dead-by-api.herokuapp.com/api/survs/felixrichter?fields=name,role,perks_names,imgs](https://dead-by-api.herokuapp.com/api/survs/felixrichter?fields=name,role)
+
 ## API Reference
 
 ### Name Codes
