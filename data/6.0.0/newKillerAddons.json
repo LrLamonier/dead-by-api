@@ -1,0 +1,212 @@
+[
+  {
+    "killerId": 15,
+    "killerCode": "theghostface",
+    "powerCode": "nightshroud",
+    "name": "Driver's License",
+    "addonCode": "driverslicense",
+    "rarity": "Very Rare",
+    "description": "A driver's license revealing Olsen's true identity: Danny Johnson.\nWhen Marking a Survivor repairing a Generator, the Generator explodes and loses -20 % of its Progression.\nThe affected Generator becomes blocked for the next 15 seconds.\nMarking multiple Survivors on the same Generator will only apply the penalty once.\n\"They all want to know who Ghost Face is. But what they should ask is, who is next.\" — The Ghost Face",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/FulliconAddon_driversLicense.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Wooden Plank",
+    "addonCode": "woodenplank",
+    "rarity": "Common",
+    "description": "A wooden plank torn from the stage where Otto Stamper sacrificed a meddling journalist.\nIncreases the number of Charges added to the Nightfall Meter for hooking a Survivor by +25 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/FulliconAddon_woodenPlank.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Mortar and Pestle",
+    "addonCode": "mortarandpestle",
+    "rarity": "Common",
+    "description": "Disconnected from the world and modern medicine, Stamper's followers originally had to make do with the flora local to the island.\nThe Dredge emerges from the Remnant facing the same direction as a Teleport is activated instead of facing the direction the Remnant was placed in.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/FulliconAddon_mortarAndPestle.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Follower's Cowl",
+    "addonCode": "followerscowl",
+    "rarity": "Common",
+    "description": "They believed the cowls proved their enlightenment, but they merely kept them in darkness.\nTeleporting back to the Remnant will activate Killer Instinct during Daytime as well.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/FulliconAddon_followersCowl.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Caffeine Tablets",
+    "addonCode": "caffeinetablets",
+    "rarity": "Common",
+    "description": "Stamper's followers were told not to sleep, or they would bring the wrath of Druanee upon them. Towards the end, he brought in drugs from the mainland.\nThe Auras of locked Lockers are visible to you in yellow while charging The Gloaming or teleporting.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/FulliconAddon_caffeineTablets.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Malthinker's Skull",
+    "addonCode": "malthinkersskull",
+    "rarity": "Uncommon",
+    "description": "Those who brought negativity to the commune would mysteriously disappear from time to time. Their remains were never found... until The Dredge brought them up.\nIncreases the Nightfall Meter Charge rate for when Survivors are injured by +66 % per second.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/FulliconAddon_malthinkersSkull.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Haddie's Calendar",
+    "addonCode": "haddiescalendar",
+    "rarity": "Uncommon",
+    "description": "She planned to cross out each day until her parents took her to India, but when tragedy struck, she abandoned her calendar.\nReduces the time to exit a Locker by -1 second.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/FulliconAddon_haddiesCalendar.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Fallen Shingle",
+    "addonCode": "fallenshingle",
+    "rarity": "Uncommon",
+    "description": "After the Ottomarians were subsumed by The Dredge, the mansion fell into disrepair.\nIncreases the Nightfall Meter Charge rate for using Reign of Darkness by +15 % per second.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/FulliconAddon_fallenShingle.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Burnt Letters",
+    "addonCode": "burntletters",
+    "rarity": "Uncommon",
+    "description": "Some followers tried to write letters home. Stamper ensured that nobody would have contact with the outside world.\nIncreases the number of Charges added to the Nightfall Meter for injuring a Survivor by +25 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/88/FulliconAddon_burntLetters.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Air Freshener",
+    "addonCode": "airfreshener",
+    "rarity": "Uncommon",
+    "description": "After her parents were found, this was in the bag of belongings the police returned. Haddie does not know why she keeps it.\nStart the Trial with 4 Power Tokens.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconAddon_airFreshener.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Worry Stone",
+    "addonCode": "worrystone",
+    "rarity": "Rare",
+    "description": "While the Ottomarians were told to think only positive thoughts, some kept these stones in their pockets to rub when negative thoughts arose.\nReveals the Aura of a Survivor for 6 seconds when they lock a Locker.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/FulliconAddon_worryStone.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "War Helmet",
+    "addonCode": "warhelmet",
+    "rarity": "Rare",
+    "description": "While investigating an Overlap in the Alps, she found an abandoned war bunker. She took a helmet from it after the Overlap nearly took her.\nIncreases the duration of Killer Instinct by +1.5 seconds during Nightfall.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_warHelmet.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Ottomarian Writing",
+    "addonCode": "ottomarianwriting",
+    "rarity": "Rare",
+    "description": "The words of Otto Stamper were the only words available for his followers to read, decrying malthink and malspeak.\nReduces the Cool-down duration of The Gloaming by -4 seconds during Daytime.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/FulliconAddon_ottomarianWriting.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Destroyed Pillow",
+    "addonCode": "destroyedpillow",
+    "rarity": "Rare",
+    "description": "While not allowed to sleep, leaders amongst the Ottomarians tore sleeping supplies to shreds to prevent malthinkers from sneaking off to nap.\nReduces the Cool-down duration of The Gloaming by -2.5 seconds during Nightfall.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/25/FulliconAddon_destroyedPillow.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Broken Doll",
+    "addonCode": "brokendoll",
+    "rarity": "Rare",
+    "description": "Followers brought their families to live in a utopia. None of them were spared.\nIncreases the duration of Nightfall by 20 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/FulliconAddon_brokenDoll.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Tilling Blade",
+    "addonCode": "tillingblade",
+    "rarity": "Very Rare",
+    "description": "The island was self-sufficient, and followers tilled the tough soil to grow crops during the warm season.\nHealthy Survivors injured during Nightfall suffer from the Blindness, Haemorrhage, and the Mangled Status Effects for 60 seconds.\n\"Like a predatory beast, it can smell and track blood.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconAddon_tillingBlade.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Lavalier Microphone",
+    "addonCode": "lavaliermicrophone",
+    "rarity": "Very Rare",
+    "description": "She kept a lavalier mic nearby, allowing her to record her innermost feelings when under great stress.\nConsuming the last Power Token will reveal the Auras of all Survivors for 3 seconds.\nEntering a Locker through teleportation causes all Lockers within 6 metres of any Survivor to open and slam their doors.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d7/FulliconAddon_lavalierMicrophone.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Field Recorder",
+    "addonCode": "fieldrecorder",
+    "rarity": "Very Rare",
+    "description": "Haddie documented all of her forays near Overlaps, to prove not only to the world but herself what she saw and felt.\nNightfall is active at the start of the Trial.\nNightfall activates automatically when the final Generator is completed.\nAny Survivor coming into contact with the Remnant suffers from the Exhausted Status Effect for 15 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_fieldRecorder.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Boat Key",
+    "addonCode": "boatkey",
+    "rarity": "Very Rare",
+    "description": "Only one boat allowed people on and off the island, and the keys were hidden away to prevent deserters.\nIncreases the Teleportation speed by +25 % during Daytime.\nWhen all Generators are completed, all active Locks are instantly broken.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/FulliconAddon_boatKey.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Sacrificial Knife",
+    "addonCode": "sacrificialknife",
+    "rarity": "Ultra Rare",
+    "description": "When a journalist attempted to warn the Ottomarians of Stamper's true task, he slit her throat as a warning to any dissenters.\nExiting a Locker during Nightfall blocks all Vault locations within 16 metres of it for 5 seconds.\n\"There are imposters amongst you! They intend to destroy our perfect home with dark thoughts. Find them and bring them to me!\" — Otto Stamper",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/FulliconAddon_sacrificialKnife.png"
+  },
+  {
+    "killerId": 27,
+    "killerCode": "thedredge",
+    "powerCode": "reignofdarkness",
+    "name": "Iridescent Wooden Plank",
+    "addonCode": "iridescentwoodenplank",
+    "rarity": "Ultra Rare",
+    "description": "Once the journalist's blood stained the wooden boards of the stage, everything was set into motion for The Dredge's arrival.\nSurvivors suffer from the Exposed Status Effect for the final 12 seconds of Nightfall.\n\"She came here to poison your minds with fear! Do not let the fear in!\" — Otto Stamper",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/FulliconAddon_iridescentWoodenPlank.png"
+  }
+]
