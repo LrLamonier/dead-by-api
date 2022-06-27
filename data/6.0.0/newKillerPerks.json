@@ -1,0 +1,38 @@
+[
+  {
+    "id": 93,
+    "name": "Dissolution",
+    "code": "dissolution",
+    "killerCode": "thedredge",
+    "killerName": "The Dredge",
+    "description": "Everything turns to dust. It is as inescapable as the coming of the night.\n3 seconds after injuring a Survivor by any means, Dissolution activates for 12/16/20 seconds:\nWhile Dissolution is active, if a Survivor fast vaults over a Pallet while they are inside your Terror Radius, The Entity will break the Pallet at the end of the vault, deactivating Dissolution.\n\"The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.\" — Otto Stamper",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_dissolution.png"
+  },
+  {
+    "id": 94,
+    "name": "Darkness Revealed",
+    "code": "darknessrevealed",
+    "killerCode": "thedredge",
+    "killerName": "The Dredge",
+    "description": "In your presence, places once thought to be safe are perhaps the most dangerous.\nWhen you search a Locker, the Auras of all Survivors within 8 metres of any Locker are revealed to you for 3/4/5 seconds.\nDarkness Revealed has a cool-down of 30 seconds.\n\"Stay in the light, my children. In darkness, your fear will expose you.\" — Otto Stamper",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/IconPerks_darknessRevealed.png"
+  },
+  {
+    "id": 95,
+    "name": "Septic Touch",
+    "code": "septictouch",
+    "killerCode": "thedredge",
+    "killerName": "The Dredge",
+    "description": "The Land of the Shadows subsumes all. Healing only delays the inevitable.\nWhenever a Survivor performs a Healing action while they are inside your Terror Radius, that Survivor suffers from the Blindness and the Exhausted Status Effects.\nThese effects linger for 6/8/10 seconds after the Healing action is interrupted by any means.\n\"Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows.\" — Otto Stamper",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d8/IconPerks_septicTouch.png"
+  },
+  {
+    "id": 96,
+    "name": "Shattered Hope",
+    "code": "shatteredhope",
+    "killerCode": "all",
+    "killerName": "All",
+    "description": "To capture your prey, you must first extinguish their hope.\nInstead of snuffing Boon Totems you destroy them.\nDestroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.\n\"Nothing is permanent here. Nothing except our endless perdition.\" — Unknown, Notebook",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_shatteredHope.png"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 104,
+    "name": "Inner Focus",
+    "code": "innerfocus",
+    "survivorCode": "haddiekaur",
+    "survivorName": "Haddie Kaur",
+    "description": "You have honed your ability to see through the haze of the Ravage.\nYou can see the Scratch Marks of other Survivors within 32 metres of you.\nWhenever another Survivor loses a Health State within 32 metres of you, the Killer's Aura is revealed to you for 3/4/5 seconds.\n\"The death, the trauma, the fear... it all leads here. The Overlap.\" — Haddie Kaur, Ravages of the Abyss Episode 11",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png"
+  },
+  {
+    "id": 105,
+    "name": "Residual Manifest",
+    "code": "residualmanifest",
+    "survivorCode": "haddiekaur",
+    "survivorName": "Haddie Kaur",
+    "description": "A lifetime of chasing the darkness has taught you that the best disinfectant is light.\nAfter a successful Killer Blind, the Killer suffers from the Blindness Status Effect for 20/25/30 seconds.\nResidual Manifest grants the ability to rummage through an opened Chest once per Trial and will guarantee a basic Flashlight.\n\"I'll never see what Haddie sees. But so long as I'm with her, I know I'm safe.\" — Jordan Rois, Ravages of the Abyss Episode 5",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png"
+  },
+  {
+    "id": 106,
+    "name": "Overzealous",
+    "code": "overzealous",
+    "survivorCode": "haddiekaur",
+    "survivorName": "Haddie Kaur",
+    "description": "Fighting back against the Ravage motivates and inspires you.\nAfter cleansing a Totem, Overzealous activates:\nIncreases your Repair speed by 4/5/6 %.\nOverzealous deactivates when losing a Health State by any means.\n\"The Ravage senses us. We need to work fast.\" — Haddie Kaur, Ravages of the Abyss Episode 9",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png"
+  }
+]
