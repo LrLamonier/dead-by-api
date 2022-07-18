@@ -6,6 +6,7 @@ const router = express.Router({ mergeParams: true });
 router.route("/").get(killerController.getAllKillers);
 router.route("/powers").get(killerController.getAllPowers);
 router.route("/powers/random").get(killerController.getRandomPower);
+router.route("/powers/random-five").get(killerController.getRandomPowers);
 router.route("/random").get(killerController.getRandomKiller);
 router.route("/addons").get(killerController.getKillersAddons);
 router.route("/addons/random").get(killerController.getRandomKillerAddons);
