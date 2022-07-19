@@ -14,7 +14,7 @@ mongoose
 	.connect(process.env.DATABASE, {})
 	.then(() => console.log("Database online!"));
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 80;
 
 const server = app.listen(port, () => {
 	console.log(`App running on port ${port}...`);
