@@ -119,7 +119,7 @@
 	{
 		"id": 13,
 		"name": "Self-Aware",
-		"code": "welfaware",
+		"code": "selfaware",
 		"survivorCode": "all",
 		"survivorName": "All",
 		"description": "You know your weaknesses and refuse to hide from them.\nYou walk 10/15/20% faster and can see your own Scratch Marks.",
