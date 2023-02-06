@@ -1,2 +1,2 @@
-finish random killer power route
-update power images
+Update: killer, killer_power, killer_addon, survivor, survivor_perk 
+add random routes for dynamic sample amounts
