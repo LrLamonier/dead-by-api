@@ -230,7 +230,7 @@
     "code": "thanatophobia",
     "killerCode": "thenurse",
     "killerName": "The Nurse",
-    "description": "Their courage fades in the face of their undeniable mortality.\nEach injured, dying, or hooked Survivor afflicts Survivors with a stack-able 1/1.5/2 % Action Speed penalty to Repairing, Sabotaging, and Cleansing, up to a maximum of 4/6/8 %.\nIncreases the Action Speed penalty by a further 12 %, if there are 4 Survivors, who are either injured, dying, or hooked at the same time.\n\"She plays with us and revels in our pain.\"",
+    "description": "Their courage fades in the face of their undeniable mortality.\nFor each injured, dying or hooked Survivor, all Survivors receive an Action Speed penalty of 1/1.5/2 % to Repairing, Sabotaging, and Cleansing, stack-able up to a maximum of 4/6/8 %.\nIf all four Survivors are either injured, dying or hooked, Thanatophobia the Penalty is further increased by +12 %.\n\"She plays with us and revels in our pain.\"",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png"
   },
   {
@@ -608,7 +608,7 @@
     "code": "deadmansswitch",
     "killerCode": "thedeathslinger",
     "killerName": "The Deathslinger",
-    "description": "After hooking a Survivor, Dead Man's Switch activates for the next 35/40/45 seconds:\nWhile activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until Dead Man's Switch's effect ends.\nAffected Generators are highlighted by a white Aura.\n\"I've seen the look on a man's face when he realises he's going to die.\" — Caleb Quinn",
+    "description": "After hooking a Survivor, Dead Man's Switch activates for the next 20/25/30 seconds:\nWhile activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until Dead Man's Switch's effect ends.\nAffected Generators are highlighted by a white Aura.\n\"I've seen the look on a man's face when he realises he's going to die.\" — Caleb Quinn",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_deadMansSwitch.png"
   },
   {
@@ -788,7 +788,7 @@
     "code": "grimembrace",
     "killerCode": "theartist",
     "killerName": "The Artist",
-    "description": "Your act of servitude to The Entity has not gone unnoticed.\nEach time a Survivor is hooked for the first time, Grim Embrace gains a Token.\nUpon reaching 4 Tokens Grim Embrace activates:\nThe Entity blocks all Generators for 30/35/40 seconds.\nThe Aura of the Obsession is revealed to you for 5 seconds.\n\"Are we nothing but prisoners to our sorrow?\" — Carmina Mora",
+    "description": "Your act of servitude to The Entity has not gone unnoticed.\nEach time a Survivor is hooked for the first time, Grim Embrace gains a Token.\nUpon reaching 4 Tokens Grim Embrace activates:\nThe Entity blocks all Generators for 30/35/40 seconds.The Aura of the Obsession is revealed to you for 5 seconds.\n\"Are we nothing but prisoners to our sorrow?\" — Carmina Mora",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_grimEmbrace.png"
   },
   {
@@ -797,7 +797,7 @@
     "code": "scourgehookresonance",
     "killerCode": "theartist",
     "killerName": "The Artist",
-    "description": "Overwhelming pain reverberates outwards.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\nThe Auras of Scourge Hooks are revealed to you in white.\nEach time a Survivor is hooked on a Scourge Hook, the following effects apply:\nThe Generator with the most Progression explodes, instantly losing 9/12/15% of its Progression and starting to regress.\nSurvivors repairing that Generator will scream, but not reveal their location.\n\"The pain spills beyond flesh/darkness staining the horizon.\" — Girl in the Shadow by Carmina Mora",
+    "description": "Overwhelming pain reverberates outwards.\nAt the start of the Trial, 4 random Hooks are changed into Scourge Hooks:\nThe Auras of Scourge Hooks are revealed to you in white.\nEach time a Survivor is hooked on a Scourge Hook, the following effects apply:\nThe Generator with the most Progression explodes, instantly losing 9/12/15 % of its Progression and starting to regress.\nSurvivors repairing that Generator will scream, but not reveal their location.\n\"The pain spills beyond flesh/darkness staining the horizon.\" — Girl in the Shadow by Carmina Mora",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_scourgeHookPainResonance.png"
   },
   {
