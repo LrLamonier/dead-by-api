@@ -635,7 +635,7 @@
     "code": "mettleofman",
     "survivorCode": "ashjwilliams",
     "survivorName": "Ash J. Williams",
-    "description": "Evil has a way of always finding you.\nAfter triggering your third Protection Hit, Mettle of Man activates and you are protected by the Endurance Status Effect:\nAny damage taken that would put you into the Dying State from the Injured State is blocked.\nWhen you are healed again, your Aura will be revealed to the Killer whenever you are farther than 12/14/16 meters away.\nMettle of Man deactivates the next time you are put into the Dying State.\nIncreases the odds of becoming the Killer's initial Obsession by 100%.\nThe Killer can only be obsessed with one Survivor at a time.\n\"Evil has a bullseye on my back the size of Tiger Stadium.\" — Ash Williams",
+    "description": "Evil has a way of always finding you.\nAfter you earn 3 Protection Hit Score Events, Mettle of Man activates.\nOnce activated, the next occasion that would put you into the Dying State from the Injured State is ignored.\nThe next time you heal back to full health, your Aura will be revealed to the Killer when you are farther than 12/14/16 metres from the Killer.\nMettle of Man will deactivate the next time you are put into the Dying State.\nIncreases your chances of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"Evil has a bullseye on my back the size of Tiger Stadium.\" — Ash Williams",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png"
   },
   {

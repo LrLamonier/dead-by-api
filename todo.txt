@@ -44,10 +44,16 @@ add random routes for dynamic sample amounts
     Sole Survivor
     Spine Chill 
     Tenacity 
-    We're Gonna Live Forever 
+    We're Gonna Live Forever
 
-6.1.1
+6.1.1 X
 6.1.2/6.1.3
+    Thanatophobia
+    Dead Man's Switch
+    Pain Resonance
+
+    Mettle of Man
+
 6.2.0
 6.2.1
 6.2.2
