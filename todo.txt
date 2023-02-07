@@ -22,8 +22,29 @@ add random routes for dynamic sample amounts
     Thanatophobia 
     Tinkerer 
 
-
-
+    Borrowed Time
+    Botany Knowledge 
+    Calm Spirit 
+    Dark Sense 
+    Dead Hard
+    Decisive Strike 
+    Déjà Vu 
+    Distortion 
+    Hope 
+    Inner Focus
+    Iron Will 
+    Lightweight 
+    Lucky Break
+    No One Left Behind
+    Off the Record 
+    Overzealous 
+    Pharmacy 
+    Saboteur 
+    Self-Care 
+    Sole Survivor
+    Spine Chill 
+    Tenacity 
+    We're Gonna Live Forever 
 
 6.1.1
 6.1.2/6.1.3
