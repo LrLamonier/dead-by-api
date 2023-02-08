@@ -55,6 +55,14 @@ add random routes for dynamic sample amounts
     Mettle of Man
 
 6.2.0
+    Killer: Albert Wesker
+    Killer Power: Virulent Bound
+    Albert Wesker Add-ons
+    Superior Anatomy
+    Awakened Awareness
+    Terminus
+
+
 6.2.1
 6.2.2
 6.3.0

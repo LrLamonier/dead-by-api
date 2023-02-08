@@ -291,5 +291,15 @@
     "powerImg": [
       "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconPowers_reignOfDarkness.png"
     ]
+  },
+  {
+    "powerId": 28,
+    "powerName": "Virulent Bound",
+    "powerCode": "virulentbound",
+    "killerCode": "themastermind",
+    "description": "The Mastermind can barrel forwards, infecting Survivors with the Uroboros Virus or leaping over obstacles.\nVIRULENT BOUND\nThe Mastermind starts the Trial with 2 Tokens.\n\nSPECIAL ATTACK: BOUND ATTACK\nPress and hold the Power button to charge a Bound Attack.\nWhile charging, The Mastermind moves slightly slower, as he prepares his strike.\nWhen charged, press the Attack button to Bound.\n\nHitting a Survivor with a Bound Attack afflicts them with Infection.\nHitting a Survivor already afflicted with Infection with a Bound Attack will increase their Infection.\nCrashing into something during a Bound Attack will slam a nearby Survivor, causing damage; if not, the Survivor is thrown and loses a Health State if they are thrown into any solid object.\nSurvivors hit with a Bound Attack are unable to leave through the Exit Gate while The Mastermind's Power is on cool-down, being blocked by The Entity.\n\nSPECIAL ABILITY: BOUND VAULT\nIf The Mastermind hits a dropped Pallet or a Window while using Virulent Bound, he vaults over the obstacle.\n\nSPECIAL AFFLICTION: UROBOROS INFECTION\nThe Uroboros Infection builds over time.\nUpon reaching Critical Infection, the Survivor suffers from the Hindered Status Effect, reducing their Movement speed by -8 %.\n\nIf The Mastermind grabs and slams a Critically Infected Survivor while using Virulent Bound, he will automatically begin to carry them.\n\nSPECIAL INTERACTION: FIRST AID SPRAY\nAt the beginning of each Trial, several Supply Cases spawn, each containing a First Aid Spray\n\nWhen Infected, a Survivor can use the First Aid Spray on themselves or other Survivors to remove the Infection.",
+    "powerImg": [
+      "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/FulliconPowers_virulentBound.png"
+    ]
   }
 ]

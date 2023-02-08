@@ -871,5 +871,32 @@
     "killerName": "All",
     "description": "To capture your prey, you must first extinguish their hope.\nInstead of snuffing Boon Totems you destroy them.\nDestroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.\n\"Nothing is permanent here. Nothing except our endless perdition.\" — Unknown, Notebook",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_shatteredHope.png"
+  },
+  {
+    "id": 97,
+    "name": "Superior Anatomy",
+    "code": "superioranatomy",
+    "killerCode": "themastermind",
+    "killerName": "The Mastermind",
+    "description": "Decades of reserach have culminated in you: something faster, stronger, and more dangerous than any human.\nWhen a Survivor performs a rushed vault within 8 metres of you, Superior Anatomy activates:\nIncreases your Vaulting speed by 30/35/40 % the next time you vault a Window.\nSuperior Anatomy deactivates after vaulting.\nSuperior Anatomy has a cool-down of 30 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_superiorAnatomy.png"
+  },
+  {
+    "id": 98,
+    "name": "Awakened Awareness",
+    "code": "awakenedawareness",
+    "killerCode": "themastermind",
+    "killerName": "The Mastermind",
+    "description": "Your genes have been altered to heighten your senses in intense situations.While carrying a Survivor, the Auras of all other Survivors are revealed to you when they are within 16/18/20 metres of your location.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_awakenedAwareness.png"
+  },
+  {
+    "id": 99,
+    "name": "Terminus",
+    "code": "terminus",
+    "killerCode": "themastermind",
+    "killerName": "The Mastermind",
+    "description": "You are a brilliant tactician who prepares for every eventuality.\nOnce the Exit Gates are powered, Terminus activates:\nAll Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened.\nThis effect lingers for an additional 20/25/30 seconds after the Exit Gates are open.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_terminus.png"
   }
 ]
