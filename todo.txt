@@ -4,64 +4,78 @@ add random routes for dynamic sample amounts
 6.0.1 X
 6.0.2 X
 6.1.0
-    Barbecue and Chili 
-    Corrupt Intervention 
-    Coulrophobia 
-    Dark Devotion
-    Eruption
-    Hex: No One Escapes Death
-    Hex: Ruin
-    Jolt 
-    Knock Out 
-    Lethal Pursuer
-    Monstrous Shrine
-    Overcharge 
-    Pop Goes the Weasel 
-    Scourge Hook: Gift of Pain 
-    Scourge Hook: Pain Resonance 
-    Thanatophobia 
-    Tinkerer 
+    Perks:
+        Barbecue and Chili 
+        Corrupt Intervention 
+        Coulrophobia 
+        Dark Devotion
+        Eruption
+        Hex: No One Escapes Death
+        Hex: Ruin
+        Jolt 
+        Knock Out 
+        Lethal Pursuer
+        Monstrous Shrine
+        Overcharge 
+        Pop Goes the Weasel 
+        Scourge Hook: Gift of Pain 
+        Scourge Hook: Pain Resonance 
+        Thanatophobia 
+        Tinkerer 
 
-    Borrowed Time
-    Botany Knowledge 
-    Calm Spirit 
-    Dark Sense 
-    Dead Hard
-    Decisive Strike 
-    Déjà Vu 
-    Distortion 
-    Hope 
-    Inner Focus
-    Iron Will 
-    Lightweight 
-    Lucky Break
-    No One Left Behind
-    Off the Record 
-    Overzealous 
-    Pharmacy 
-    Saboteur 
-    Self-Care 
-    Sole Survivor
-    Spine Chill 
-    Tenacity 
-    We're Gonna Live Forever
+        Borrowed Time
+        Botany Knowledge 
+        Calm Spirit 
+        Dark Sense 
+        Dead Hard
+        Decisive Strike 
+        Déjà Vu 
+        Distortion 
+        Hope 
+        Inner Focus
+        Iron Will 
+        Lightweight 
+        Lucky Break
+        No One Left Behind
+        Off the Record 
+        Overzealous 
+        Pharmacy 
+        Saboteur 
+        Self-Care 
+        Sole Survivor
+        Spine Chill 
+        Tenacity 
+        We're Gonna Live Forever
 
 6.1.1 X
 6.1.2/6.1.3
-    Thanatophobia
-    Dead Man's Switch
-    Pain Resonance
+    Perks:
+        Thanatophobia
+        Dead Man's Switch
+        Pain Resonance
 
-    Mettle of Man
+        Mettle of Man
 
 6.2.0
     Killer: Albert Wesker
     Killer Power: Virulent Bound
     Albert Wesker Add-ons
-    Superior Anatomy
-    Awakened Awareness
-    Terminus
+    Perks:
+        Superior Anatomy
+        Awakened Awareness
+        Terminus
 
+    Survivors:
+        Ada Wong
+        Perks:
+            Wiretap
+            Reactive Healing
+            low Profile
+        
+
+    Item: First Aid Spray
+
+    Perk: Blast Mine
 
 6.2.1
 6.2.2

@@ -824,7 +824,7 @@
     "code": "blastmine",
     "survivorCode": "jillvalentine",
     "survivorName": "Jill Valentine",
-    "description": "When direct combat is not an option, you still find ways to strike back.\nAfter repairing Generators for a total of 66%, Blast Mine activates:\nAfter repairing a Generator for at least 3 seconds, press the Ability button to install a Trap, which stays active for 35/40/45 seconds.\nThe Aura of Trapped Generators are revealed in yellow to all Survivors.\nWhen the Killer damages a Trapped Generator, the Trap explodes, stunning them and blinding anyone nearby.\nBlast Mine deactivates after triggering successfully.\n\"You want S.T.A.R.S.? I'll give you S.T.A.R.S.!\" — Jill Valentine",
+    "description": "When direct combat is not an option, you still find ways to strike back.\nAfter repairing Generators for a total of 50 %, Blast Mine activates:\nAfter repairing a Generator for at least 3 seconds, press the Active Ability button to install a Trap, which stays active for 40/45/50 seconds.\nThe Aura of Trapped Generators are revealed in yellow to all Survivors.\nWhen the Killer damages a Trapped Generator, the Trap explodes, stunning them and blinding anyone nearby.\nBlast Mine deactivates after triggering successfully or if the timer runs out.\n\"You want S.T.A.R.S.? I'll give you S.T.A.R.S.!\" — Jill Valentine",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png"
   },
   {
@@ -961,5 +961,32 @@
     "survivorName": "Haddie Kaur",
     "description": "Fighting back against the Ravage motivates and inspires you.\nAfter cleansing a Totem, Overzealous activates:\nIncreases your Repair speed by 6/7/8 % if it was a Dull Totem.\nIncreases your Repair speed by 12/14/16 % if it was a Hex Totem.\nOverzealous deactivates when losing a Health State by any means.\n\"The Ravage senses us. We need to work fast.\" — Haddie Kaur, Ravages of the Abyss Episode 9",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png"
+  },
+  {
+    "id": 107,
+    "name": "Wiretap",
+    "code": "wiretap",
+    "survivorCode": "adawong",
+    "survivorName": "Ada Wong",
+    "description": "You know that the best way to stay one step ahead is to keep tabs on the competition.\nAfter repairing Generators for a total of 33 %, Wiretap activates:\nAfter repairing a Generator for 3 seconds, press the Active Ability button to install a Wiretap, which stays active for 60/70/80 seconds.\nThe Auras of trapped Generators are revealed to all Survivors in yellow.\nWhen the Killer comes within 14 metres of a trapped Generator, their Aura is revealed to all Survivors.\nDamaging the Generator destroys the Wiretap.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png"
+  },
+  {
+    "id": 108,
+    "name": "Reactive Healing",
+    "code": "reactivehealing",
+    "survivorCode": "adawong",
+    "survivorName": "Ada Wong",
+    "description": "The more the situation becomes compromised, the more determined you become to complete the operation.\nWhen another Survivor loses a Health State within 32 metres of your location while you are in the Injured State, you benefit from the following effect:\nGrants 40/45/50 % of your missing Healing Progression to your Health Bar.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png"
+  },
+  {
+    "id": 109,
+    "name": "Low Profile",
+    "code": "lowprofile",
+    "survivorCode": "adawong",
+    "survivorName": "Ada Wong",
+    "description": "You work best alone.\nWhen it is just you and your pursuer, you know how to disappear.\nWhenever you are the only Survivor in the Trial, who is not either in the Dying State, hooked, or already dead, Low Profile activates:\nSuppresses your Pools of Blood, Scratch Marks, and Grunts of Pain for 70/80/90 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png"
   }
 ]
