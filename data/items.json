@@ -40,6 +40,14 @@
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/FulliconItems_vhsTape.png"
   },
   {
+    "name": "First Aid Spray",
+    "code": "firstaidspray",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Limited Item.\nA medication that helps reverse the effects of an Uroboros infection.\n2 Tokens.\nCures Uroboros Infection.\nCan be found in Supply Cases.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconItems_firstAidSpray.png"
+  },
+  {
     "name": "Chinese Firecracker",
     "code": "chinesefirecracker",
     "type": "firecrackers",
