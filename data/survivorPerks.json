@@ -988,5 +988,32 @@
     "survivorName": "Ada Wong",
     "description": "You work best alone.\nWhen it is just you and your pursuer, you know how to disappear.\nWhenever you are the only Survivor in the Trial, who is not either in the Dying State, hooked, or already dead, Low Profile activates:\nSuppresses your Pools of Blood, Scratch Marks, and Grunts of Pain for 70/80/90 seconds.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png"
+  },
+  {
+    "id": 110,
+    "name": "Better than New",
+    "code": "betterthannew",
+    "survivorCode": "rebeccachambers",
+    "survivorName": "Rebecca Chambers",
+    "description": "You are an expert in combat medicine.\nPatients leave your care reinvigorated.\nUpon completing a Healing action on another Survivor, they benefit from the following effect until the next time they take damage:\nIncreases their Action speeds in Healing, Unlocking, Cleansing, and Blessing by 12/14/16 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png"
+  },
+  {
+    "id": 111,
+    "name": "Reassurance",
+    "code": "reassurance",
+    "survivorCode": "rebeccachambers",
+    "survivorName": "Rebecca Chambers",
+    "description": "Your presence helps allies focus, assuaging the panic associated with extreme conditions.\nWhen within 6 metres of a hooked Survivor, press the Active Ability button to halt their Sacrifice Process for the next 20/25/30 seconds.\nIf the hooked Survivor has already entered the Struggle Phase, its Skill Checks are paused for that duration.\nReassurance can only be used once per Survivor per Hook Instance.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png"
+  },
+  {
+    "id": 112,
+    "name": "Hyperfocus",
+    "code": "hyperfocus",
+    "survivorCode": "rebeccachambers",
+    "survivorName": "Rebecca Chambers",
+    "description": "You throw yourself entirely into your tasks and find ways to be more efficient than anyone else.\nAfter hitting a Great Skill Check while repairing or healing, Hyperfocus gains 1 Token, up to a maximum of 6 Tokens\nFor each Token, the following stack-able effects are applied:\nIncreases the Skill Check Trigger odds by +4 % per Token.\nIncreases the Skill Check Rotation speed by +4 % per Token.\nIncreases the Skill Check Bonus progression by 10/20/30 % of its base value per Token.\nHyperfocus loses all Tokens when succeeding a Good Skill Check, failing a Skill Check, or if the action is interrupted by any means.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png"
   }
 ]

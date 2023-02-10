@@ -614,5 +614,24 @@
       "portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/S32_charSelect_portrait.png",
       "store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/S32_storeBackground.png"
     }
+  },
+  {
+    "number": 32,
+    "name": "Rebecca Chambers",
+    "code": "rebeccachambers",
+    "gender": "female",
+    "licensed": true,
+    "difficulty": "N/A",
+    "role": "Gifted Medic and Squad Member",
+    "nationality": "American",
+    "dlc": "Chapter XXV: Resident Evil™: PROJECT W",
+    "perks_names": ["Better than New", "Reassurance", "Hyperfocus"],
+    "perks_ids": [110, 111, 112],
+    "overview": "Rebecca Chambers is a gifted medic and squad member whose presence soothes those around her.\nHer personal Perks, Better than New, Reassurance, and Hyperfocus, allow her to give her team mates speed boosts, give temporary relief to struggling allies, and complete Skill Checks at increased speed.",
+    "backstory": "A child prodigy, Rebecca Chambers graduated from college at age 18. As a Rookie Police Officer, she was the youngest member of the Special Tactics and Rescue Service assigned as a field medic with Bravo Team. Dispatched by S.T.A.R.S. to the Arklay Research Facility, her squad investigated a series of grisly murders. While exploring an abandoned train, she discovered undead monsters and mutated animals. She escaped to an even more horrifying place, an old underground Umbrella Corporation facility filled with shocking abominations. Desperate to find the other members of Bravo Team, she followed their disembodied voices into a mysterious, black fog that seemed to appear from nowhere. As Rebecca pushed through the heaving fog, she suddenly heard menacing footfalls behind her. Instinctively, she reached for her sidearm, but her holster was empty. Her weapons were gone. As she turned, she heard a guttural roar and quickly evaded a massive club-like weapon. Clambering to her feet, she rushed toward a flickering light in the darkness.",
+    "imgs": {
+      "portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/S33_charSelect_portrait.png",
+      "store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/be/S33_storeBackground.png"
+    }
   }
 ]
