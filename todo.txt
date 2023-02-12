@@ -57,13 +57,14 @@ add random routes for dynamic sample amounts
         Mettle of Man
 
 6.2.0
-    Killer: Albert Wesker
-    Killer Power: Virulent Bound
-    Albert Wesker Add-ons
-    Perks:
-        Superior Anatomy
-        Awakened Awareness
-        Terminus
+    Killer
+        Albert Wesker
+            Power: Virulent Bound
+        Albert Wesker Add-ons
+        Perks:
+            Superior Anatomy
+            Awakened Awareness
+            Terminus
 
     Survivors:
         Ada Wong
@@ -79,17 +80,30 @@ add random routes for dynamic sample amounts
             Hyperfocus
         
 
-    Item: First Aid Spray
+    Item:
+        First Aid Spray
 
-    Perk: Blast Mine
+    Perks: 
+        Blast Mine
 
 6.2.1 X
 6.2.2
-    Bite the Bullet
+    Perks:
+        Bite the Bullet
 6.3.0 X
 6.3.1 X
 6.3.2 X
 6.4.0
+    Killer:
+        Tarhos Kovács
+            Power: Guardia Compagnia
+        Tarhos Kovács Add-ons
+         Perks:
+            Nowhere to Hide
+            Hex: Face the Darkness
+            Hubris
+
+        
 6.4.1
 6.4.2
 6.4.3

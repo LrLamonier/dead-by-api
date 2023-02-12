@@ -898,5 +898,32 @@
     "killerName": "The Mastermind",
     "description": "You are a brilliant tactician who prepares for every eventuality.\nOnce the Exit Gates are powered, Terminus activates:\nAll Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened.\nThis effect lingers for an additional 20/25/30 seconds after the Exit Gates are open.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_terminus.png"
+  },
+  {
+    "id": 100,
+    "name": "Nowhere to Hide",
+    "code": "nowheretohide",
+    "killerCode": "theknight",
+    "killerName": "The Knight",
+    "description": "The machinations of the weak and craven draw your ire.\nYour anger forces Survivors to reveal themselves.\nPerforming the Damage Generator Action on a Generator triggers Nowhere to Hide:\nThe Auras of all Survivors within 24 metres of your position are revealed to you for 3/4/5 seconds.\n\"Out with you, cowards! Show yourselves!\" — Tarhos Kovács",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/IconPerks_nowhereToHide.png"
+  },
+  {
+    "id": 101,
+    "name": "Hex: Face the Darkness",
+    "code": "hexfacethedarkness",
+    "killerCode": "theknight",
+    "killerName": "The Knight",
+    "description": "You make an example of one of your victims, forcing their allies to become awed by your power.\nOnce you injure a Survivor by any means, if there is still a Dull Totem remaining on the Map, Hex: Face the Darkness activates and lights it, cursing that Survivor:\nAll other Survivors will scream every 35/30/25 seconds if they are outside of the Killer's Terror Radius, revealing their Auras for 2 seconds each time.\nHex: Face the Darkness deactives when the Cursed Survivor either enters the Dying State or becomes Healthy, extinguishing its Totem.\nHex: Face the Darkness is disabled for the remainder of the Trial if Survivors manage to cleanse its Hex Totem.\n\"I shall make an example of one. These mewling worms will never know peace.\" — Tarhos Kovács",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/IconPerks_hexFaceTheDarkness.png"
+  },
+  {
+    "id": 102,
+    "name": "Hubris",
+    "code": "hubris",
+    "killerCode": "theknight",
+    "killerName": "The Knight",
+    "description": "You show no mercy, especially to those foolish enough to resist.\nWhenever you are stunned by a Survivor, that Survivor suffers from the Exposed Status Effect for 10/15/20 seconds.\nHubris has a cool-down of 20 seconds.\n\"You have made a grave mistake, standing in opposition to me this day.\" — Tarhos Kovács",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_hubris.png"
   }
 ]

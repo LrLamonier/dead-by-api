@@ -5798,5 +5798,215 @@
     "rarity": "Ultra Rare",
     "description": "The perfect bio-weapon.\nDecades of research have led to this.\nSurvivors start the Trial Infected with Uroboros.\nSurvivors suffer from the Exposed Status Effect for 30 seconds when becoming Critically Infected.\n\"The entire world will be infected. A new Genesis is at hand and I will be the creator!\" — Albert Wesker",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/FulliconAddon_iridescentUroborosVial.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Tattered Tabard",
+    "addonCode": "tatteredtabard",
+    "rarity": "Common",
+    "description": "Cloaked in heavy fabrics, neither human nor nature could stop them once they had their target.\nIncreases the Patrol duration of Guards by +6 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconAddon_tatteredTabard.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Pillaged Mead",
+    "addonCode": "pillagedmead",
+    "rarity": "Common",
+    "description": "Drinks taken from their victims tasted sweet, but such frivolities were often short-lived.\nReduces the Break or Damage Action duration of Guards by -25 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/FulliconAddon_pillagedMead.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Map of the Realm",
+    "addonCode": "mapoftherealm",
+    "rarity": "Common",
+    "description": "These unique leather maps were not easy to come by, but when they could not be purchased, they could be taken by force.\nIncreases the Vision range of Guards on Patrol by +4 metres.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_mapOfTheRealm.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Gritty Lump",
+    "addonCode": "grittylump",
+    "rarity": "Common",
+    "description": "A rock-hard, dense loaf filled their stomachs on most days, giving them the energy to commit truly heinous acts.\nIncreases the Movement speed of Guards on Patrol by +9 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconAddon_grittyLump.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Treated Blade",
+    "addonCode": "treatedblade",
+    "rarity": "Uncommon",
+    "description": "Durkos Malecek, The Assassin, stuck to the shadows, and was an efficient slaughterer.\nThe Assassin appears twice in a row while cycling through Guardia Compagnia.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/87/FulliconAddon_treatedBlade.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Dried Horsemeat",
+    "addonCode": "driedhorsemeat",
+    "rarity": "Uncommon",
+    "description": "Long campaigns often required restocking, and the steeds of fallen enemies were as good as any farm-fresh ration.\nIncreases the Hunt duration of Guards by +4 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_driedHorsemeat.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Cold Steel Manacles",
+    "addonCode": "coldsteelmanacles",
+    "rarity": "Uncommon",
+    "description": "Alejandro Santiago, The Jailer, apprenticed as an armourer, and showed no remorse.\nThe Jailer appears twice in a row while cycling through Guardia Compagnia.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f4/FulliconAddon_coldSteelManacles.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Call To Arms",
+    "addonCode": "calltoarms",
+    "rarity": "Uncommon",
+    "description": "Posted across many towns, lords desperate to protect their riches posted for able-bodied mercenaries.\nNone survived.\nIncreases the maximum Patrol Path length by +10 metres.\nIncreases the Movement speed of The Knight while drawing the Patrol Path by +25 %.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconAddon_callToArms.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Battle Axe Head",
+    "addonCode": "battleaxehead",
+    "rarity": "Uncommon",
+    "description": "Sander Rault was a tower of a man, terrifying in form and demeanour.\nThe Carnifex appears twice in a row while cycling through Guardia Compagnia.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/FulliconAddon_battleAxeHead.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Town Watch's Torch",
+    "addonCode": "townwatchstorch",
+    "rarity": "Rare",
+    "description": "Upon breaching a village, the first thing they would extinguish was the torches, and with them, hope.\nIf Guards fail to damage Survivors during a Hunt a total of three times, The Knight is granted the Undetectable Status Effect for 25 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconAddon_townWatchsTorch.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Ironworker's Tongs",
+    "addonCode": "ironworkerstongs",
+    "rarity": "Rare",
+    "description": "Vital for repairs between battles and a horrifying, gauging, tearing improvisational weapon.\nIf a Guard fails to damage a Survivor during a Hunt, the Survivor will suffer from the Oblivious Status Effect for the next 20 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/30/FulliconAddon_ironworkersTongs.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Grim Iron Mask",
+    "addonCode": "grimironmask",
+    "rarity": "Rare",
+    "description": "No method of torture was too base for Guardia Compagnia.\nPain and humiliation went hand-in-hand.\nWhen a Guard detects a Survivor during a Patrol, the Survivor will suffer from the Blindness Status Effect for the next 60 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/FulliconAddon_grimIronMask.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Chain Mail Fragment",
+    "addonCode": "chainmailfragment",
+    "rarity": "Rare",
+    "description": "Downtime was spent repairing their armour, to avoid being on the receiving end of a fatal blow.\nGuards inflict the Haemorrhage Status Effect when damaging a Survivor.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/FulliconAddon_chainMailFragment.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Broken Hilt",
+    "addonCode": "brokenhilt",
+    "rarity": "Rare",
+    "description": "A fresh weapon is clean, even surgical; an attack with a broken one is malicious and desperate.\nGuards inflict the Mangled Status Effect when damaging a Survivor.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/FulliconAddon_brokenHilt.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "lightweight Greaves",
+    "addonCode": "lightweightgreaves",
+    "rarity": "Very Rare",
+    "description": "Sometimes he wore lighter armour, letting him move faster; he knew nothing could stop him anyway.\nAfter summoning The Jailer, Lightweight Greaves increases the Movement speed of The Knight by +10 % for the next 6 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_lightweightGreaves.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Healing Poultice",
+    "addonCode": "healingpoultice",
+    "rarity": "Very Rare",
+    "description": "Their reputation was so large, so horrible, that the mere knowledge that they were coming was enough to bring people to their knees.\nAfter summoning The Assassin , all Survivors within 24 metres of The Assassin's spawn location scream and reveal their location for 5 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/FulliconAddon_healingPoultice.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Flint and Steel",
+    "addonCode": "flintandsteel",
+    "rarity": "Very Rare",
+    "description": "Attacks at night were not uncommon.\nFear was often their greatest ally.\nAfter summoning The Carnifex , the Auras of all Survivors within 24 metres of any unbroken dropped Pallets are revealed to The Knight for 5 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconAddon_flintAndSteel.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Flint and Steel",
+    "addonCode": "flintandsteel",
+    "rarity": "Very Rare",
+    "description": "Attacks at night were not uncommon.\nFear was often their greatest ally.\nAfter summoning The Carnifex , the Auras of all Survivors within 24 metres of any unbroken dropped Pallets are revealed to The Knight for 5 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconAddon_flintAndSteel.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Blacksmith's Hammer",
+    "addonCode": "blacksmithshammer",
+    "rarity": "Very Rare",
+    "description": "In their hands, everything was a weapon.\nIf a Survivor escapes a Guard Hunt by any means other than grabbing the Standard, they will suffer from a -3 % Hindered Status Effect and the Exhausted Status Effect for 15 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4d/FulliconAddon_blacksmithsHammer.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Knight's Contract",
+    "addonCode": "knightscontract",
+    "rarity": "Ultra Rare",
+    "description": "The original document contracting Tarhos to Vittorio's employ.\nThe laws of man could not stand up, though, to natural law.\nEvery fourth Guard summoned causes Survivors within 12 metres of that Guard to suffer from the ExposedIconStatusEffects exposed.png Status Effect for 8 seconds.\n\"I fear he has left me here to die.\" — Vittorio Toscano",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/FulliconAddon_knightsContract.png"
+  },
+  {
+    "killerId": 29,
+    "killerCode": "theknight",
+    "powerCode": "guardiacompagnia",
+    "name": "Iridescent Company Banner",
+    "addonCode": "iridescentcompanybanner",
+    "rarity": "Ultra Rare",
+    "description": "Where this banner was raised, those who called themselves 'civilised' ran and hid, because for all their codes and laws, they had nothing resembling actual strength.\nDrawing a Patrol Path through Windows blocks them for all Survivors for 15 seconds after summoning a Guard.\nThe Exit Gates are blocked by Entity Spikes for the Hunted Survivor.\nAll Windows vaulted by the Hunted Survivor are blocked for all Survivors for the remainder of the Hunt.\n\"They huddle in their villages like parasites! They have lost the drive for power.\" — Tarhos Kovács",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/FulliconAddon_iridescentCompanyBanner.png"
   }
 ]
