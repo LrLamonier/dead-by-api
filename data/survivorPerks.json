@@ -1015,5 +1015,41 @@
     "survivorName": "Rebecca Chambers",
     "description": "You throw yourself entirely into your tasks and find ways to be more efficient than anyone else.\nAfter hitting a Great Skill Check while repairing or healing, Hyperfocus gains 1 Token, up to a maximum of 6 Tokens\nFor each Token, the following stack-able effects are applied:\nIncreases the Skill Check Trigger odds by +4 % per Token.\nIncreases the Skill Check Rotation speed by +4 % per Token.\nIncreases the Skill Check Bonus progression by 10/20/30 % of its base value per Token.\nHyperfocus loses all Tokens when succeeding a Good Skill Check, failing a Skill Check, or if the action is interrupted by any means.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png"
+  },
+  {
+    "id": 113,
+    "name": "Fogwise",
+    "code": "fogwise",
+    "survivorCode": "vittoriotoscano",
+    "survivorName": "Vittorio Toscano",
+    "description": "In your countless years in The Fog, you have seen it all, and when you are focused, you can remember most of it too.\nSucceeding a Great Skill CheckIconHelp skillChecks.png while repairing a GeneratorIconHelpLoading generators.png reveals the Killer's AuraIconHelp auras.png to you for 4/5/6 seconds.\n\"I have seen great cruelty... and I have also seen another way.\" — Vittorio Toscano",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png"
+  },
+  {
+    "id": 113,
+    "name": "Potential Energy",
+    "code": "potentialenergy",
+    "survivorCode": "vittoriotoscano",
+    "survivorName": "Vittorio Toscano",
+    "description": "Your arcane abilities have adapted to The Entity's Realm after centuries of wandering, granting you unprecedented control over its many devices.\nAfter repairing Generators for a total of 12/10/8 uninterrupted seconds , press the Active Ability button to activate Potential Energy:\nContinuing to repair the Generator will charge Potential Energy instead of progressing the Generator.\nConverts 1.5 % of Repair progression into 1 Token, up to a maximum of 20 Tokens.\nMissing Skill Checks results in losing some Tokens.\nWhile Potential Energy has at least 1 Token, press the Active Ability button while repairing a Generator to instantly progress it by 1 % per Token, consuming all remaining Tokens and deactivating Potential Energy.\nPotential Energy loses all Tokens and deactivates upon losing a Health State.\n\"When you look a layer deeper, you realise... everything is connected.\" — Vittorio Toscano",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png"
+  },
+  {
+    "id": 114,
+    "name": "Fogwise",
+    "code": "fogwise",
+    "survivorCode": "vittoriotoscano",
+    "survivorName": "Vittorio Toscano",
+    "description": "In your countless years in The Fog, you have seen it all, and when you are focused, you can remember most of it too.\nSucceeding a Great Skill Check while repairing a Generator reveals the Killer's Aura to you for 4/5/6 seconds.\n\"I have seen great cruelty... and I have also seen another way.\" — Vittorio Toscano",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png"
+  },
+  {
+    "id": 115,
+    "name": "Quick Gambit",
+    "code": "quickgambit",
+    "survivorCode": "vittoriotoscano",
+    "survivorName": "Vittorio Toscano",
+    "description": "When you have the Killer's attention, you know how to keep it; others can be confident they will not be interrupted any time soon.\nIncreases the Repair speed of any other Survivor by 6/7/8 %, while you are being chased within 24 metres of the Generator they are currently repairing.\n\"We need not resort to violence. And I shall prove it.\" — Vittorio Toscano",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png"
   }
 ]

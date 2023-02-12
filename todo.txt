@@ -103,7 +103,13 @@ add random routes for dynamic sample amounts
             Hex: Face the Darkness
             Hubris
 
-        
+    Survivor
+        Vittorio Toscano
+    Perks: 
+        Potencial Energy
+        Fogwise
+        Quick Gambit
+
 6.4.1
 6.4.2
 6.4.3
