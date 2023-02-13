@@ -111,8 +111,25 @@ add random routes for dynamic sample amounts
         Quick Gambit
 
 6.4.1
-6.4.2
-6.4.3
-6.5.0
-6.5.1
+    Perks:
+        Repressed Alliance
+
+6.4.2 X
+6.4.3 X
+6.5.0 
+    Killer update: Nurse
+    Perks:
+        Catatonic Boy’s Treasure
+        Dark Cincture
+        Heavy Panting
+        Ataxic Respiration  
+        Fragile Wheeze  
+        Campbell's Last Breath  
+        Kavanaugh's Last Breath  
+        Jenner's Last Breath:  
+        Torn Bookmark
+        Matchbox
+
+6.5.1 X
+6.5.2 X
 

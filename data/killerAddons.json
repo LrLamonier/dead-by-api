@@ -666,7 +666,7 @@
     "name": "Dark Cincture",
     "addonCode": "darkcincture",
     "rarity": "Uncommon",
-    "description": "A black rope used as a belt in times of mourning.\nTaken from Father Campbell's body.\nReduces the Power Token Recharge time by 0.4 seconds per Token.",
+    "description": "A black rope used as a belt in times of mourning.\nTaken from Father Campbell's body.\nIncreases the Movement speed of The Nurse during the Chain Blink Window and before succumbing to Fatigue by +30 %.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconAddon_darkCincture.png"
   },
   {
@@ -676,7 +676,7 @@
     "name": "Catatonic Boy's Treasure",
     "addonCode": "catatonicboystreasure",
     "rarity": "Uncommon",
-    "description": "A pine-cone which unexpectedly calmed a patient's repetitive movement.\nTaken from the \"Catatonic Boy's\" body.\nReduces the additional Fatigue duration from Chain Blinks by 1 second.",
+    "description": "A pine-cone which unexpectedly calmed a patient's repetitive movement.\nTaken from the \"Catatonic Boy's\" body.\nReduces the additional Fatigue duration from Chain Blinks by -65 %.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_catatonicBoysTreasure.png"
   },
   {
@@ -706,7 +706,7 @@
     "name": "Heavy Panting",
     "addonCode": "heavypanting",
     "rarity": "Rare",
-    "description": "The slow and bulging breath stolen from the \"Fat Orderly\" Kavanagh.\nDimly oscillates at The Nurse's touch.\nIncreases the maximum range of the Blink by 4 meters.\nIncreases the Charge time of the Blink by 20%.",
+    "description": "The slow and bulging breath stolen from the \"Fat Orderly\" Kavanagh.\nDimly oscillates at The Nurse's touch.\nExtends the duration of a Blink Attack to 130 %, which increases its reach +30 %.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ab/FulliconAddon_heavyPanting.png"
   },
   {
@@ -716,7 +716,7 @@
     "name": "Fragile Wheeze",
     "addonCode": "fragilewheeze",
     "rarity": "Rare",
-    "description": "The whistling and rattling breath stolen from Father Campbell.\nSilently curves and bends at The Nurse's touch.\nReduces the Power Token Recharge time by 0.6 seconds per Token.",
+    "description": "The whistling and rattling breath stolen from Father Campbell.\nSilently curves and bends at The Nurse's touch.\nSurvivors hit with a Blink Attack suffer from the Mangled Status Effect.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/FulliconAddon_fragileWheeze.png"
   },
   {
@@ -726,7 +726,7 @@
     "name": "Ataxic Respiration",
     "addonCode": "ataxicrespiration",
     "rarity": "Rare",
-    "description": "The irregular and deteriorating breath collected from the \"Catatonic Boy\".\nNormally stable and calm, becomes incredibly agitated at The Nurse's touch.\nReduces Fatigue duration from Blinks by 0.25 seconds.",
+    "description": "The irregular and deteriorating breath collected from the \"Catatonic Boy\".\nNormally stable and calm, becomes incredibly agitated at The Nurse's touch.Reduces Fatigue duration from Blinks by -7 %.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_ataxicRespiration.png"
   },
   {
@@ -746,7 +746,7 @@
     "name": "Kavanagh's Last Breath",
     "addonCode": "kavanaghslastbreath",
     "rarity": "Very Rare",
-    "description": "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh, the \"Fat Orderly\".\nIn the hands of The Nurse, it wobbles with intensity.\nIncreases the maximum range of the Blink by 6 meters.\nIncreases the Charge time of the Blink by 30%.",
+    "description": "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh, the \"Fat Orderly\".\nIn the hands of The Nurse, it wobbles with intensity.\nWhen succumbing to Fatigue, all Survivors within 8 metres of The Nurse suffer from the Blindness Status Effect for 60 seconds.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/FulliconAddon_kavanaghsLastBreath.png"
   },
   {
@@ -766,7 +766,7 @@
     "name": "Campbell's Last Breath",
     "addonCode": "campbellslastbreath",
     "rarity": "Very Rare",
-    "description": "A powerful last breath snatched from Crotus Prenn Asylum Priest Father Campbell.\nIn the hand of The Nurse, it crackles with intensity.\nImmediately Blink at half-charge in the direction The Nurse is facing after reappearing from a fully charged Blink.",
+    "description": "A powerful last breath snatched from Crotus Prenn Asylum Priest Father Campbell.\nIn the hand of The Nurse, it crackles with intensity.\nAfter reappearing from a fully charged Blink, if The Nurse has 1 Charge left, she will immediately Blink at full charge in the direction she is facing.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/FulliconAddon_campbellsLastBreath.png"
   },
   {
@@ -776,7 +776,7 @@
     "name": "\"Bad Man's\" Last Breath",
     "addonCode": "badmanslastbreath",
     "rarity": "Very Rare",
-    "description": "A powerful last breath snatched from Crotus Prenn Asylum Patient known as the \"Bad Man\".\nIn the hands of The Nurse, it jolts with intensity.\nHitting a Survivor with a Blink Attack grants the Undetectable Status Effect for 16 seconds.\nThis effect has a cool-down of 60 seconds.",
+    "description": "A powerful last breath snatched from Crotus Prenn Asylum Patient known as the \"Bad Man\".\nIn the hands of The Nurse, it jolts with intensity.\nHitting a Survivor with a Blink Attack grants the Undetectable Status Effect for 25 seconds.\n\"Bad Man's\" Last Breath has a cool-down of 45 seconds.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconAddon_badMansLastBreath.png"
   },
   {
@@ -786,7 +786,7 @@
     "name": "Torn Bookmark",
     "addonCode": "tornbookmark",
     "rarity": "Ultra Rare",
-    "description": "A white and pristine piece of ribbon once attached to a sacred book.\nServes as the symbol of a dispute.\nIncreases available Power Tokens by 1 Token.\nIncreases the Power Recharge time by 50%.",
+    "description": "A white and pristine piece of ribbon once attached to a sacred book.\nServes as the symbol of a dispute.\nIncreases available Power Tokens by +1 Token.\nExtends the Power Recharge duration to 130 %.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_tornBookmark.png"
   },
   {
@@ -796,7 +796,7 @@
     "name": "Matchbox",
     "addonCode": "matchbox",
     "rarity": "Ultra Rare",
-    "description": "A matchbox containing an odd collection of mismatched buttons.\nServes as a reminder of a horrible place.\nIncreases the Movement speed of The Nurse to 4.2 m/s for the entire Trial.\nReduces available Power Tokens by 1 Token.",
+    "description": "A matchbox containing an odd collection of mismatched buttons.\nServes as a reminder of a horrible place.\nIncreases the Movement speed of The Nurse to 4.4 m/s for the entire Trial.\nRestricts the Power of The Nurse to 1 Blink.\nThis cannot be altered by other Add-ons.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_matchbox.png"
   },
   {
@@ -1186,7 +1186,7 @@
     "name": "Waterlogged Shoe",
     "addonCode": "waterloggedshoe",
     "rarity": "Ultra Rare",
-    "description": "A child's shoe, long lost in the bog's waters.\nThe trapped life essence within unlocks tremendous potential in The Hag's power.\nIncreases the Movement speed of The Hag by 4.5% to 4.6 m/s.\nSurvivors suffer from a Hindered IconStatusEffects hindered.png Status Effect while inside a Phantasm Trap's Trigger range, reducing their Movement speed by 9%.\nDisables the ability of The Hag to teleport to triggered Phantasm Traps.\nWaterlogged Shoe trumps all other Add-ons.",
+    "description": "A child's shoe, long lost in the bog's waters.\nThe trapped life essence within unlocks tremendous potential in The Hag's power.\nIncreases the Movement speed of The Hag by 4.5% to 4.6 m/s.\nSurvivors suffer from a Hindered Status Effect while inside a Phantasm Trap's Trigger range, reducing their Movement speed by 9%.\nDisables the ability of The Hag to teleport to triggered Phantasm Traps.\nWaterlogged Shoe trumps all other Add-ons.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_waterloggedShoe.png"
   },
   {

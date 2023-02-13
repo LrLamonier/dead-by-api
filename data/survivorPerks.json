@@ -383,7 +383,7 @@
     "code": "objectofobsession",
     "survivorCode": "lauriestrode",
     "survivorName": "Laurie Strode",
-    "description": "A supernatural bond links you to the Killer.\nWhenever the Killer reads your AuraIconHelp auras.png and for the same duration as they do so, Object of Obsession activates:\nThe Killer's Aura is revealed to you.\nIncreases your Action speeds in Repairing, Healing, and Cleansing by 2/4/6%.\nIf you are the Obsession, your Aura is automatically revealed to the Killer for 3 seconds every 30 seconds.\nIncreases the odds of becoming the Killer's initial Obsession by 100%.\nThe Killer can only be obsessed with one Survivor at a time.\n\"He was watching me!\" — Laurie Strode",
+    "description": "A supernatural bond links you to the Killer.\nWhenever the Killer reads your Aura and for the same duration as they do so, Object of Obsession activates:\nThe Killer's Aura is revealed to you.\nIncreases your Action speeds in Repairing, Healing, and Cleansing by 2/4/6%.\nIf you are the Obsession, your Aura is automatically revealed to the Killer for 3 seconds every 30 seconds.\nIncreases the odds of becoming the Killer's initial Obsession by 100%.\nThe Killer can only be obsessed with one Survivor at a time.\n\"He was watching me!\" — Laurie Strode",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png"
   },
   {
@@ -716,7 +716,7 @@
     "code": "repressedalliance",
     "survivorCode": "cherylmason",
     "survivorName": "Cheryl Mason",
-    "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 30 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.",
+    "description": "You are accustomed to being hunted by malicious forces, and you have begun using it to your advantage.\nAfter repairing Generators for a total of 55/50/45 seconds, Repressed Alliance activates:\nPress the Active Ability button to call upon The Entity to block the Generator you are currently repairing for 30 seconds, after which Repressed Alliance deactivates.\nThe Aura of the blocked Generator is revealed to all Survivors in white.\nRepressed Alliance can only be triggered when no other Survivors are repairing your Generator.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png"
   },
   {
@@ -1016,15 +1016,7 @@
     "description": "You throw yourself entirely into your tasks and find ways to be more efficient than anyone else.\nAfter hitting a Great Skill Check while repairing or healing, Hyperfocus gains 1 Token, up to a maximum of 6 Tokens\nFor each Token, the following stack-able effects are applied:\nIncreases the Skill Check Trigger odds by +4 % per Token.\nIncreases the Skill Check Rotation speed by +4 % per Token.\nIncreases the Skill Check Bonus progression by 10/20/30 % of its base value per Token.\nHyperfocus loses all Tokens when succeeding a Good Skill Check, failing a Skill Check, or if the action is interrupted by any means.",
     "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png"
   },
-  {
-    "id": 113,
-    "name": "Fogwise",
-    "code": "fogwise",
-    "survivorCode": "vittoriotoscano",
-    "survivorName": "Vittorio Toscano",
-    "description": "In your countless years in The Fog, you have seen it all, and when you are focused, you can remember most of it too.\nSucceeding a Great Skill CheckIconHelp skillChecks.png while repairing a GeneratorIconHelpLoading generators.png reveals the Killer's AuraIconHelp auras.png to you for 4/5/6 seconds.\n\"I have seen great cruelty... and I have also seen another way.\" — Vittorio Toscano",
-    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png"
-  },
+
   {
     "id": 113,
     "name": "Potential Energy",
