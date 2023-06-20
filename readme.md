@@ -1,3 +1,12 @@
+# 🚨🚨 HUGE CHANGES INCOMING!!!
+⚠ The Dead by API is undergoing a rework larger than Dead Hard's!
+
+I am rebuilding the whole thing in Next.js. The database models and schema will not be affected, so all the data will work for both versions of the API. Field choices, code system, and all other functionalities also will work exactly the same. The strucure of the routes was changed in order to better group together related data.
+
+The new stuff will drop on a new repository, which will be linked here. This version of the API will no longer be developed, but the repo will remain open, so if you catch a bug or a typo, open a pull request and we'll get it fixed! Also, all of the data will be placed in a repo of its own in order to decouple the database from the API. The repo will contain our little script friend to upload everything.
+
+And, as usual, make this code your own. Build on top of it, break it, improve it, have fun! And don't forget to send me a message to show what you've done, it'll make my day!! 😄
+
 # Dead by API - A Dead by Daylight data API
 
 This API features 30 survivors, 27 killers, 197 perks, 588 add-ons, 32 items, and 26 endpoints! Updated for patch 5.7.1 (May 3rd, 2022).
