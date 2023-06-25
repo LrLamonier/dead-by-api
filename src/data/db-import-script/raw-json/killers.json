@@ -1,0 +1,862 @@
+[
+	{
+		"number": 0,
+		"code": "thetrapper",
+		"name": "The Trapper",
+		"fullName": "Evan MacMillan",
+		"nationality": "American",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Base game",
+		"difficulty": "Easy",
+		"realm": "The MacMillan Estate",
+		"powerAttackType": "Special Attack (Bear Trap Catch)",
+		"weapon": "The Cleaver",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Unnerving Presence", "Brutal Strength", "Agitation"],
+		"perks_ids": [15, 16, 17],
+		"power": {
+			"powerId": 0,
+			"powerName": "Bear Trap",
+			"powerCode": "beartrap"
+		},
+		"overview": "The Trapper is an area-control Killer, able to apply pressure across the Map by placing deadly Bear Traps for Survivors to step into.\nHis personal Perks, Unnerving Presence, Brutal Strength, and Agitation, allow him to chase and carry Survivors more effectively.\nHe is focused on physical attributes and making use of his strength and the Survivors' fear.",
+		"backstory": "Evan MacMillan idolised his father. It wasn't just that he was heir to a great fortune, it was the way he ran the estate. Raised under his firm hand, Evan had taken to running the workforce with an iron hand. Production was always high and the MacMillan Estate prospered under father and son.\nAs Archie MacMillan's mental health slowly disintegrated, Evan protected him from the herd who wanted a piece of the fortune. No matter what his father asked of him, Evan would do.\nWhen Archie MacMillan finally snapped, Evan became his enforcer in what would become known as the worst mass murder in modern history. They never proved that Evan lead over a hundred men into those dark tunnels before detonating the explosives and sealing them to their fate. The tale of the MacMillan Estate is a tale of wealth and power gone very wrong.\nHow many victims fell to the hands of father and son is unknown. No record is ever made of what became of Evan MacMillan. His father is another unsolved puzzle, found trapped in the locked basement of his own warehouse - starved and abandoned.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9f/K01_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/AK_TR_charPreview.png"
+		}
+	},
+	{
+		"number": 1,
+		"code": "thewraith",
+		"name": "The Wraith",
+		"fullName": "Philip Ojomo",
+		"nationality": "Nigerian",
+		"gender": "Male",
+		"licensed": false,
+		"dlc": "Base game",
+		"difficulty": "Easy",
+		"realm": "Autohaven Wreckers",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Azarov's Skull",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Predator", "Bloodhound", "Shadowborn"],
+		"perks_ids": [18, 19, 20],
+		"power": {
+			"powerId": 1,
+			"powerName": "Wailing Bell",
+			"powerCode": "wailingbell"
+		},
+		"overview": "The Wraith is a stealth Killer, able to cloak and uncloak at the ringing of his Wailing Bell.\nHis personal Perks, Predator, Bloodhound, and Shadowborn, give him extra abilities to track and locate Survivors, making him a very efficient Hunter.\nHe is all about tracking and hunting Survivors, making it easier to catch and kill them.",
+		"backstory": "Philip Ojomo came to this country without anything than hope for a new beginning. He was happy as he got offered a job at Autohaven Wreckers. A small scrap yard where bribed cops turned a blind eye for the somewhat shady business that took place.\nOjomo didn't care. He had seen criminal activity up close in his homeland and as long as he didn't get involved, he let things be. He just fixed cars and handled the crusher. Something he did really well. A car went in and a small, metallic cube came out.\nIt was not until one gloomy day that he, just by accident, saw some blood coming from one of the un-crushed cars. As he opened the trunk he found a young man, gagged and with tied hands with panic filled eyes. Ojomo freed the man who managed to run ten feet before Ojomo's boss stopped him and slit his throat. As Ojomo demanded answers he got explained to him that he'd been nothing more than a simple executioner as more or less every car had a soul in them as this was a \"service\" the scrap yard provided to certain \"clients\".\nOjomo snapped and went ballistic. He threw his boss in the crusher and let it slowly compress, as the head stuck out, Ojomo grabbed it and pulled head and spine out of the body. Then he left and was never seen again.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/K02_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/AK_WR_charPreview.png"
+		}
+	},
+	{
+		"number": 2,
+		"code": "thehillbilly",
+		"name": "The Hillbilly",
+		"fullName": "Max Thompson Jr.",
+		"nationality": "American",
+		"gender": "Male",
+		"licensed": false,
+		"dlc": "Base game",
+		"difficulty": "Moderate",
+		"realm": "Coldwind Farm",
+		"powerAttackType": "Special Attack (Chainsaw)",
+		"weapon": "The Hammer",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Enduring", "Lightborn", "Tinkerer"],
+		"perks_ids": [21, 22, 23],
+		"power": {
+			"powerId": 2,
+			"powerName": "Chainsaw",
+			"powerCode": "chainsaw"
+		},
+		"overview": "The Hillbilly is a high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his Chainsaw.\nHis personal Perks, Enduring, Lightborn, and Tinkerer, allow him to enhance his Power and make him harder to lose during chases.\nHe is about persistence and resilience. This will make it harder for Survivors to foil him.",
+		"backstory": "The son of wealthy landowners Max Thompson Sr. and Evelyn Thompson, this unnamed boy was an unwanted child born to savage parents. Hideously disfigured, he was shut away from society. So ashamed of their son, they bricked him off into a room and fed him through a hole in the wall. When the boy escaped, he took his revenge savagely and terribly, slaughtering the parents that had tortured him instead of raising him.\nAfter the deed was done, he continued to live his life at the farm, taking out his deranged violence on the animals that were allowed to run free. As he finally broke free from his shackles he ran through the cornfields, chasing and slaughtering whatever he could find. They never found the bodies of Max and Evelyn, but they did find tortured and disembowelled animals all over the farm.\nColdwind Farm was quickly settled and the land split up and sold off. There was never a buyer for the farmhouse. Perhaps it was the sound of the chainsaw you could hear throughout those hot summer nights.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/K03_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/AK_HI_charPreview.png"
+		}
+	},
+	{
+		"number": 3,
+		"code": "thenurse",
+		"name": "The Nurse",
+		"fullName": "Sally Smithson",
+		"nationality": "Ango-American",
+		"gender": "Female",
+		"licensed": false,
+		"dlc": "Chapter I: The Last Breath",
+		"difficulty": "Very Hard",
+		"realm": "Crotus Prenn Asylum",
+		"powerAttackType": "Basic Attack (Post-Blink-Lunge)",
+		"weapon": "The Bonesaw",
+		"moveSpeed": "96.25% | 3.85 m/s",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["Stridor", "Thanatophobia", "A Nurse's Calling"],
+		"perks_ids": [24, 25, 26],
+		"power": {
+			"powerId": 3,
+			"powerName": "Spencer's Last Breath",
+			"powerCode": "spencerslastbreath"
+		},
+		"overview": "The Nurse is a warping Killer, able to blink through obstacles and quickly close gaps with her Power.\nHer personal Perks, Stridor, Thanatophobia, and A Nurse's Calling, allow her to decrease Survivor abilities and track them when they are injured.\nShe is focused on spotting and tracking, making it harder for Survivors to hide.",
+		"backstory": "Sally Smithson came to town with dreams of children's feet and laughter in a wooden home built by her husband Andrew. But life came not with smiles but with plans of destruction. Andrew worked as a lumberjack - a job with its perils. One day, Andrew's foreman had to pay Sally a visit, forever changing her life. She was alone.\nWithout food on the table and no other option, Sally had to find a way, but the only employment she could get was at the Crotus Prenn Asylum. Nobody sought employment there unless they were in dire need. Just like Sally. Without any education, she started at the bottom, doing the hard night shift.\nOver the years, her mind had reached its limits, two decades of seeing horrid things that violate the eyes. Memories that are re-played every night. Being abused verbally and physically, by people without limits. Sally saw insanity from the outside, just to catch it herself.\nFinally she could not take it any more and concepts of purification emerged inside her. She did what she felt was necessary. As the morning staff arrived one day in September - they found over fifty dead patients, lifeless, in their bed along four staff members, also dead.\nOnly Sally had survived the night, but her mind was gone, rocking back and forth non-stop. Exactly what happened is only known by her, but it seems that some of them had been choked as they had marks around their necks. They got her into an ambulance, but that ambulance never reached the hospital. It was found crashed in a nearby wood, all the staff dead and Sally nowhere to be found.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/K04_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/20/BK_NU_charPreview.png"
+		}
+	},
+	{
+		"number": 4,
+		"code": "theshape",
+		"name": "The Shape",
+		"fullName": "Michael Myers",
+		"nationality": "American",
+		"gender": "Male",
+		"licensed": true,
+		"dlc": "Chapter II: The HALLOWEEN&reg; Chapter",
+		"difficulty": "Moderate",
+		"realm": "Haddonfield",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Kitchen Knife",
+		"moveSpeed": "105% m | 4.2 m/s (Evil Within I), 115% | 4.6 m/s (Evil Within II and III)",
+		"terrorRadius": "6 m (Evil Within I), 16 m (Evil Within II), 32m (Evil Within III)",
+		"height": "Tall",
+		"perks_names": [
+			"Save the Best for Last",
+			"Play with Your Food",
+			"Dying Light"
+		],
+		"perks_ids": [27, 28, 29],
+		"power": {
+			"powerId": 4,
+			"powerName": "Evil Within",
+			"powerCode": "evilwithin"
+		},
+		"overview": "The Shape is a haunting Killer, intent on monitoring Survivors from a distance to feed his Power. The more he stalks, the stronger and faster he becomes.\nHis personal Perks, Save the Best for Last, Play with Your Food, and Dying Light, select one Survivor to become his Obsession and will trigger deadly effects based on the Obsession Status.\nHis Perks are focused around Obsessions, just like Michael Myers is obsessed with killing, the Killer picks a Survivor, and tags them as his Obsession.",
+		"backstory": "Some humans are simply bad seeds. Seeds infused with a distilled and pure form of evil.\nMichael Myers is one of those seeds. He had no issues with causing the pain of others. Instead, it was exactly what he sought. But even life can be tough on those with minds filled with terror. The difference is just how one goes about to solve those problems. For Michael, he had to kill to find some inner peace. As he took his sister’s life, the police found a silent boy dressed as a clown at the scene.\nWhen one stumbles upon a growing fire, one does not pour gasoline on it. But this was an action taken by officials that had no idea how it would shape this demon in the boy's body. Sending Michael to a mental institution was a feeble attempt to save the child. Unsuccessful therapy and nightly screams just made him even more introverted and deranged.\nPeople hoped that Michael Myers would end up a parenthesis, soon to be forgotten and buried, a failure that soon were to rot away. But then...he escaped.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/K05_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/CK_SH_charPreview.png"
+		}
+	},
+	{
+		"number": 5,
+		"code": "thehag",
+		"name": "The Hag",
+		"fullName": "Lisa Sherwood",
+		"nationality": "African American",
+		"gender": "Female",
+		"licensed": false,
+		"dlc": "Chapter III: Of Flesh and Mud",
+		"difficulty": "Very Hard",
+		"realm": "Backwater Swamp",
+		"powerAttackType": "Basic Attack",
+		"weapon": "The Claw",
+		"moveSpeed": "110% | 4.4 m/s",
+		"terrorRadius": "24 m",
+		"height": "Average",
+		"perks_names": ["Hex: The Third Seal", "Hex: Ruin", "Hex: Devour Hope"],
+		"perks_ids": [30, 31, 32],
+		"power": {
+			"powerId": 5,
+			"powerName": "Blackened Catalyst",
+			"powerCode": "blackenedcatalyst"
+		},
+		"overview": "The Hag is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.\nHer personal Perks, Hex: The Third Seal, Hex: Ruin, and Hex: Devour Hope, apply crippling penalties to Survivors as long as the associated Totem remains uncleansed.\nHer Perks revolve around Hex Totems IconHelpLoading totem.png. They are focused on cursing the Survivors and sapping their abilities. The curse lasts until the Survivors manage to track the Hex Totem down and cleanse it.",
+		"backstory": "Lisa Sherwood grew up in a quiet village, mainly isolated from the rest of civilisation. The people of the hamlet were kind and the elders kept old traditions alive, often keeping the peace by personally settling the ever-rare disputes. Lisa was particularly fond of the charms they taught her to draw for safety and good fortune. One night, as she was walking home through the woods, a terrible storm struck without warning. Howling winds whipped at her hair as she stumbled through the swamp, her rain-drenched dress plastered to her skin. In the slick, wet mud she lost her footing, careening backwards and striking her head against rock. Slipping in and out of consciousness, she strained to identify the dark shapes approaching her from between the trees. That's the last thing she could remember.\nHer kidnappers kept her chained to the wall in a flooded cellar. Though dimly lit, she could see others whose large open wounds swarmed with flies. It took merely a day before they returned, carving chunks from the prisoners' bodies with rusted blades, consuming their very flesh down to the bone. Most she saw did not survive long once the cannibals targeted them but somehow, deep within, Lisa persisted. Starved, infected, and mutilated after several weeks of torture, her gaunt arms became loose in their shackles. She pulled hard, the metal tearing through skin and muscle until she was free. Her flesh oozed viscous yellow pus and bones were visible beneath gangrenous wounds. She could go no further. Delirious, she thought of home; she thought of the elders. With her dying breath, she etched the symbols they had taught her into the floor using what remained of her fingers. Almost in response, a dark hunger stirred inside her. It yearned for blood. In oath, she chose vengeance.\nThe village's search party eventually brought them to an old shack in a swamp. Inside, its previous inhabitants had been viciously dismembered and devoured by an unidentifiable animal. In the cellar, amid rotting corpses and disconnected flesh, the elders’ charms were scrawled in blood on the floor. Lisa’s body was not among the bodies and was never found. The village was never the same again.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/K06_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/DK_HA_charPreview.png"
+		}
+	},
+	{
+		"number": 6,
+		"code": "thedoctor",
+		"name": "The Doctor",
+		"fullName": "Herman Carter",
+		"nationality": "African American",
+		"gender": "Male",
+		"licensed": false,
+		"dlc": "Chapter IV: Spark of Madness",
+		"difficulty": "Hard",
+		"realm": "Léry's Memorial Institute",
+		"powerAttackType": "Special Attack (Shock Therapy/Static Blast)",
+		"weapon": "The Stick",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Overwhelming Presence", "Monitor and Abuse", "Overcharge"],
+		"perks_ids": [33, 34, 35],
+		"power": {
+			"powerId": 6,
+			"powerName": "Carter's Spark",
+			"powerCode": "cartersspark"
+		},
+		"overview": "The Doctor is a madness-inducing Killer, able to use his Power - Static Blast, incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.\nHis personal Perks, Overwhelming Presence, Monitor and Abuse, and Overcharge, encourage chases, impact Survivors' ability to repair effectively and make him harder to detect when not in a Chase.\nHis Perks are about hindering and creating problems for the Survivors. The sheer stature of The Doctor infuses fear and terror in those around him.",
+		"backstory": "Showing exceptional aptitude in psychology, Herman was handpicked for special training in an advanced neuroscience program located in a secret black site facility in Illinois known as Léry's Memorial Institute, really a front for the CIA.\nThis is where Herman met Dr Otto Stamper, where, under his guidance, Herman began to use strange and ever increasingly vicious methods to extract information from prisoners sent to the institute, which was also a covert prison and re-education centre for whoever was the USA's current nemesis. His liberal use of violent electroshock therapy revealed dramatic results and several threats to national security were uncovered.\nOver the years, Herman became known as The Doctor and no one ever questioned if he had even held a medical certificate or even what happened to the prisoners after they had given up their information. It was only after Léry's Memorial Institute went silent for a week that the true horror was finally discovered. The personnel, patients, and prisoners were all found dead with all types of head trauma. All personnel and prisoners' bodies were accounted for, including Dr Stamper, but no sign of Herman \"The Doctor\" Carter.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/K07_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/IK_DO_charPreview.png"
+		}
+	},
+	{
+		"number": 7,
+		"code": "thehuntress",
+		"name": "The Huntress",
+		"fullName": "Anna",
+		"nationality": "Russian",
+		"gender": "Female",
+		"licensed": false,
+		"dlc": "Chapter V: A Lullaby for the Dark",
+		"difficulty": "Moderate",
+		"realm": "Red Forest",
+		"powerAttackType": "Special Attack (Hatchets)",
+		"weapon": "Broad Axe",
+		"moveSpeed": "110% | 4.4 m/s",
+		"terrorRadius": "20 m",
+		"height": "Tall",
+		"perks_names": [
+			"Beast of Prey",
+			"Territorial Imperative",
+			"Hex: Huntress Lullaby"
+		],
+		"perks_ids": [36, 37, 38],
+		"power": {
+			"powerId": 7,
+			"powerName": "Hunting Hatchets",
+			"powerCode": "huntinghatchets"
+		},
+		"overview": "The Huntress is a ranged Killer, able to throw Hunting Hatchets at Survivors to injure them from a distance.\nHer personal Perks, Beast of Prey, Territorial Imperative, and Hex: Huntress Lullaby.png, allow her to apply pressure through better Map awareness and enhanced chasing abilities.\nHer Perks revolve around the hunt of the prey, to track and find so that she can get close enough to make the kill.",
+		"backstory": "As soon as Anna was able to walk, her mother started teaching her how to survive a harsh, solitary life in the northern woods. Living in such an extremely remote and dangerous area required skill and resilience. When sunlight became too dim for productive activities, they would take refuge in their house, a sturdy old cabin constructed to resist the toughest winters. Close to the hearth’s warmth, Anna would rest in her mother's arms, surrounded by the few wooden toys and masks she had crafted for her. Drifting off to sleep with stories and lullabies, she dreamt happy dreams, ignorant of the events that would soon change everything.\nAnna and her mother were stalking a great elk through the woods. They knew it was dangerous prey, but it had been a particularly difficult winter and they were almost out of food. The spectre of starvation frightened them more than any forest creature. Without warning, the elk reared, bellowed and charged at Anna. She was paralysed with fear as the whole world seemed to shake under the immense beast’s pounding hooves. The elk was close enough for Anna to see the murderous fury in its eyes when her mother threw herself in its path, axe in hand. A blood-curdling scream escaped from her lips as the elk impaled her upon its antlers and hoisted her into the air. With all her strength, she brought her axe down on its head again and again while it tried to shake her loose. With a sickening crack, the antlers snapped and Anna’s mother was free. The beast collapsed.\nAnna was too small to move her mother’s broken body, so she sat with her in the clearing where she had fallen. To distract her from the dying elk’s cries, Anna’s mother held her and hummed her favourite lullaby. They stayed like that, the huntress and the elk getting quieter and colder, until Anna was alone in the silent forest. Eventually she stood up and started the long walk back home.\nStill a child, she knew just enough about life in the frozen forest to survive. She followed her instincts and became one with the wild. She got older and stronger and practised her hunt. As she grew into a dangerous predator, her humanity became a half-remembered dream.\nShe widened her territory and lived off her hunts. She worked her way up through squirrels, hares, mink and foxes. Eventually she grew tired of them and hunted more dangerous animals like wolves and bears. When unsuspecting travellers came through her woods, she discovered her new favourite prey: humans. Unlucky souls who strayed into her territory were slaughtered like any other animal. She liked to collect their tools and colourful garments and especially toys when there were little ones. But she could never bring herself to kill the little girls.\nGirls she would take back to her house, deep in the woods. They were precious, and looking at them woke up something deep in her heart. She craved the closeness of a loved one, a child of her own. Among the pillaged wooden toys, dolls and story books she couldn't read, the girls would be tied by the neck with a rough and chafing rope fastened firmly to the wall. She couldn't let them wander off, or they would surely die outside.\nEvery time, the girls would waste away and die of cold or starvation or sickness. Every time, it plunged Anna deeper into pain and sorrow and madness. She was compelled to try again, and started raiding the nearest villages to slaughter families and kidnap their daughters. She wore one of the animal masks her mother crafted for her so many years earlier to try to calm the frightened children. Villagers spread the legend of a half-beast lurking in Red Forest: The Huntress, who killed men and ate little girls.\nWar eventually came to the forest. German soldiers began to pass through, on the march to attack the collapsing Russian Empire. During these dark times, there were no more travellers. The villagers had abandoned their homes, and no more little ones to be found; only soldiers. Many of them were found with violent axe wounds. Whole groups disappeared mysteriously. Once the war was over, the rumours of The Huntress disappeared with it, engulfed by the Red Forest.\n",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/K08_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/JK_HU_charPreview.png"
+		}
+	},
+	{
+		"number": 8,
+		"code": "thecannibal",
+		"name": "The Cannibal",
+		"fullName": "Bubba Sawyer",
+		"nationality": "American",
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter 5.5: Leatherface&#8482;",
+		"difficulty": "Moderate",
+		"realm": null,
+		"powerAttackType": "Special Attack (Chainsaw)",
+		"weapon": "The Sledge",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Knock Out", "Barbecue and Chilli", "Franklin's Demise"],
+		"perks_ids": [39, 40, 41],
+		"power": {
+			"powerId": 8,
+			"powerName": "Bubba's Chainsaw",
+			"powerCode": "bubbaschainsaw"
+		},
+		"overview": "The Cannibal is a chainsaw-wielding Killer, able to trigger a deadly frenzy using his Power, immediately downing anyone in its path.\nHis personal Perks, Knock Out, Barbecue & Chilli, and Franklin's Demise, make Survivors easier to locate while robbing them of their tools and abilities.\nHis Perks revolve around the unknown. Nobody knows where anyone is, especially The Cannibal himself. You are not aware of his presence until his Chainsaw bursts through your spinal cord.",
+		"backstory": "Whether killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one killer, nature and nurture are inextricably linked.\nLeatherface kills not from a desire to exert his will over others, to satisfy carnal urges, or even to quiet the voices in his head. He kills because he is scared. Scared that others will hurt him; scared that his family will be displeased with him, scared that their shared willingness to eat human flesh will be discovered.\nHe does as he is told. His family loves him and that is all that matters. Outsiders are a threat, and threats need to be dealt with.\nLike those kids that came into the house, uninvited. Walked in like they owned the place. Looked around the house, trying to find out his family’s secrets, no doubt. But Leatherface deals with them, and protects his family just as he’s been taught.\nHe is not just protector, he has many roles, and each role has its own face. He serves dinner, cares for the family, and dresses well when they eat. His Grandpa and Ma used to care for them all, but Grandpa, he is old now and Ma has been still for a while, so Leatherface and his brothers had to take over. Family is everything to him. Family is security and safety.\nBut, even though he did his best, one of the kids got away. He tried to stop her, chasing after her as fast as he could, but she had help: another outsider, driving a truck. The evil trucker killed his brother, ran him over like he was a possum. In a fury, Leatherface leapt at him, the saw ready to avenge his family, but the trucker was too quick. He knocked Leatherface aside and turned his own saw against him.\nAs he watched the outsiders driving away, the rage, grief and pain combined with the worry about what would happen to his family now. They would surely return with the police, and the police would take his brothers, his Grandpa. Without them, what would he do? Without their commands, he would wither and die.\nAs his world collapsed, Leatherface spun in circles, swinging the saw all around, trying to fight off the myriad external threats that surrounded him.\nThen another feeling overtook him. It came from outside his vision, crawling over his skin with cold dread. He realised that no matter what outsiders could do to him, there was something worse, something bigger that lived in the shadows. He was filled with a terror unlike any he had ever felt before. But it was almost comforting, like the fear he'd felt with his family. The fear of disappointing them.\nHe was brought to a place that was familiar but unknowable, and he instinctively knew what he had to do. He couldn't fail it, the way he had his family. Outsiders would come but he would use his skills to overcome any threats. There would be screaming, but he could make the world quiet again. Until the only sound remaining was the blessed howl of the saw.\nLet the outsiders come.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/K09_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/63/JK_CA_charPreview.png"
+		}
+	},
+	{
+		"number": 9,
+		"code": "thenightmare",
+		"name": "The Nightmare",
+		"fullName": "Freddy Krueger",
+		"nationality": "American",
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter VI: A Nightmare on Elm Street&#8482;",
+		"difficulty": "Moderate",
+		"realm": "Springwood",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Clawed Glove",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["Fire Up", "Remember Me", "Blood Warden"],
+		"perks_ids": [42, 43, 44],
+		"power": {
+			"powerId": 9,
+			"powerName": "Dream Demon",
+			"powerCode": "dreamdemon"
+		},
+		"overview": "The Nightmare is a nightmare Killer, passively pulling Survivors into his Dream World where Survivors are vulnerable to his Dream Abilities. His Dream Projection ability allows him to quickly appear across the map and put pressure onto Survivors.\nHis personal Perks, Fire Up, Remember Me, and Blood Warden IconPerks bloodWarden.png, improve his abilities over time and make him stronger as the trial reaches its climax.\nHis Perks revolve around stopping Survivors from fleeing. They will make surviving a real pain for all, and managing to escape the Hunting Ground won't be easy.",
+		"backstory": "Even while he lived, Freddy Krueger was a creature of nightmares for those who truly knew him. Hiding behind a mask of warmth and friendliness, Freddy's actual temperament was known only to his victims. When those victims were finally heard, the parents of Springwood tracked Freddy down and took the law into their own hands. They thought that fire had rid them of a monster that night, that their children were finally safe, but evil as strong as his has a way of surviving.\nYears passed, the horror was buried, the victims mercifully forgot. Then, somehow, Freddy returned, and dreams became nightmares once again.\nFreddy focused his anger on those he felt had wronged him, building up to his one true obsession, Nancy Holbrook. But he underestimated her strength and resourcefulness. Together with her friend Quentin Smith, she managed to weaken Freddy, mutilating him and leaving him for dead once more.\nDeath didn't want Freddy the first time he encountered it, why did they think it would take him now? He emerged once more, consumed with vengeance. Then he turned his sights on the boy who had blocked his path to Nancy, his number one.\nFreddy invaded Quentin's dreams, terrorising him night after night, until his strength and defences would be at their lowest. When the time was right, he forced the boy to return to the dark reflection of Badham Preschool. Here he would have his final revenge.\nFreddy stalked the boy through the school's halls. He took his time, savouring every moment of the hunt. This was what he enjoyed the most, the smell of their sweat in the air, the ragged gasps of their terrified breath. They were his to toy with.\nThere was the boy, at the end of a long corridor. Too tired and scared to run anymore? Resigned to his fate? Freddy closed in, arms wide, claws raking the wall. Their tips traced along a pipe, the metallic shrieking only adding to the boy’s apprehension.\nA shower of sparks rained on the ground, and into the liquid that covered the tiled floor. A blue flame blossomed and quickly engulfed the room.\nThe boy took flight as Freddy burst from the flames in a fury. Rooms and walls raced past in a blur until they were in Freddy's basement. There would be no escape from here.\nSlowly Freddy closed in on the boy. His fear was so strong now that Freddy could almost taste it, but his eyes burned with a defiant hatred that was almost admirable.\nFreddy drew back his claws.\nThen Freddy felt another presence with him; something old, powerful and dark. A miasma enveloped him and the only sensation was a sound like wooden beams flexing and creaking in the distance. The echoing groan of metal crushed against metal. Something arcane and unknowable, half-way between language and pure terror.\nA moment of falling and spinning and then Freddy was back in the school. But not his school. It looked the same, but it felt different. His powers were tempered in some ways and focused in others. The boy had gone for now, but another prey walked the hallways. Some would be inconsequential; others would become his new favourites. All would fall before his claws.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/K10_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/EK_NI_charPreview.png"
+		}
+	},
+	{
+		"number": 10,
+		"code": "thepig",
+		"name": "The Pig",
+		"fullName": "Amanda Young",
+		"nationality": "American",
+		"gender": "female",
+		"licensed": true,
+		"dlc": "Chapter VII: The SAW&#8482; Chapter",
+		"difficulty": "Hard",
+		"realm": "Gideon Meat Plant",
+		"powerAttackType": "Special Attack (Ambush Dash)",
+		"weapon": "Hidden Blade",
+		"moveSpeed": "115% | 4.6 m/s, 90% | 3.6 m/s (Crouch), 172.5% | 6.9 m/s (Ambush Dash)",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["Hangman's Trick", "Surveillance", "Make Your Choice"],
+		"perks_ids": [45, 46, 47],
+		"power": {
+			"powerId": 10,
+			"powerName": "Jigsaw's Baptism",
+			"powerCode": "jigsawsbaptism"
+		},
+		"overview": "The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply Reverse Bear Traps to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.\nHer personal Perks, Hangman's Trick, Surveillance, and Make Your Choice, give her more Map control and expose altruistic Survivors.\nThe focus of her Perks is on pain and torture. A Hook is not that easy to flee from and all Survivors will be seriously tested when it comes to Skill Checks.",
+		"backstory": "When John Kramer, better known as Jigsaw, planned for his son to be born during the Chinese Zodiac's Year of the Pig, he wanted it to represent fertility and rebirth; a new beginning for him and his wife, and the start of a charmed life for his son. But that plan was shattered on the night that a junkie broke into his wife's clinic, hoping to score.\nAfter this event resulted in the death of his unborn son, John finally caught up with the junkie, making him his first test subject, and The Pig was changed forever too. It became a representation of the disease that was rotting John from the inside, a reminder that we are just meat unless we elevate ourselves by our actions, by grasping life from the jaws of death. The Pig became a vessel, an agent of Jigsaw, conveying the subjects to their test. For some of those who emerged victorious, The Pig could still be a rebirth, into their new lives as apprentices, even disciples, of Jigsaw.\nThat was the case for Amanda Young, a troubled soul, whose life had been a catalogue of harm, both to herself and those around her. That changed when she faced, and bested, Jigsaw's test. Deciding her life was worth something, she became devoted to Jigsaw's cause, ready to take over when cancer consumed him.\nBut she became more dependent on John, her anguish at his impending death combining with a belief that their test subjects weren't capable of saving themselves, of being reborn in the crucible of the games.\nSeeing this, John presented her with another game, another chance to save herself, but Amanda let her rage and jealousy rule her actions. She failed the test and took a bullet as a consequence.\nBleeding out on the tiled floor, darkness engulfed Amanda's vision, accompanied by a sound like creaking wood. Then she was in a forest, once more viewing the world through the eyes of a Pig. Trees surrounded her, their branches clawing at her from all sides. Waves of panic washed over her and she could hear her breath reverberating inside the mask.\nHad she been damned, cursed to spend her days here, in this guise? Or maybe this was another test? Maybe she hadn't failed at all? John always thought one step ahead of everyone else, planned for every eventuality, and he would never give up on her, surely?\nJigsaw may have gone but he had passed her onto another. A being for whom she would be The Pig again.\nUltimately, she saw now that she had been right in the choices she had made. The time for games was over. There was no chance of redemption for any of them. They were meat, and meat was destined to die.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/K11_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/FK_PI_charPreview.png"
+		}
+	},
+	{
+		"number": 11,
+		"code": "theclown",
+		"name": "The Clown",
+		"fullName": "Kenneth Chase alias Jeffrey Hawk",
+		"nationality": "American ",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Chapter VIII: Curtain Call",
+		"difficulty": "Moderate",
+		"realm": "Crotus Prenn Asylum",
+		"powerAttackType": "Special Attack (Bottle Hit)",
+		"weapon": "Madame Butterfly",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Bamboozle", "Coulrophobia", "Pop Goes the Weasel"],
+		"perks_ids": [48, 49, 50],
+		"power": {
+			"powerId": 11,
+			"powerName": "The Afterpiece Tonic",
+			"powerCode": "theafterpiecetonic"
+		},
+		"overview": "The Clown is a strategic Killer, able to control and corral Survivors by throwing bottles of The Afterpiece Tonic to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are inflicted with impaired vision and movement speed, and give away their location by coughing loudly.\nHis personal Perks, Bamboozle, Coulrophobia, and Pop Goes the Weasel, provide vaulting advantages and negatively impact Survivor Healing speed and Repairs.\nHe has a surprising agility for a man of his size, along with a terrifying appearance and the ability to sabotage the Survivor's efforts.",
+		"backstory": "Kenneth Chase was born in 1932 by a difficult labour, which his mother wouldn't survive. This event drove a rift between him and his father that never closed. As the boy grew, so did his father's resentment, and his drinking habit. By the time Kenneth was at school, they lived mostly separate lives.\nAcademically, he was unremarkable, coasting by on his significant athletic prowess. He grew tall and strong, excelling at track events, but shunned any attempts to coax him into team sports.\nOn his walk home from school, he would often find feathers on the ground and he soon began a collection, keeping them in a cigar box under his bed. With his father either at work or in an alcohol-induced stupor, Kenneth had hours to spend alone, transfixed by the regularity of the feathers' barbs and the feeling of softness as he ran them over his lips. Watching the birds that came to the feeder in his garden, he imagined how soft they must be and resolved to catch one. He ingratiated himself with the local dentist, soon procuring some anaesthetic. Using this, he rigged up a trap on the feeder, that he hoped would knock out a bird long enough that he could touch it.\nAfter a few failed attempts, he managed to trap a robin. As it lay in his hand, he felt a sudden rush, of a life at his mercy. He had planned to release it once it recovered from the anaesthetic. Instead, as its eyes flickered back into consciousness and it began to struggle, his grip remained firm. His fingers slowly tightened around its throat, squeezing until its chest feathers were finally still. He disposed of the body, keeping just a feather, with which he started a new collection, discarding the others as \"fake\".\nBy the late 1940s, Kenneth had left school and started working as a busboy at a local diner. He had also escalated to larger prey, like squirrels, raccoons and dogs, becoming skilled at customising the anaesthetic dosage for each.\nIn early 1954, a young man went missing and the town was turned upside down in the search. A few months later, Kenneth's father, while doing some work in the crawlspace under the house, found a cigar box. He broke it open and saw, to his horror, that it contained feathers, animal paws, and a man's finger.\nReturning from work, Kenneth saw his father leaving the crawlspace with a cigar box in his hands. He turned on his heel and never went home again.\nAfter a few weeks of living rough, he encountered a travelling circus and, with his prodigious strength, was hired to work the ropes. He assumed a new name: Jeffrey Hawk.\nSuddenly surrounded by a close-knit community, \"Jeffrey\" had to learn to socialise. He donned a new personality like a disguise, quickly becoming known as charming and helpful, and was welcomed into his new family.\nOver the next decade, he stayed with the circus, travelling the length and breadth of the United States. But, with the itinerant life providing few repercussions, he fell into bad habits. Drinks, junk food, drugs, he indulged in all of them to excess. For a time, these vices were enough, but then his old urges returned and his nomadic existence became a cover for him to resume killing. He stole clothes and make-up from performers, fashioning a disguise that would let him get close to his victims before he anaesthetised them, bringing them back to his caravan, where they would awake to find themselves bound and at his mercy. He would finally get to have his fun, mentally and physically torturing them, their screams fuelling him, before being lost in the night.\nOnce their strength was at its lowest, he would carefully examine their fingers, searching for the prettiest, running them over his tongue to find the tastiest. Once he found the best, he would cut it from their hand and proudly add it to his collection, disposing of the rest of the body as pointless waste.\nMen, women, young, old, he didn't care. The essence of a good collection is in the variety, in the memories and stories they evoke.\nHe removed the costume less and less, shedding his old personality with it, fully embracing the clown, his true self.\nWith time, he became complacent and sloppy. A victim managed to work free of her bindings while he was sleeping off the drink. She escaped, screaming for help, and he awoke to find the rest of the circus bearing down on him. He whipped his horse and the caravan disappeared into the night.\nSince then he has roamed the country, a parasite who could always be found at a carnival or circus, but who would never be seen on any playbill. He lured those brave, or foolish enough, to come near, trapped them and moved on before they could be found missing.\nSomewhere along the way, he left the ordinary roads of the United States behind him, travelling through a veil of mist and entering a new realm. It was a place of transience and impermanence, perfectly suiting the life he had chosen to lead. Feeling more at home than he had in his entire life, he set up camp and waited for his first visitor.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/K12_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/StoreBackground_GK.png"
+		}
+	},
+	{
+		"number": 12,
+		"code": "thespirit",
+		"name": "The Spirit",
+		"fullName": "Rin Yamaoka",
+		"nationality": "Japanese",
+		"gender": "female",
+		"licensed": false,
+		"dlc": "Chapter IX: Shattered Bloodline",
+		"difficulty": "Hard",
+		"realm": "Yamaoka Estate",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Shattered Katana",
+		"moveSpeed": "110% | 4.4 m/s, 176% | 7.04 m/s (Phase Walk)",
+		"terrorRadius": "24 m",
+		"height": "Average",
+		"perks_names": ["Spirit Fury", "Hex: Haunted Ground", "Rancor"],
+		"perks_ids": [51, 52, 53],
+		"power": {
+			"powerId": 12,
+			"powerName": "Yamaoka's Haunting",
+			"powerCode": "yamaokashaunting"
+		},
+		"overview": "The Spirit is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, Yamaoka's Haunting. Her Power allows her to teleport from one place to another without being seen.\nHer personal Perks, Spirit Fury, Hex: Haunted Ground, and Rancor, give her tools to observe and bait Survivors, and deal with obstacles directly in her path.\nShe inherited incredible fury from her ancestors. The wrath that flows through her veins is her legacy. The terrible pain she suffered set it off. Swift and lethal, The Spirit exacts her revenge endlessly.",
+		"backstory": "Rin was the only child of the Yamaoka family. She was raised in the dusty halls of a traditional house in Kagawa. She studied Education at Takamatsu, a private university, which weighed heavily on her family's shaky finances. Her mother got ill that year and the bills started piling up. Rin worked part-time in a futile attempt to help lighten the load.\nHer father faced a debt that grew without end. He started working double-shifts in hopes of obtaining a promotion. That's when he started losing sleep. A dark whisper would keep him awake all night, reminding him of his hopeless situation. Exhausted, he started to lose grasp of reality. Fighting to deny what the voice whispered at night, Rin's father made a desperate move. He met with his superior and explained his situation. He begged for a bonus, an advance, time-off---anything.\nHis request was denied. The company had launched a defective production line that was costing them dearly. Someone had to be held accountable and Rin's father fitted the bill perfectly. He was fired after twenty-two years of service.\nThat evening, Rin came home from work. She'd stayed late to entertain customers that lingered at the restaurant. As she parked her bike in the shed, she heard her mother's scream come from the house.\nShe rushed in, climbing up the stairs to her parents' room. There she found bits and pieces of her mother on the floor. Her limbs were clean-cut, tangled up in an unnatural position. Her breasts were sliced up, revealing her rib cage, which was cracked open. Rin gagged.\nA sharp Katana came crashing down. Rin blocked the blade, which bit into her bare forearm. The shock of recognition interrupted her pain: her father was wielding the Katana with a stoic expression. She cried out to make him stop, but he slashed her arm again.\nShe rushed off and slid on the blood-smeared floor. Using the door frame as support, she raised herself up. The Katana ripped through the wall, cleaving her other arm. She screamed in pain as she limped into the hallway, only to be met by her father's blade.\nShe stepped back, trembling, as she held together the soft loose flesh of her abdomen. Images of her mother's tangled limbs flashed before her eyes.\nRin charged at her father, making him stumble back. He punched her torn abdomen and she recoiled in pain. As she struggled to get back up, he slashed her thigh, making her collapse on the floor.\nAs she crawled towards the stairs, he grabbed her hair and yanked her against a partition. The glass shattered on impact and she fell through, landing one floor down.\nShe heard footsteps somewhere above her. With effort, she moved, worming her way into a sea of broken glass. The shards gnawed at her, ripping her flesh. He had to be stopped. He would not get away with what he'd done to her--with what he'd done to her mother.\nCoughing up blood, her chin grazed the glass, adding to the bleeding. A low-pitched heartbeat started to ring in her ears. Her body felt so heavy she could no longer move.\nThe ground shook with her father's footsteps. She knew she was not going to make it, but she no longer cared. She would make him pay, in this life or the next.\nA dark Fog slowly veiled her eyes, but it could not subdue her rage. She would not rest--not yet. The darkness whispered, promising blood and revenge.\nAn oath was made and Rin closed her eyes.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/K13_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/StoreBackground_HK.png"
+		}
+	},
+	{
+		"number": 13,
+		"code": "thelegion",
+		"name": "The Legion",
+		"fullName": "Frank, Julie, Susie, Joey",
+		"nationality": "Canadian",
+		"gender": null,
+		"licensed": false,
+		"dlc": "Chapter X: Darkness Among Us",
+		"difficulty": "Easy",
+		"realm": "Ormond",
+		"powerAttackType": "Special Attack (Frenzy Slash)",
+		"weapon": "Hunting Knife",
+		"moveSpeed": "115% | 4.6 m/s, 130% | 5.2 m/s (Frenzy)",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["Discordance", "Mad Grit", "Iron Maiden"],
+		"perks_ids": [54, 55, 56],
+		"power": {
+			"powerId": 13,
+			"powerName": "Feral Frenzy",
+			"powerCode": "feralfrenzy"
+		},
+		"overview": "The Legion are a band of merciless Killers, able to rush down helpless Survivors with their power, Feral Frenzy. Attacks made during their frenzy inflict lingering internal damage, downing any Survivors that are not quick enough to react.\nTheir personal Perks, Discordance, Mad Grit, and Iron Maiden, give them the ability to locate their prey and attack savagely while transporting Survivors to the Hook.",
+		"backstory": "Frank Morrison was nineteen and had little to show for it. He'd stopped attending school after being kicked out of the basketball team for shoving a referee into the stands. Yet Frank was a man of potential, who could light up a room despite his bleak childhood. At six years old, he'd been taken away from Calgary to start a circuit of foster homes. No matter how many times he'd lashed out, threw tantrums and got into fights, they'd kept moving him to new, unfamiliar houses. His last move had been three years prior when his last foster dad, Clive Andrews, had picked him up from the adoption centre. They'd been on the road for seven hours before reaching a small bungalow in Ormond. It would be the longest time they'd spend together. Clive was too busy trading cheques from Family Services for drinks at the bar.\nOrmond was a small, stale place; a remote town of six thousand inhabitants where grey winters drag on for most of the year. Frank did everything he could to get into another adoptive family, but he changed his mind when he caught the attention of Julie, a beautiful girl who was convinced that she deserved better than a life in Ormond, and Frank, as an outsider, was her ticket out. Frank attended the parties she threw where everyone was younger than him and easily impressed, which he liked. He met the impulsive Joey, who liked to show off, and the shy, naïve Susie, who was Julie's best friend.\nThey would hang out at an abandoned lodge up Mount Ormond. Their time together was the perfect break from the boring conformity of their small, insignificant everyday lives. Frank saw it as an opportunity to shape their lack of experience into something powerful. He lined up nights of debauchery and rampage, testing their limits. Bullying , vandalism, and theft were essentially their weekend plans. It came to a point where they would do anything he asked. Nothing was off-limits when they put their masks on. One evening, Frank dared Joey to vandalise the store that had recently fired him. They snuck inside easily enough, as the building was supposed to be empty after closing hours. But a cleaner who was still there grabbed Julie as soon as she came near. Hearing her stifled cries, a dark impulse took over Frank. He rushed to her aid, knife in hand, and without hesitating, planted the blade into the cleaner's back.\nAs the group stared at Frank in shock, he ordered them to finish the job. Joey clenched his jaw, grabbed the knife, and stabbed the bleeding man in the ribs. Susie didn't want to do it. Frank shouted at her; they had to finish what they'd started. Julie closed her eyes and slid the knife into the man's chest. She handed the wet blade to Susie: they were all in this together now. Susie stared at Julie in disbelief as Frank grabbed her trembling hands and inserted the knife deep into the man's throat. Frank told them to move fast; they mopped the blood off the floor, stashed the body in the trunk of Joey's car, and drove up Mount Ormond.\nAll four were digging in the muddy snow to dispose of the body when Frank spotted something moving through the woods. He grabbed his knife and broke from the group to check it out. The Fog thickened around Frank, becoming so dense that he soon could no longer see ahead. He retraced his steps and stumbled onto an ominous trail. He followed the eerie path, as if called by the darkness. Julie, Susie, and Joey finished digging, but Frank was nowhere to be seen. Julie spotted his muddy footsteps in the snow and the three of them followed the trail, which took them deeper into the woods. When Julie, Susie, and Joey did not return home that night, their parents thought they'd run away with Frank. Each family came up with a different theory. The mood in the town changed, however, when a body was found by an abandoned lodge up Mount Ormond.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/K14_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/38/StoreBackground_KK.png"
+		}
+	},
+	{
+		"number": 14,
+		"code": "theplague",
+		"name": "The Plague",
+		"fullName": "Adiris",
+		"nationality": "Babylonian",
+		"gender": "female",
+		"licensed": false,
+		"dlc": "Chapter XI: Demise of the Faithful",
+		"difficulty": "Hard",
+		"realm": "Red Forest",
+		"powerAttackType": "Special Attack (Vomit)",
+		"weapon": "Profane Censer",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": [
+			"Corrupt Intervention",
+			"Infectious Fright",
+			"Dark Devotion"
+		],
+		"perks_ids": [57, 58, 59],
+		"power": {
+			"powerId": 14,
+			"powerName": "Vile Purge",
+			"powerCode": "vilepurge"
+		},
+		"overview": "The Plague is a devout Killer, able to infect Survivors from a short distance using her Power, Vile Purge. Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a Pool of Devotion.\nHer personal Perks, Corrupt Intervention, Infectious Fright, and Dark Devotion, give her the ability to hinder Survivor objectives, while simultaneously confusing and frightening those within her presence.",
+		"backstory": "When she was five years old, Adiris, the youngest of a family of seven, was left on the brick-red burning steps of the Temple of Purgation at the centre of Babylon. To process her shock and sorrow, she held onto the belief that the Gods had a plan for her. Her new life was one of quiet servitude. She would tend to the gardens, prepare ceremonial meals, and polish ceremonial incense burners. At night, she would pray for a sign that would reveal her purpose.\nWhen she came of age, she attended the high-ranking priests during the yearly worshipping of the sea-goat, the God of Water and Creation. Swinging a censer down the great hypo-style hall, she cast thick black fumes that reached the cold towering stone pillars before dissipating. Her worries lifted, and the resulting bliss made her feel closer to the Gods than ever. She worked herself to the bone each day that followed, fulfilling her duties while taking on new ones, as she aided the priests during purification rituals.\nThe priests were more and more in need of assistance. Cleansings were being performed daily to answer the demand from outside the high temple walls, where a catastrophic plague had resurfaced. Within months, the priests contracted the disease. It did not take long before they became too weak to perform any kind of ritual. Adiris, having assisted many purification rituals, was the only one able to carry on. The swelling panic had to be contained, even if by a novice.\nAnxious before her first ceremony, Adiris visited the priests' sanctuary chamber. When she lit the candles, she noticed a narrow opening at the back. Sliding through the gap, she reached a crypt hidden under the sanctuary. The chamber was bare except for the golden statue of a woman, who stood with outstretched hands, her fingers covered in jewels. It was the sign Adiris had been waiting for.\nThe great hall was packed with followers who bowed down as Adiris entered. She strode to the brick altar and grabbed a ceremonial dagger forged in silver, her ruby ringed fingers wrapping around the blade like claws. The sudden display of luxury intrigued the followers, who were struck already by her youth and beauty.\nAs she began reciting the Epic of Creation, a woman at the back swooned and collapsed. Adiris rushed to her and noticed the black blisters covering her feet. Without hesitation, Adiris grabbed her sacred blade and swung it at her own foot, severing a toe. Then she offered the bloody part to the Gods, asking them to protect the woman. A silence fell over the followers, who revered Adiris as their new priestess.\nTales of her wealth, beauty, and devotion began to spread across the city as quickly as the disease. Soon, Adiris' followers called her the High Priestess of Babylon.\nBut her faith was tried when she showed the first signs of infection; her cough became a mix of phlegm and blood, her neck erupted in abscesses, and her four-toed foot darkened. Ashamed of her condition, she began wearing a veiled headpiece and carried a censer that masked the rancid smell of sick that clang to her skin. Hoping to be saved, she kept performing the rituals, offering blessed water and food to her followers.\nBut no ritual could save her. In a desperate attempt to appease the Gods, Adiris banished herself from the city. She traveled north with a few followers, venturing through the cold woodlands of Urashtu, until it was no longer possible to walk.\nThey camped in a damp cave, where Adiris lay in a pool of vomit. Her foot, which had turned black, was so swollen she could not go any further. Her followers and she realised the truth in that cave: they were all infected with the plague.\nKneeling among her retching followers, Adiris made one last prayer. The black fumes of incense rose into the damp air before being wiped off by a cold breeze.\nNeither the body of Adiris nor those of her followers were ever found. Many told tales of her return, but no one truly knew what fate had befallen the High Priestess of Babylon.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/K15_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/StoreBackground_MK.png"
+		}
+	},
+	{
+		"number": 15,
+		"code": "theghostface",
+		"name": "The Ghost Face",
+		"fullName": "Danny Johnson alias Jed Olsen",
+		"nationality": "American",
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter XII: Ghost Face&reg;",
+		"difficulty": "Hard",
+		"realm": null,
+		"powerAttackType": "Basic Attack",
+		"weapon": "Tactical Knife",
+		"moveSpeed": "115% | 4.6 m/s, 90% | 3.6 m/s (Crouch)",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["I'm All Ears", "Thrilling Tremors", "Furtive Chase"],
+		"perks_ids": [60, 61, 62],
+		"power": {
+			"powerId": 15,
+			"powerName": "Night Shroud",
+			"powerCode": "nightshroud"
+		},
+		"overview": "The Ghost Face is a creepy Killer, able to stalk his victims and sneak up silently using his Power, Night Shroud. Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.\nHis personal Perks, I'm All Ears, Thrilling Tremors, and Furtive Chase, give him the ability to locate Survivors, defend Generators, and make his Chases unpredictable.",
+		"backstory": "Danny Johnson, known as Jed Olsen by some, grabbed the newspaper from the kitchen counter: it was a week old, but his face was on the front page, grainy and sunken. It was one of those muggy afternoons in Florida when heat and humidity permeated everything in the kitchen, making him sweat while standing still. He slouched in a damp chair to read. This article had better be good—his work in Roseville had been outstanding.\nGHOST FACE DISAPPEARS\nJune 18, 1993\nAt first glance, Jed Olsen was a modest and enthusiastic freelancer with experience in a variety of small newspapers. The staff at the Roseville Gazette appreciated how easy-going and honest he seemed, and so he was treated as a stranger for no more than five minutes into his interview:\n\"Jed quickly spotted the editor-in-chief in the room, gave him a wide smile and a firm handshake, and talked about good old American values. And that was it, he was in.\" —Ex-Contributor at the Roseville Gazette\nOlsen never justified his erratic career path, which zigzagged between several small towns from Utah to Pennsylvania. There was no verification of his previous jobs. He had a decent portfolio plus a good attitude, and they needed a contributor right away.\nTHE ROSEVILLE MURDERS\nOlsen had been working at the newspaper for five months when the Roseville Murders began: victims from young to old, stabbed to death in their homes. From the reports, the victims seemed chosen at random, yet the killer knew his way around in the houses. The multiple stab wounds indicated a personal motive. No traces of DNA were found. The local police were confounded: the murders were carried with fury akin to a crime of passion yet coldly premeditated.\nThe murderer also liked to stalk his targets. Two victims had reported being followed on their way home by a dark figure, a few days prior their death. The killer would follow them from Walleyes, a small bar in Northern Roseville, and snap pictures of them at home, while looking for a way in. He could watch the same victim for weeks, meticulously registering their habits and routines. When he felt the urge to kill, he'd visit the most vulnerable victim on his list, and break inside the house quietly.\nThe whole staff worked on the Roseville Murders story. Olsen was often sent to interview the family of victims and relay official statements from the police. Unknown to everyone at the time, his involvement added to the final body count.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/K16_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/88/StoreBackground_OK.png"
+		}
+	},
+	{
+		"number": 16,
+		"code": "thedemogorgon",
+		"name": "The Demogorgon",
+		"fullName": "Demogorgon",
+		"nationality": "None (Extradimensional)",
+		"gender": "Not applicable (not human)",
+		"licensed": true,
+		"dlc": "Chapter XIII: Stranger Things",
+		"difficulty": "Hard",
+		"realm": "Hawkins National Laboratory",
+		"powerAttackType": "Special Attack (Shred)",
+		"weapon": "Barbarous Claw",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": [],
+		"perks_ids": [],
+		"power": {
+			"powerId": 16,
+			"powerName": "Of the Abyss",
+			"powerCode": "oftheabyss"
+		},
+		"overview": "The Demogorgon is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, Of the Abyss, it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.",
+		"backstory": "A blooming mouth full of needle-like teeth for a face, large, curved, razor-sharp claws, and powerful legs to pounce on victims, make The Demogorgon a frightening monster to face in any dimension. It is a nightmare of unrestrained, feral rage as it hunts down its prey and rips it to pieces, devouring every last morsel of flesh and gore, leaving nothing for scavengers. The creature is untouched by any sense of compassion or restraint. Looming over its victim, it shows no doubt or mercy, just the pure instinct of its insatiable blood lust as it delivers the deathblow. A perfect hunter, The Demogorgon is a macabre testament to the horrors lurking in the Upside Down and why it was choice pickings for The Entity.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/StoreBackground_QK.png"
+		}
+	},
+	{
+		"number": 17,
+		"code": "theoni",
+		"name": "The Oni",
+		"fullName": "Kazan Yamaoka",
+		"nationality": "Japanese",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Chapter XIV: Cursed Legacy",
+		"difficulty": "Very Hard",
+		"realm": "Yamaoka Estate",
+		"powerAttackType": "Special Attack (Bloody Fury Attacks)",
+		"weapon": "Yamaoka Blade",
+		"moveSpeed": "115% | 4.6 m/s, 86.25% | 3.45 m/s (Absorption), 195.5% | 7.82 m/s (Demon Dash)",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Zanshin Tactics", "Blood Echo", "Nemesis"],
+		"perks_ids": [63, 64, 65],
+		"power": {
+			"powerId": 17,
+			"powerName": "Yamaoka's Wrath",
+			"powerCode": "yamaokaswrath"
+		},
+		"overview": "The Oni is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, Yamaoka's Wrath, he can rush down Survivors at great speed and deal deadly strikes with his Kanabō.\nHis personal Perks, Zanshin Tactics, Blood Echo, and Nemesis, provide navigational information, punish injured Survivors, and gain advantages over those that interfere.",
+		"backstory": "Honouring his family name was never enough for Kazan Yamaoka. He wanted to surpass his father's reputation and end what he saw as the thinning of samurai culture with farmers often posing as samurai. His father tried to turn Kazan's attention to more noble pursuits, but Kazan refused to heed his advice, and borrowing his father's Katana, he embarked on a dark pilgrimage to prove his worth and rid Japan of impostors. Ignoring the code that had been taught to him, Kazan killed impostors in the hills and the valleys, on the beaches and in the woodland. The killings were brutal, cruel and morbid. He humiliated farmers and warriors alike, yanking off their topknots and stripping them of their armour. His rage, bloodlust and perverse sense of honour knew no bounds. Monks believed he was possessed by something dark and otherworldly and cursed him while a noble lord began to call him 'Oni-Yamaoka,' the rageful Samurai, an insult both to Kazan and his family.\nDetermined to redeem his family's name, Kazan now butchered anyone who dared call him Oni-Yamaoka. The insult confused him. He had defeated the best and he had purified the samurai class by ridding the land of impostors. How could anyone refer to him as an ogre? Had it been because he had marched onto a battlefield to cut down the fiercest warriors. Had it been because he had taken a Kanabo and dashed hundreds of skulls with it? Or had it been because of his need to secure a 'trophy' from his victims. It didn't matter. Being called an ogre was more than he could bear and an ominous voice in his head urged him to strike down the lord who had desecrated his name.\nAs Kazan made for the lord's town, he suddenly found himself face to face with a samurai standing on a dirt road, blocking his way. Kazan readied his Kanabo. Without a word, the samurai attacked and quickly secured the upper hand. But he hesitated. With a devastating blow, Kazan crushed the samurai's head and cracked his helmet. As Kazan approached the fallen samurai, he saw his father's face and staggered back to his haunches. His father stared at Kazan with mingled shame and regret as he issued his last breath. Kazan closed his eyes and screamed in agony until he could scream no more. When he opened his eyes again... his father was gone. Not only had he killed his father, but he had allowed thieves to steal his body for armour.\nBitter, lost and disillusioned, Kazan roamed the land aimlessly with his father's voice rattling in his head, taunting him, reminding him of his failures, sending him into fits of uncontrollable black rage. One day, walking in the woods, Kazan happened upon an Oni statue. He stopped and stood motionless for a long moment. The weathered and overgrown statue seemed to be ridiculing him, accusing him of being the impostor samurai he had so desperately sought to destroy. Kazan shook the laughing voice out of his head and half remembered the lord who had ridiculed him as 'Oni-Yamaoka.'\nWith renewed anger, Kazan journeyed to a town high up in the snowy mountains where the lord resided. A dozen samurai met Kazan at the gates of the town. A dozen samurai fell to his Kanabo. His speed and strength were unmatched. His rage was incomprehensible. Covered in blood and gore, Kazan battled through the town and soon found the lord hiding in a villa. He dragged him out of a cabinet, sliced his tendons to immobilise him and watched him beg and squirm like a dog. Without hesitation, he thrust his fist into the lord’s mouth and yanked out the wicked tongue that had desecrated his name.\nSatisfied, Kazan exited the villa to find himself surrounded by dozens of farmers wielding rusted scythes, sharp pitchforks, and heavy clubs. He survived the first few assaults, but there were too many attackers coming from every direction. Within moments Kazan was on the ground staring at a cold, indifferent, darkening sky as farmers took turns stabbing and torturing the 'Oni' who had butchered their beloved lord. The frenzied mob dragged Kazan into a small stone mill to continue the torture and finally left him to die a slow, agonising death. When they returned, the mill was filled with a strange black fog and Kazan’s body and the Kanabo were nowhere to be found. It was the beginning of a dark legend about a rageful Oni haunting the town.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/K18_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/StoreBackground_SK.png"
+		}
+	},
+	{
+		"number": 18,
+		"code": "thedeathslinger",
+		"name": "The Deathslinger",
+		"fullName": "Caleb Quinn",
+		"nationality": "Irish American",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Chapter XV: Chains of Hate",
+		"difficulty": "Hard",
+		"realm": "Grave of Glenvale",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Death to Bayshore",
+		"moveSpeed": "110% | 4.4 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Gearhead", "Dead Man's Switch", "Hex: Retribution"],
+		"perks_ids": [66, 67, 68],
+		"power": {
+			"powerId": 18,
+			"powerName": "The Redeemer",
+			"powerCode": "theredeemer"
+		},
+		"overview": "The Deathslinger is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, The Redeemer.\nHis personal Perks, Gearhead, Dead Man's Switch, and Hex: Retribution, allow him to locate and impede Survivor objectives, and punish Survivors for destroying Totems.",
+		"backstory": "Born in the dust-ridden badlands of the American Midwest, Caleb Quinn was son to struggling Irish immigrants. On the edge of the frontier, sickness, famine, and death were common sights, and pioneers contended for whatever scraps they could claim while tycoons feasted. Caleb's father, once an engineer, had few options to ply his trade as businesses posted a common sign: No Irish Need Apply. His antiquated tools laid untouched for years until Caleb uncovered them. Noticing his son's interest in the trade, he gifted him his old wrench.\nThe devices Caleb made under his father's guidance had quaint applications, but when his father was away, they took a grim turn. He hid plans for a mask that would gouge barbed needles into a human's eyes and rip them from their sockets, complete with sketches of it fitted on boys who bullied him.\nWith age, Caleb's engineering abilities became marketable and employers put their discrimination aside. Henry Bayshore, the owner of United West Rail, hired him.\nCaleb first invented a gun that shot railroad spikes into the ground. Next, he made a steam-powered tunnelling drill. But as Bayshore feigned indifference, the devices began turning up at other companies, the patents stolen from Caleb and sold.\nA familiar sensation coursed through Caleb's blood, feeding the sharp pain in his heart. Rage overwhelming him, he burst into Bayshore's office and smashed his face into a bloody stew. As he was pulled away, he pushed his specialised gun to his boss' gut and squeezed the trigger. A railroad spike ploughed through skin and viscera, nailing Bayshore to his desk.\nThe only thing that saved Caleb from hanging was Bayshore's unlikely survival. For fifteen years, Caleb was confined to Hellshire Penitentiary, the nation's first private prison. In a fortress of illiterate convicts, he found an unlikely friend in the educated prison warden. He designed torture devices for him and in return received extra meals. After a time, the warden offered to commute his sentence. He spoke of something greater than monetary wealth — political capital — and that his connections could have Bayshore framed and rotting behind bars for life. He had only one request: make him rich. Fill the prison. Use ingenuity to bring outlaws in alive.\nCaleb returned to his workshop, and with a few modifications emerged with something new — the speargun. The first trial occurred when a thief robbed a Chinese laundry. Seizing on the opportunity, Caleb unleashed his prototype. Metal joints screeched as the spike shot forward, gouging into the target's abdomen. But as the spear tugged, it caught the thief's intestines, and, with an ungodly sound, yanked them onto the dusty road. After several iterations, the disembowelments dwindled, but Caleb had already earned his new nickname: The Deathslinger.\nLooking to protect his asset, the prison warden pulled strings and released Irish inmates to form Caleb's posse. The Hellshire Gang was born. For six years, they roamed the country collecting wanted outlaws for the prison, fulfilling their end of the bargain. After a bloody battle at Glenvale, Caleb caught notice of a newspaper headline: Henry Bayshore Purchases Hellshire Penitentiary. In the picture, a disfigured Bayshore proudly shook the warden's hand. Caleb's heart pounded with rage, blood swelling as if it would burst from his veins. He'd been sold out, a pawn in a rich man's game.\nThe Hellshire Gang pledged their loyalty to Caleb and called for the warden's head. In a thundering gallop, they smashed through the prison entrance, shrieking like bloodthirsty marauders. A guard raised his pistol, but hesitated. A spear punctured his chest. Caleb grabbed the man's head and slammed it against a prison cell until it spilled through the bars.\nReaching the warden's office, Caleb kicked the door and was met with a fortunate sight — it wasn't only the prison warden who cowered in a corner, but Henry Bayshore. Overpowered with rage, Caleb rushed to Bayshore, beating, bludgeoning, tearing at his flesh. The man's blood dripped from his face, crimson pooling at his feet. The Hellshire Gang swarmed the warden, snapping bones with each kick.\nWith the two men broken and begging for death, the posse dragged them to the commons, where they were left to the growing crowd of prisoners.\nSoaked in blood and sweat, Caleb hobbled to his old cell, hardly paying notice to Bayshore's screams. He sat on the bed's edge as drops of blood ran from his fingertips. A thick, unnatural fog streamed through the barred window. He pulled out his old wrench, cracked and rusted, and ran a thumb along the metal, regarding it with faded eyes. He couldn't remember when it came into his possession. He didn't care to remember. At his feet, he saw a dusty path, and, at its end, silhouettes of all who had done him wrong: the boys who bullied him, the executives who took advantage of him, and, again... Henry Bayshore. Emerging from a fog were the tools to dispose of them — unforgiving steel hooks, brilliant and beautiful in their simplicity. Pain tore through his leg as he stood, but he endured, pushing onwards, walking the dusty path, leaving a trail of blood flowing behind him.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K19_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/UK_storeBackground.png"
+		}
+	},
+	{
+		"number": 19,
+		"code": "theexecutioner",
+		"name": "The Executioner",
+		"fullName": "Pyramid Head",
+		"nationality": null,
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter XVI: Silent Hill",
+		"difficulty": "Very Hard",
+		"realm": "Silent Hill",
+		"powerAttackType": "Special Attack (PotD Attack)",
+		"weapon": "Great Knife",
+		"moveSpeed": "110% | 4.4 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Forced Penance", "Trail of Torment", "Deathbound"],
+		"perks_ids": [69, 70, 71],
+		"power": {
+			"powerId": 19,
+			"powerName": "Rites of Judgement",
+			"powerCode": "ritesofjudgement"
+		},
+		"overview": "The Executioner is a map-manipulation Killer, able to torment Survivors with the hazards he creates. Affected Survivors will be vulnerable to his special Hook, the Cage of Atonement and his special mori, Final Judgement.\nHis personal Perks, Forced Penance, Trail of Torment, and Deathbound, allow him to aggressively defend his prey while deceiving and tracking Survivors.",
+		"backstory": "A sadistic and merciless executioner, Pyramid Head is fixated on dispensing punishment through pain.\nEncumbered by the steel frame upon his head and with a hulking great blade in tow, he stalked the hellish corridors of Silent Hill, committed to a duty that no one truly understood. Where he trod, even monsters fled for the shadows, and those who crossed his path fell victim to unrestrained acts of aggression.\nWhen his duty was complete and his presence no longer needed, he prepared for the long rest — and yet, his skills were required elsewhere. The Fog that streamed over him was somehow different than that he was accustomed to in Silent Hill, as if each wisp contained the nerves of a creature, writhing, seeking him out.\nThere was an unspoken agreement in that moment. The billowing cloud was an invitation to duty and sadism, and Pyramid Head, taking a step into The Fog, accepted his obligation once more.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/K20_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/34/K20_storeBackground.png"
+		}
+	},
+	{
+		"number": 20,
+		"code": "theblight",
+		"name": "The Blight",
+		"fullName": "Talbot Grimes",
+		"nationality": "Scottish",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Chapter XVII: Descend Beyond",
+		"difficulty": "Very Hard",
+		"realm": null,
+		"powerAttackType": "Special Attack (Rush)",
+		"weapon": "Bonebuster",
+		"moveSpeed": "115% | 4.6 m/s, 230% | 9.2 m/s (Rush)",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": ["Dragon's Grip", "Hex: Blood Favour", "Hex: Undying"],
+		"perks_ids": [72, 73, 74],
+		"power": {
+			"powerId": 20,
+			"powerName": "Blighted Corruption",
+			"powerCode": "blightedcorruption"
+		},
+		"overview": "The Blight is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, Blighted Corruption.\nHis personal Perks, Dragon's Grip, Hex: Blood Favour, and Hex: Undying, allow him to impose powerful effects on Generators, Totems and Pallets.",
+		"backstory": "To understand the human condition, one must rise above it. This was the credo of Talbot Grimes, a Scottish chemist whose unrestrained ambition took him to towering heights. As a boy, he was a popular child—bright, charismatic, and unafraid to challenge authority—yet despite his social graces he was fiercely independent, spending much of his time exploring the sprawling fields near his town alone. What began as a child's curiosity nearly turned deadly after experimenting with a patch of poisonous foxglove. For days, he laid in bed dripping with sweat, purging any food that touched his stomach. When he recovered, it wasn't fear that gripped him, but fascination. There was something magical in how a single flower could so drastically affect him.\nInto his adult years, his ambition developed as quickly as his questionable methods. He attended the London School of Medicine and excelled despite several reprimands. His willingness to push the limits secured him a position with the British East India Company, and within seven years he was made head chemist. In time, he completed one of his greatest achievements: a chemical that could increase a worker's productivity while reducing their need for rest. He was rewarded with a secret laboratory beneath a prison camp on Dyer Island.\nThere, off the coast of India, prisoners from the Opium War became his unwilling subjects, leading to a drug that allowed soldiers to withstand incredible amounts of pain. Though most side effects were minor, there were rumours that a small number of soldiers went mad. In feral states, they massacred villages, impaling the populace on bayonets, leaving them hanging from trees. There were no official reports on the subject, and Talbot refused to blame himself for what could only be exaggerated war stories.\nThough his callous brilliance seemed unflappable, he was ignorant to the enemies his questionable work had amassed. The realisation struck him quite literally—with a steel pipe to the back of his head during a trip to Mangalore. He was bound and loaded into a wagon. When his blindfold was removed, a sickly man showed him a mass grave filled with hundreds of bodies. Unbeknownst to Talbot, his productivity-increasing drug had killed nearly an entire factory's worth of workers. He knew he couldn't defend himself against the anger and accusations of his abductor—all he could do was curl up as the blows from the steel pipe rained down. His body was thrown into the grave and left for dead. Shifting between consciousness and the darkest black, he crawled for an escape, fingers sinking into rotting flesh. Black flies feasted on his uncovered skin, the sensation of a hundred pin pricks stabbing into him. As he collapsed, he came face to face with a dead woman's dazzling hazel eyes. Too weak to pull away, he could do nothing but witness his life's work.\nThen, from the edge of death, he was brought back. He found himself on a small bed as a kindly, wrinkled face looked over him. With each pained breath, he was nursed back to health in an ancient mystery school posing as a monastery. In verdant gardens behind tall, unassuming walls, monks studied forbidden texts, striving to expand the human mind in the search for other dimensions—believing one to be connected to the other.\nTalbot's knowledge proved indispensable, his mind-altering chemicals integrating seamlessly with theories of neural expansion. He realised then that his salvation was no coincidence—he was plucked from the pit specifically to advance the school's knowledge. He agreed to help until his recovery was complete, being tasked with researching what the monks called the soul chemical, a compound derived from the pineal gland that could open the mind's eye. What began as a favour to his saviours, soon became an obsession. Poring over the school's archives of lost texts, he uncovered scientific formulas that confirmed previously unthinkable ideas. He dreamt of ushering humankind into a new period of enlightenment. Perhaps then, the nightmares of hundreds of dead factory workers—and of those two hazel eyes—would fade from his mind.\nAs he came closer to a breakthrough, the demeanour of the monks shifted. The gentle smiles they offered were paired with uneasy eyes that quickly darted away when spotted. The polite conversations he was once privy to turned to hushed murmurs. The last thing he would see of the school was the cracked ceiling above his bed, branching like a dendrite through plaster.\nHis next memories were a shattered mosaic of images and sensations. Smearing lights, horse hoofs on cobblestone, coarse burlap scratching at his cheeks, and sharp bites into his arm. He awoke ragged and unwashed, splayed on the straw mattress of an opium den. Mind in a dense fog, his first thought was of his notes, the only record of his groundbreaking revelations. He searched frantically, scrambling through the dingy basement, pleading aloud for help. The few other denizens looked up from their hammocks, offering nothing but drug-soaked eyes and apathetic gazes that soon fell into half-slumber. Before he noticed the robed figure appear behind him, a needle plunged into his arm and the world disappeared once more.\nAwoken. Again. Each time, hazier than the last. He tongued at hollow gaps between his teeth. How long, he wondered. A faint memory returned. The soul chemical. His notes. The verge of a breakthrough. A faraway whisper entered his mind.\nHe fumbled with a stone, sharpening it with shaking hands. In the dim light of the den, amongst the catatonic occupants, he carved his research from memory into the walls. He wrote for hours until his fingers bled, moving to the floor, taking in everything the voice whispered despite his inability to comprehend it. When there was nowhere left to write, he gripped the stone and carved the message into his chest. Stained with blood, he witnessed a miracle appear before him—a magnificent field of lush, orange flowers. The whispered voice beckoned to him, urging him to enter the field and discover worlds and dimensions beyond human comprehension. For a moment, Talbot felt the sense of wonder he possessed as a child.\nThe denizens of the opium den awoke to silence, the dry scent of smoke still lingering in the air. Shambling out of their drug-hazed fog, they found the stone floor wet with blood, tiny rivulets coursing through the cracks. As eyes adjusted to the darkened room, the jagged lettering scrawled along its length began to appear. Written over and over without end, there was but one single line: Death is only the beginning.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/K21_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/YK_storeBackground.png"
+		}
+	},
+	{
+		"number": 21,
+		"code": "thetwins",
+		"name": "The Twins",
+		"fullName": "Charlotte and Victor Deshayes",
+		"nationality": "French",
+		"gender": "female, male",
+		"licensed": false,
+		"dlc": "Chapter XVIII: A Binding of Kin",
+		"difficulty": "Very Hard",
+		"realm": null,
+		"powerAttackType": "Special Attack (Victor Pounce)",
+		"weapon": "Blade of Marseille",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Hoarder", "Oppression", "Coup de Grâce"],
+		"perks_ids": [75, 76, 77],
+		"power": {
+			"powerId": 21,
+			"powerName": "Blood Bond",
+			"powerCode": "bloodbond"
+		},
+		"overview": "The Twins are a cooperative pair of Killers, able to divide and hunt together using their Power, Blood Bond.\nTheir personal Perks, Hoarder, Oppression, and Coup de Grâce, allow them to monitor Survivors' actions, impede their progress, and hunt more effectively.",
+		"backstory": "A pair of conjoined twins, Charlotte and Victor Deshayes formed an emotional bond like none other. The unlikeliness of their successful birth in the 17th century could be described as miraculous, yet it immediately brought about their life of persecution. The twins emerged with Victor's lower body affixed into the chest of his sister, legs twisted around her muscles and organs. He was smaller than Charlotte, grown as if he were an appendage of her body rather than a fully formed boy. As the new-borns screeched, so too did the midwife who delivered them, running from the home, yelling of a demon birthed by a witch. So began the hunting of Charlotte, Victor, and their mother Madeleine.\nThe coming years were fleeting memories for the twins, yet they were the closest thing to a normal life they would know. The journey with their mother was what they believed all children underwent, the games of running and hiding through France's countryside being an ordinary occurrence. At the age of five, a new challenge to the game was presented as their mother fell ill. Pale and exhausted, Madeleine had no choice, but to pass responsibility of collecting food onto Charlotte. The girl, burdened under extra clothing that concealed Victor's protruding body, set out from their forest tent and marched to the nearby town. Though a peculiar sight, she did what she had been trained for, waiting for an opening at the market and swiping whatever food she could. It was a victory in the game, but one short-lived.\nAfter midnight, glowing flames surrounded the family's encampment, bobbing through the darkness. A single commanding shout broke the night's silence and a mob of witch hunters streamed in. Grubby hands tore the twins from their bed, Charlotte frantically kicking all who approached. Madeleine cried for her children, her voice abruptly silenced by a club to her skull. Victor shrieked, the wailing of a trapped rat.\nThe hunters coordinated quickly. A judge on-hand declared Madeleine guilty of witchcraft, evidenced by her demon spawn. Within minutes, they shackled her unconscious body to a tree, surrounding her feet with dry twigs and moss. As she awoke, she did not struggle, only begged her children to turn away. They would be given no choice. The twins were forced to watch as the torch was lit, and they watched as flames leapt up their mother's skirt, charring and sizzling her flesh. They watched as fat dripped from her body, and her face bubbled and twisted. They watched until the screams that tore her vocal cords were no more, and all that was left was the crackling of embers and a nauseating stench.\nWhatever joy and goodness were in them died with their mother. Caged and transported to an old wooden temple, they were sold to a secretive group clad in dark cloaks. Victor reacted with the ferocity of a rabid beast at any who approached, clawing and biting. The only solace that could calm him was the embrace of his sister. Charlotte, bitter and hateful to all but her brother, found purpose in being his protector.\nWithin the temple, they were exposed to unusual experiments — some cruel, many simply baffling. One day they would be made to break the neck of a small grey bird. The next, they would bleed their fingers into a vase of roses. Every seventh day, they would sleep with the branch of a damp oak beneath their pillow. Then there was the chanting: a never-ending chorus from cloaked figures on scheduled intervals.\nIn time, a final experiment was planned. Two robed figures herded the twins to the centre of the temple, holding Charlotte upon an altar in a room lit with candelabras. The wrinkled face of a man peered from under his hood, placing a hand on the forehead of each twin, making careful examination of their skulls. Memento mori, he uttered, as he withdrew a shining blade.\nCharlotte rolled to her side, shifting her brother off the altar. With a screech, he stretched his arm as far as he could, knocking a candelabra to the ground. The flames took to the dry wood immediately. They swept over the floor, igniting the black robes that brushed against it. Screams of agony pierced the chaos, invigorating Charlotte. She dashed through the inferno, vision concealed with nothing, but black smoke and blazing flame. A painful heaviness filled her lungs. No exit could be found, every step leading to overwhelming heat. She fell to her knees, suffocating, and then saw it — sunlight, trees. She stumbled from the fire into dewy grass. Without looking back, she ran into the forest until she collapsed.\nWhen Charlotte opened her eyes, she reached for Victor's hand. He made no attempt to budge. His body hung helplessly from her torso. She clasped his face, stared into his sad, still eyes. The movements she was accustomed to — his body pulling at her skin, his legs prodding at the cavity in her chest — were no more. Victor was dead.\nCharlotte had no choice, but to continue moving as she mourned, fearing black cloaks and witch hunters were prowling. She concealed her brother's corpse under her clothing and marched for the sewers of a nearby city. There, she set up camp, emerging often to steal whatever food she could, resorting to raiding barns for pig slop when desperation set in. Throughout the years, Victor's corpse rotted as his limbs oozed and blackened, yet his body demonstrated resistance to complete decomposition, as if his sister's blood still coursed through him. Protecting his lifeless body became Charlotte's sole reason for being, refusing to ever be separated from the only family she had left.\nLife into her teenage years was a game of survival. Her hatred for humanity grew each day under the realisation they would never leave her be. No matter how many died during her botched robberies and desperate attempts to escape, there would always be more to pursue and sling words of condemnation at her — monster, demon, witch. And it was the black cloaks who were the worst of them. Their hunt for her was unending, forcing her to constantly abandon shelter and run.\nFor years, Charlotte fled, drawing blood out of necessity, cradling her long-dead brother in the night. During a frigid winter, her body began to break down. Food was scarce and the refuge of rickety shacks were no use against freezing temperatures. Sickle in hand, she sheltered near her campfire in the woods, not knowing if the black cloaks would take her before the cold did. As frost crystallised around her nostrils and her lips took on a gentle blue hue, Charlotte felt something she had never experienced: acceptance. She closed her eyes, opening herself to the serenity of death when — a shriek, shrill and vicious pierced her ears. Victor spasmed and flailed from her chest, a cloud of fog encompassing him. Before she could react, he spilled from her in a bloody puddle, landing on the snow and running.\nPulling herself from the edge of death, she gave chase. Calling his name, she ran through the forest until her legs could hardly carry her, until finally, within her view, was Victor, sitting at the edge of a thick fog. His face, twisted and feral, screamed as a dark hooded figure emerged from the fog, grabbed his arm, and seized him. The serenity that had crept into Charlotte was extinguished, replaced with the seething hatred and rage she had depended on for so long. With a tight grip on her sickle, she charged into the fog, prepared to eviscerate any who set foot near her brother.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/K22_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/K22_storeBackground.png"
+		}
+	},
+	{
+		"number": 22,
+		"code": "thetrickster",
+		"name": "The Trickster",
+		"fullName": "Ji-Woon Hak",
+		"nationality": "South Korean",
+		"gender": "male",
+		"licensed": false,
+		"dlc": "Chapter XIX: All-Kill",
+		"difficulty": "Moderate",
+		"realm": null,
+		"powerAttackType": "Special Attack",
+		"weapon": "Polished Head-Smasher",
+		"moveSpeed": "110% | 4.4 m/s",
+		"terrorRadius": "24 m",
+		"height": "Average",
+		"perks_names": ["Starstruck", "Hex: Crowd Control", "No Way Out"],
+		"perks_ids": [78, 79, 80],
+		"power": {
+			"powerId": 22,
+			"powerName": "Showstopper",
+			"powerCode": "showstopper"
+		},
+		"overview": "The Trickster is a ranged Killer, able to quickly unleash a flurry of blades by using his power, Showstopper.\nHis personal Perks, Starstruck, Hex: Crowd Control, and No Way Out, allow him to quickly down would-be rescuers and block areas of the environment to his advantage.",
+		"backstory": "Ji-Woon Hak thrived under the attention of others, energized by every eye that watched him and every tongue that spoke his name. Amidst the prestige, he had only one desire: more. Even as a child he found ways to draw crowds. Working at his family's restaurant, he attracted business with spectacles he performed using throwing knives. Gullible tourists believed this was a traditional South Korean experience, gladly parting with their money to witness it. Ji-Woon's father spent the restaurant's earnings on dancing and vocal lessons for his son, pushing him to attain the fame he never could.\nJi-Woon did not disappoint. After years showcasing his abilities to nobodies at talent shows, he hit the track to stardom. Yun-Jin Lee, a producer at Mightee One Entertainment, recruited Ji-Woon into her training program. He transferred to a dormitory in Seoul where, for fourteen hours a day, he was crafted into a star, taught how to move and sing, how to carry himself with the right balance of confidence and modesty.\nDraining as the process was, it worked. Yun-Jin selected Ji-Woon to join the band NO SPIN, bringing a raw energy to their tracks. Fame was almost immediate. Ji-Woon lived in a daze of interviews and adoration, and though the frenzied schedule exhausted his bandmates, he was invigorated. Each day was an affirmation that he was greater than the mediocrity society spewed out.\nBut over time, the champagne grew stale. When he looked at his fans, he saw their joy and envy split five ways, thinned out between each band member. The validation that had surged through him left a desperate yearning for more.\nJi-Woon kept up impressions, mimicking a charm long buried under loathing. He recorded the latest NO SPIN album with his bandmates, never missing a beat. After a lengthy lunch break, he returned to the studio to discover fate had granted him a gift. The scent of burning wires was unmistakable. He rushed to the control room, finding the door blocked by fallen speakers. On the other side, his bandmates pounded on the door, their cries accompanied by the crackling of flames.\nJi-Woon called to them, dashing to the speakers, grabbing one and—stopping. He froze. Each breath was a conscious, deliberate process requiring all his attention, the nearby cries hardly audible until, slowly, he backed away. And then he heard it. They were screaming his name as they burnt. Screaming for him to save them. Ji-Woon! Ji-Woon! Ji-Woon Hak! It was the most beautiful thing he'd ever heard. When the fire crew arrived, his tears were genuine.\nJi-Woon was celebrated as a tragic figure, a hero who did all he could in a futile attempt to save his friends. Yun-Jin paraded him through interviews until it was time to rebrand. He was reborn as The Trickster, a solo artist who produced his own songs, sporting a soft heart beneath a wild exterior. But, away from concert set-ups and television stages, something darker grew.\nHe targeted those who lived alone, coming to them in the night. The first was a college music student with a captivating voice. Ji-Woon woke him with a baseball bat to the skull, binding his arms and legs, gagging him with a rag duct taped into his mouth. He tortured him for hours, dissecting him alive. Yet there was something missing—a sound, a connection. He wanted to hear the victim's wonderous voice pleading as he cut his belly open, but all he received was muffled cries through a rag.\nHe learnt and adjusted.\nVictims had to be abducted, driven to an abandoned building where he could let their voices carry unrestrained emotion. He made music from them, prodding in the right places to evoke different types of shrieks and howls. Stabbing the quadratus lumborum elicited a long, guttural wail, while slashing the carotid artery created a sound like a cat being strangled. There was honesty in their suffering. Ji-Woon recorded each session, synthesizing and working them into his songs, hiding them behind layers of melodies.\nHe was elated with his work. He left hints for police, arranging a mink boa from a recent photoshoot around a victim's slashed throat. For his next killing, he removed the teeth from a man that a boxer in one of his music videos was without. During a particularly audacious plea for attention, he killed a fan he had met during a VIP meet-up, replacing her eyes with his diamond cufflinks and writing I HAVE SEEN GOD in blood across her chest. Each scene was a dazzling spectacle.\nBetween music and murder, Ji-Woon's work was discussed globally. However, as violence became his preferred art style, his music career took a hit. Revenue was down and Mightee One executives pointed their fingers at him. Yun-Jin, with professional fury, came to his defence, but she was outnumbered. It was decided that Ji-Woon could no longer self-produce his songs.\nThe decision was devastating. His tracks fused genuine humanity into music, yet executives rejected anything that wasn't generic and expected. And so be it. If they couldn't understand his art, he would incorporate them into it until they did.\nHe had three months until he was to perform a private show for Mightee One's board members; three months to plan his magnum opus. He transferred obscene amounts of money to a veterinarian in exchange for cannisters of nitrous oxide, then bribed the stage technician of Mightee One's private theatre for access to the room. His celebrity granted him a benefit of the doubt no regular person could conceive. When the show was ready, gas seeped into the room as executives and stagehands awaited Ji-Woon, conveniently running behind schedule.\nWhen he arrived, half-conscious bodies were splayed in their seats and crawling across the floor. He worked quickly, binding everyone, pausing only when he came to Yun-Jin — the woman who had plucked him from a mudhole and set him on the path he deserved. She would be rewarded, granted special access to the coming display of wonder. Even under sedation, she fought, a raging storm within her, far stronger than the others. He propped her up as the lone audience member, prying her eyes open. The others, snivelling and sobbing, were brought on stage to perform their final act. With a contemptable sneer, he slapped makeup onto their faces and shone stage lights upon them. They became his instruments.\nTo the sound of self-produced melodies, he tortured them, gracefully dashing from one body to another, conducting an operatic crescendo from their wailings. They shouted, whimpered, screamed, cried for their loved ones, cried for their mothers. It was a magnificent outpouring of emotion, of what it meant to be human, and they did it with eyes fixed on Ji-Woon.\nViscera drained from the stage until, with the toss of his throwing knife, the final human instrument fell silent and the music stopped. Covered in sweat and blood, an exhausted Ji-Woon looked to Yun-Jin and bowed. Curtain call. He had attained perfection. With blade in hand, he made his way to Yun-Jin, prepared to tie up loose ends before the credits rolled. But as he reached her —\nThe Fog.\nFrom where, he didn’t know, but it billowed around them, damp, cool... comfortable. He saw the grand stage: hospitals and temples, forests and slaughterhouses — an eternal plane adorned with rusted hooks, sustained by the million eyes that would watch him, run from him, experience him. All he had to do was accept, become an implement of The Fog and, most importantly, make them scream.\nEncore!",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/K23_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f8/K23_storeBackground.png"
+		}
+	},
+	{
+		"number": 23,
+		"code": "thenemesis",
+		"name": "The Nemesis",
+		"fullName": "Nemesis T-Type",
+		"nationality": "Unknown (grown by Umbrella Europe)",
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter XX: Resident Evil",
+		"difficulty": "Hard",
+		"realm": "Raccoon City",
+		"powerAttackType": "Special Attack",
+		"weapon": "Raw Fists",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Lethal Pursuer", "Hysteria", "Eruption"],
+		"perks_ids": [81, 82, 83],
+		"power": {
+			"powerId": 23,
+			"powerName": "T-Virus",
+			"powerCode": "tvirus"
+		},
+		"overview": "The Nemesis is an unrelenting Killer, capable of attacking at mid-range with his tentacle, while receiving support from Zombies roaming the area.\nHis personal Perks, Lethal Pursuer, Hysteria, and Eruption, allow him to quickly ambush Survivors, while sowing confusion and fear when injuring and hooking them.",
+		"backstory": "Resident Evil\nThe Nemesis is a Model T-103 Tyrant, a superhuman bio-organic weapon mass-produced by Umbrella Corporation.\nUnlike previous prototypes, it possessed near-human intelligence and could follow orders.\nIt was flown into Raccoon City alongside other Tyrants and ordered to eliminate any remaining members of S.T.A.R.S., including Jill Valentine.\nThe Nemesis, like all T-103 Tyrants, was infected with the T-Virus during its creation.\nHowever, due the T-Virus degrading the host's brain and causing a decline in intelligence to the degree of making it impossible for the host to follow complex orders, T-103s were additionally infected with the NE-α Parasite, which would take control of the host's body, bypassing the degrading brain and providing The Nemesis with near-human intelligence.\nWhen The Nemesis uses his tentacle, it is not actually a tentacle, but the parasite within him, as the NE-α Parasite is a worm-like creature.\nDead by Daylight\nDesigned by Umbrella Corporation, The Nemesis is a nearly unstoppable bio-organic weapon fixated on pursuing and eliminating its targets.\nPart of the Tyrant T-103 series, this specimen has increased intelligence and awareness due to the NE-α Parasite implanted within it.\nIts first mission unleashed it upon Racoon City, where it had a singular objective: exterminate S.T.A.R.S. members.\nRampaging through the city, The Nemesis faced off against Jill Valentine multiple times, and though she managed to escape, he was never far behind.\nHe nearly had his target, when a strange fog descended upon them, mixing with the smoke of a city in chaos.\nThe phenomenon meant nothing to him—the frigid cold and decreased oxygen never posing a threat.\nAll that mattered was soldiering on into The Fog, continuing the mission: find S.T.A.R.S., exterminate S.T.A.R.S., and kill anyone who gets in the way.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/K24_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/K24_storeBackground.png"
+		}
+	},
+	{
+		"number": 24,
+		"code": "thecenobite",
+		"name": "The Cenobite",
+		"fullName": "Elliot Spener alias Pinhead",
+		"nationality": "English",
+		"gender": "male",
+		"licensed": true,
+		"dlc": "Chapter XXI: Hellraiser",
+		"difficulty": "Very Hard",
+		"realm": null,
+		"powerAttackType": "Special Attack",
+		"weapon": "Hook and Chain",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Deadlock", "Hex: Plaything", "Scourge Hook: Gift of Pain"],
+		"perks_ids": [84, 85, 86],
+		"power": {
+			"powerId": 24,
+			"powerName": "Summons of Pain",
+			"powerCode": "summonsofpain"
+		},
+		"overview": "The Cenobite is a summoning Killer, able to possess Chain Projectiles and use the Lament Configuration to torture every Survivor at once.\nHis personal Perks, Deadlock, Hex: Plaything, and Scourge Hook: Gift of Pain, allow him to slow Generator Progression and continue to torment Survivor who have experienced his sweet suffering.",
+		"backstory": "A demon to some, an angel to others. Pinhead is an explorer in the further regions of experience, indulging in the limitless thrill of pleasure and pain. When the puzzle box known as the Lament Configuration — a key to another dimension — was found in The Entity's Realm, it was only a matter of time before it fell into curious hands. Once opened, he arrived. What came next was sweet suffering that spilled over the Realm.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/35/K25_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/K25_storeBackground.png"
+		}
+	},
+	{
+		"number": 25,
+		"code": "theartist",
+		"name": "The Artist",
+		"fullName": "Carmina Mora",
+		"nationality": "Chilean",
+		"gender": "female",
+		"licensed": false,
+		"dlc": "Chapter XXII: Portrait of a Murder",
+		"difficulty": "Moderate",
+		"realm": "Forsaken Boneyard",
+		"powerAttackType": "Special Attack (Dire Crow Hit)",
+		"weapon": "Sharp Palette Blade",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Average",
+		"perks_names": [
+			"Grim Embrace",
+			"Scourge Hook: Pain Resonance",
+			"Hex: Pentimento"
+		],
+		"perks_ids": [87, 88, 89],
+		"power": {
+			"powerId": 25,
+			"powerName": "Birds of Torment",
+			"powerCode": "birdsoftorment"
+		},
+		"overview": "The Artist is a ranged-reconnaissance Killer, able to launch Dire Crows across the Map to reveal and attack Survivors.\nHer personal Perks, Grim Embrace, Scourge Hook: Pain Resonance, and Hex: Pentimento, allow her to interrupt Survivor objectives, torment hooked Survivors, and use destroyed Totems to her advantage.",
+		"backstory": "Carmina Mora was a gifted artist who carried the guilt of her young brother's death. Growing up a rugged coastal village in southern Chile, she sketched the sublime landscapes of Patagonia. Sitting outside, she painted dramatic fjords while feeding the crows nested in the tree next to the house.\nShe grew up carrying the guilt of her mother's sudden departure. Her father blamed Carmina for her mother's abandonment, which added to her grief. She became the caretaker of Matias, her little brother, despite still being a child herself.\nA year later, Carmina was painting with Matias outside when the telephone rang. Her father remained in the yard, drinking his beer. Carmina rushed to the house to answer the phone and hung up a few seconds later. When she returned outside, Matias was nowhere to be seen. She asked her father, but he had paid no attention to Matias. She called her brother's name, looking for him everywhere. While searching, she saw a bright red coat floating on the narrow creek by the house — Matias' jacket. She jumped into the creek and found him floating on the surface with vacant eyes, unblinking. He had fallen and drowned.\nHer scream tore the sky. Her father found Carmina sobbing on the creek's shore, clutching her brother's body in her arms, surrounded by a murder of crows. Her father snatched Matias's body away from her, and she cried until her voice broke.\nThe following morning, the world was cloaked in darkness. Her father did not say a word, because he did not have to. Carmina knew it was all her fault. Months passed, yet her loss was as fresh as morning dew. Crippled with self-loathing, she could no longer paint. Without Matias, life had no meaning.\nOn the bleak morning of Matias' birthday, Carmina walked to a narrow bridge several blocks away from home. She was convinced that nothing could bring her relief. Her mother was gone, her brother was dead, and her father blamed her for it all. She was convinced that she had nothing left to live for.\nCarmina walked to the railing of the bridge that stood over the turbulent river. Locals had nicknamed the spot DeathLeap. Several cars drove by Carmina, but none stopped. No one seemed to care. She climbed over the railing and her legs wobbled as she stood on the lip of the bridge. She looked down, watching the fierce river smash into a giant boulder. She closed her eyes.\n\"See you soon, Matias.\"\nSuddenly, a cacophony of caws filled the sky. Carmina opened her eyes and saw a black cloud of feathers flying towards her. The cloud split open and glossy black crows dove from the sky. One landed on her shoulder and stared intently into Carmina's eyes, as if peering into her soul. Her grip on the railing loosened and the crow cawed raucously. Carmina stared at the crow, confused.\nAnother crow landed on the railing, then another. Soon, a flock of crows were covering the railing of the bridge, staying close to her. She felt their heavy stare on her, calculative and enigmatic, as if they were assessing her. She looked down for a second and a thunder of caws interrupted her dark impulse. The crows seemed to care about her wellbeing. As she dangled over the edge with the wind blowing through her raven hair, Carmina felt akin to them. For the first time since Matias had died, Carmina did not feel alone.\nShe returned home, giving life another chance. The crows left, but Carmina suspected that if anything happened to her, they would return.\nInspired by her ordeal, Carmina picked up a brush. In the weeks that followed, she painted her experience, using black ink to depict the DeathLeap with a black cloud of feathers, the murder of crows that saved her life. The experience was transformative and launched her signature, black-ink surrealist art.\nAfter several years, some colour pierced the darkness, and this shift of medium expanded her art form. She painted large-scale murals on busy street corners, designed grandiose costumes, and recited militant poetry. Carmina's art displayed local, intimate tragedies on a large scale, making them impossible to ignore. And everywhere she performed, crows followed.\nHer performances grew bold and drew the attention of artists who found her style invigorating. She grew close to a group of painters who understood her iconoclastic vision. Her performances launched the Large-Scale Surrealist movement, which became a phenomenon.\nHer renown grew enough to attract the commission of a multinational enterprise, The Vack Label. Carmina investigated the group, discovering that they gifted art pieces to select disreputable congressmen. Vack's commissioned artists seemed to disappear afterward.\nDetermined to expose the group's link to corrupt politics, Carmina accepted Vack's commission. The following week, Carmina painted a giant mural on a cemetery's columbarium, displaying the Vack Label logo as a surrealist grim reaper harvesting the fields of Chilean families. She wore a theatrical dress as she painted, on which she had stitched a poem about political revolution.\nThe piece sparked a radical debate about corruption. The controversy painted a target on Carmina's back. After receiving anonymous death threats, she took refuge in her father's house, bringing along her closest friends for safety.\nThat night, a gang of masked gunmen broke into the house. They swiftly subdued Carmina and her friends, threw them in a van, and drove off.\nThe following morning, a dry breeze blew sand on Carmina's face, awakening her. She was seated in a chair in the middle of the desert, with her legs tied and her hands handcuffed. Her friends were lying on the ground, tied up. A shadow fell over her face. Carmina looked up.\nA man dressed in a long robe with his face hidden in a dark hood approached her. He pulled a silvery knife from his robe.\nHe grabbed her hands and recited a hymn in an unfamiliar language. Carmina held his gaze. He paused and brought down his blade with a sudden blow.\nShe cried in agony as her friends woke to a terrible sight; Carmina's severed hands falling in the sand.\nThe hooded man smiled in satisfaction. \"How are you going to paint now?\" Carmina cursed and screamed at him, wriggling against the bonds on her legs.\nThe man grabbed Carmina's chin. She spit in his face.\nHe grunted and pried her mouth open, pulling out her tongue. Carmina struggled in his hold. In a violent blow, he chopped off Carmina's tongue.\nShe howled in anguish. The man wiped his blade on his robe, leaving a trail of blood. \"How are you going to recite poems now?\"\nSorrow swelled in Carmina's chest, sharper than pain. Overwhelmed by uncontrollable rage, grief and loss overcame her senses. She had lost her little brother. And she had lost the only way to cope with such pain. Carmina screamed like on the day her brother died.\nRaucous caws echoed through the wasteland. The sky was obscured by a cyclone of dark clouds. Black feathers fell on Carmina's bleeding arms. She looked up and saw a torrent of crows erupting from the clouds, diving on the hooded man.\nAs the ravenous crows pecked at his flesh mercilessly, Carmina smiled, watching her Surrealist art coming to life.\nBut her heart lurched with rage when she saw the crows move on to their next target, her friends on the ground. She screamed as waves of pain, guilt, and fright overwhelmed her. But it was in vain, the ravenous crows were uncontrollable.\nDarkness fell over her eyes as her friends' agonising screams grew more acute. Death was coming and again, it was her fault.\nA deep, Black Fog engulfed her.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/19/K26_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/K26_storeBackground.png"
+		}
+	},
+	{
+		"number": 26,
+		"code": "theonryo",
+		"name": "The Onryō",
+		"fullName": "Sadako Yamamura",
+		"nationality": "Japanese",
+		"gender": "female",
+		"licensed": true,
+		"dlc": "Chapter XXIII: Sadako Rising",
+		"difficulty": "Hard",
+		"realm": null,
+		"powerAttackType": "Basic Attack",
+		"weapon": "Ring of Fury",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "24 m",
+		"height": "Short",
+		"perks_names": [
+			"Scourge Hook: Floods of Rage",
+			"Call of Brine",
+			"Merciless Storm"
+		],
+		"perks_ids": [90, 91, 92],
+		"power": {
+			"powerId": 26,
+			"powerName": "Deluge of Fear",
+			"powerCode": "delugeoffear"
+		},
+		"overview": "The Onryō is a vengeful ghost imbued with the power of Nensha, the Onryō is able to silently and invisibly traverse the Realm, manifesting when she is ready to strike.\nHer personal Perks, Scourge Hook: Floods of Rage, Call of Brine, and Merciless Storm, allow her to expose hidden Survivors, surveil Generators, and hamper Repair progress.",
+		"backstory": "A powerful and lethal onryō, Sadako Yamamura was the daughter of a famed seer from Izu Oshima, Japan.\nHer mother left many questions unanswered. In her hometown, sailors disliked the way her mother would spend days on the beach, her eyes fixed on the foaming waves of the sea. Some said, frolic in brine, goblins be thine--if you keep playing in the water, the monster will come for you.\nNine months later, Sadako was born. As a child, her immense powers seemed impossible to control and flared in anger. This became apparent when she was unable to control her rage during a public demonstration of her mother’s powers. When a journalist called her mother a fraud, Sadako’s powers surged, and the journalist collapsed on the floor, struck dead.\nThen everything went wrong. Her mother passed away and shortly after Sadako was lured to an old, crumbling well. As she leaned over the rim, a long shadow fell over her. She turned and a sudden jolt of pain hit her over the head, cracking it open. Her vision dimmed and her mind swirled into unconsciousness. She felt two hands pushing her over the rim.\nPain exploded in her skull as she hit the cold ground. A grinding noise came from above and the well darkened, all light obscured like a midday eclipse.\nEvery inch of her body screamed in pain. Looking up, she saw the only way out. She dug her nails into the muddy ground and slowly crawled toward the cobbled wall. She gripped the stones to climb but had neither hold nor strength. Each time she clawed up a few inches, her nails slid against the wet wall and she slipped down. Her fingers gushed with blood as the coarse cobblestone tore off her nails and lacerated the flesh underneath. And yet she tried, again and again.\nDecades later, the meadow became a resort, and a log cabin was built above the well. When a visitor rented the cabin, Sadako found an opportunity for revenge. She summoned all her nensha power and projected a terrible curse on a videotape that killed its viewer after seven days.\nHer wrath was like the tides of a stormy sea, violent and unforgiving. As she plunged into a fury, a dark fog coiled at her feet. The sound of crashing waves echoed through the old stone well.\nSuddenly, a tidal surge came crashing down on the cabin's walls, wrecking its logs into a torrent of mud and filth. The black current flooded the well underneath and swallowed Sadako at once.\nWhen she opened her eyes, she stood on a desolate beach facing a vast, stormy ocean. A thick, black fog caressed the water's surface.\nSadako walked into a coming wave and slowly disappeared into the opaque fog.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e2/K27_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/K27_storeBackground.png"
+		}
+	},
+	{
+		"number": 27,
+		"code": "thedredge",
+		"name": "The Dredge",
+		"fullName": "N/A",
+		"nationality": "N/A",
+		"gender": "N/A",
+		"licensed": false,
+		"dlc": "Chapter XXIV: Roots of Dread",
+		"difficulty": "Moderate",
+		"realm": "Withered Isle",
+		"powerAttackType": "Basic Attack",
+		"weapon": "Knotted Appendage",
+		"moveSpeed": "115% | 4.6 m/s",
+		"terrorRadius": "32 m",
+		"height": "Tall",
+		"perks_names": ["Dissolution", "Darkness Revealed", "Septic Touch"],
+		"perks_ids": [93, 94, 95],
+		"power": {
+			"powerId": 27,
+			"powerName": "Reign of Darkness",
+			"powerCode": "reignofdarkness"
+		},
+		"overview": "The Dredge is a manifestation of the dark thoughts of a once-vibrant community, able to teleport between Lockers and summon an overwhelming darkness.\nIts personal Perks, Dissolution, Darkness Revealed, and Septic Touch, allow it to destroy Pallets, spot Survivors near Lockers, and afflict healing Survivors with Blindness and Exhausted.",
+		"backstory": "The Fold was founded on a private American island in the 1960s by a group of anonymous philanthropists. Their goal was to establish a peaceful society free of dark thoughts and emotions, attracting the dismayed, disenchanted, and disillusioned from all over the country.\nThis peace-loving community thrived over the years, and members freely followed the dictates of its charismatic leader Otto Stamper who taught his followers the secret of maintaining happiness through joy-talk, meditation, and the endless reciting of 'good-thinking' mantras.\nBut not all was bliss within The Fold, and Otto swiftly banished anyone who confessed to having dark thoughts or speaking dark words. Those he appointed as guardians of The Fold were quick to root out malcontents, banishing anyone who thought or spoke against the almost perfect community he had established.\nLife was more or less a Utopian dream on the island until, that is, the darkness began to slowly leak through the cracks of their spiritual dam and members began to mysteriously disappear.\nIt wasn't long before fear closed its septic jaws on the island and refused to let go.\nThe once happy community now gathered in a few homes chanting all the 'good-thinking' mantras in a desperate attempt to rid their lives of this formless creature that seemed to stalk them in the shadows and consume them in their sleep.\nOtto tried to quell his followers, telling them that there were malcontents among their ranks and that they alone had summoned the Druanee to their Garden of Joy.\nAs The Fold bleated fear, Otto evoked desperate measures. Ottomarians were restricted to their homes to prevent the spread of rumours and dark-talk while sleep was forbidden to prevent anyone from releasing dark dreams into the world. Freedom and sleep would return just as soon as the Druanee was no longer upon them.\nBut when Ottomarians continued to disappear, Otto assembled his followers near the beach where he placed a screaming woman on a wooden stage. There, in the rain, Otto explained to his drenched, alienated, and sleep-deprived congregation that the woman was a journalist here to destroy everything they had created.\nAs the guardians held the trembling woman, she screamed that Otto wasn't the savior he claimed to be. He belonged to an ancient cult, an exclusive club of billionaires that took pleasure in corrupting and sacrificing people, towns and even countries to an Elder God. The journalist told them Otto hadn't banished anyone! He had tortured and sacrificed them and that they would all be next.\nWithout hesitation, Otto slit her throat before she could continue to spread lies. As she collapsed to her knees with her hands clasped around her neck, he told his confused and terrified herd that she was working with others within their ranks and that the needed to find the impostors before the Druanee came for them all.\nOtto's words shot over the congregation and reached into the murky recesses of their hearts and dredged up dark and fearful things.\nYears of suppressed emotions began to bubble up as a thick fog pushed through restless legs and feet. Whispers began, and the whispers became panicked mantras, and the mantras became screams and curses as each member accused the next of malthinking and malspeaking.\nOver the howling wind and pounding rain, the screams and curses grew louder and louder as everyone desperately tried to contain the darkness within. But the harder they tried, the quicker they ailed, and within moments the dam burst to release a torrent of hell.\nOtto watched his once blissful and joyful herd suddenly erupt into violence unlike anything he had ever seen before. The Fold bleated accusations and tore each other to bits and pieces with hands and teeth and never once did they look up to see their kind and charismatic shepherd smiling down upon them with eyes that were cold, bleak and without pity.\nWhen it was all over, Otto felt the creaking, wooden stage shake as a murder of crows circled above. Suddenly, the ground rose and then sank into a thick, oozing black mud like molasses. Moments later, a formless mass squelched out of the muck and rose like a rearing horse to feed upon the writhing mass of butchered humanity.\nIt was everywhere and nowhere at once as it slowly picked its way through the carnage, absorbing the darkness, savouring the misery, trailing terrible noises. Shrieks. Cries. Whimpers. Pops. Cracks.\nFeasting sounds.\nDeath sounds.\nDark sounds.\nOtto watched the creature as it slowly began to manifest into the very thing he had imagined—the very thing he had made them all imagine.\nIt turned slowly to look at Otto for a long silent moment, then the Druanee trudged away through the thick black sludge, disappearing into the shadows from which it had come.",
+		"imgs": {
+			"portrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/49/K28_charSelect_portrait.png",
+			"store": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/K28_storeBackground.png"
+		}
+	}
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Wide Lens",
+    "code": "widelens",
+    "itemType": "flashlight",
+    "rarity": "Common",
+    "description": "A thing wide lens in perfect condition.\nDesigned to spread the Flashlight beam at the cost of reducing its range of effectiveness.\nIncreases the Beam width of the Flashlight by 25%.\nShortens the Beam reach of the Flashlight by 25%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/FulliconAddon_wideLens.png"
+  },
+  {
+    "name": "Power Bulb",
+    "code": "powerbulb",
+    "itemType": "flashlight",
+    "rarity": "Common",
+    "description": "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam.\nIncreases the Beam brightness of the Flashlight by 20%.\nIncreases the Blindness duration of the Flashlight by 10%.\n\"Even the most powerful light cannot pierce through The Black Fog's darkness.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bc/FulliconAddon_powerBulb.png"
+  },
+  {
+    "name": "Leather Grip",
+    "code": "leathergrip",
+    "itemType": "flashlight",
+    "rarity": "Common",
+    "description": "A leather strip wrapped around the Flashlight for more grip.\nIncreases the Aim accuracy of the Flashlight by 20%.\n\"Too many have fallen due to sweaty hands.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconAddon_leatherGrip.png"
+  },
+  {
+    "name": "Battery",
+    "code": "battery",
+    "itemType": "flashlight",
+    "rarity": "Common",
+    "description": "A standard battery of unknown brand.\nExtends the Battery life of the Flashlight by 2 seconds.\n\"Another nearly empty battery.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/FulliconAddon_battery.png"
+  },
+  {
+    "name": "TIR Optic",
+    "code": "tiroptic",
+    "itemType": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A lens and reflector combo which can magnify a Flashlight's beam.\nIncreases the Beam brightness of the Flashlight by 30%.\nIncreases the Blindness duration of the Flashlight by 15%.\n\"Let the light burn them out of their dark shroud.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/FulliconAddon_tirOptic.png"
+  },
+  {
+    "name": "Rubber Grip",
+    "code": "Uncommon",
+    "itemType": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A rubber grip specifically fitting Flashlights for more grip.\nIncreases the Aim accuracy of the Flashlight by 40%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/FulliconAddon_rubberGrip.png"
+  },
+  {
+    "name": "Low Amp Filament",
+    "code": "lowampfilament",
+    "itemType": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A filament bulb designed to extend a Flashlight battery's life.\nDecreases the Battery Depletion rate of the Flashlight by 20%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_lowAmpFilament.png"
+  },
+  {
+    "name": "Heavy Duty Battery",
+    "code": "heavydutybattery",
+    "itemType": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A battery marked as \"industrial strength\".\n Extends the Battery life of the Flashlight by 4 seconds.\n\"A battery advertised as lasting 8 hours lasts only a couple of seconds in The Black Fog.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/FulliconAddon_heavyDutyBattery.png"
+  },
+  {
+    "name": "Focus Lens",
+    "code": "focuslens",
+    "itemType": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A thick glass lens that focuses the Flashlight beam to increase its intensity.\nExtends the Beam reach of the Flashlight by 25%.\nIncreases the Beam brightness of the Flashlight by 20%.\nIncreases the Blindness duration of the Flashlight by 10%.\nDecreases the Beam width of the Flashlight by 15%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_focusLens.png"
+  },
+  {
+    "name": "Long Life Battery",
+    "code": "longlifebattery",
+    "itemType": "flahslight",
+    "rarity": "Rare",
+    "description": "A recent model of battery that lasts longer.\nExtends the Battery life of the Flashlight by 6 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconAddon_longLifeBattery.png"
+  },
+  {
+    "name": "Intense Halogen",
+    "code": "intensehalogen",
+    "itemType": "flashlight",
+    "rarity": "Rare",
+    "description": "A chemical bulb that generates an intensely clear light.\nIncreases the Beam brightness of the Flashlight by 40%.\nIncreases the Blindness duration of the Flashlight by 20%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconAddon_intenseHalogen.png"
+  },
+  {
+    "name": "High-End Sapphire Lens",
+    "code": "highendsapphirelens",
+    "itemType": "flashlight",
+    "rarity": "Very Rare",
+    "description": "A wide lens made of un-scratch-able sapphire that optimises the power and range of the light beam.\nExtends the Beam reach of the Flashlight by 25%.\nIncreases the Beam brightness of the Flashlight by 30%.\nIncreases the Blindness duration of the Flashlight by 15%.\nDecreases the Beam width of the Flashlight by 25%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_high-EndSapphireLens.png"
+  },
+  {
+    "name": "Odd Bulb",
+    "code": "oddbulb",
+    "itemType": "flashlight",
+    "rarity": "Ultra Rare",
+    "description": "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off.\nIncreases the Beam brightness of the Flashlight by 50%.\nIncreases the Blindness duration of the Flashlight by 25%.\nIncreases the Battery Depletion rate of the Flashlight by 14%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/83/FulliconAddon_oddBulb.png"
+  },
+  {
+    "name": "Broken Bulb",
+    "code": "brokenbulb",
+    "itemType": "flashlight",
+    "rarity": "Event",
+    "description": "A damaged bulb that causes a spooky flickering effect.\nCauses the Flashlight to flicker.\nIncreases the Beam brightness of the Flashlight by 30%.\nIncreases the Blindness duration of the Flashlight by 15%.\nIncreases the spookiness.\nThe Midnight Grove Event Item.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/FulliconAddon_brokenBulb.png"
+  },
+  {
+    "name": "Map Addendum",
+    "code": "mapaddendum",
+    "itemType": "map",
+    "rarity": "Common",
+    "description": "A fragmented piece of a thick fibrous material.\nA partial and faded map is drawn on it which by itself is useless.\nAdds 5 seconds of use to the Map.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/FulliconAddon_mapAddendum.png"
+  },
+  {
+    "name": "Yellow Wire",
+    "code": "yellowwire",
+    "itemType": "map",
+    "rarity": "Uncommon",
+    "description": "A small electrical wire.\nBoth ends are heavily damaged like it has been forcefully torn out of its intended location.\nCan be tied around the Map to enhance its Aura-reading ability.\nUnlocks the ability to track the Exit Gate IconHelp exitGates.png Switches.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/FulliconAddon_yellowWire.png"
+  },
+  {
+    "name": "Unusual Stamp",
+    "code": "unusualstamp",
+    "itemType": "map",
+    "rarity": "Uncommon",
+    "description": "A wooden stamp with a cross-hatched rubber pad used to mark documents.\nIt is unclear as to how or by whom this stamp was originally used.\nIncreases the Map's Tracking range by 8 metres.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/FulliconAddon_unusualStamp.png"
+  },
+  {
+    "name": "Retardant Jelly",
+    "code": "retardantjelly",
+    "itemType": "map",
+    "rarity": "Uncommon",
+    "description": "A slimy, translucent substance with a ghastly lavender shade.\nThis jelly from unknown origin is highly resistant to heat.\nDecreases the Map's Depletion rate by 20%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/FulliconAddon_retardantJelly.png"
+  },
+  {
+    "name": "Red Twine",
+    "code": "redtwine",
+    "itemType": "map",
+    "rarity": "Uncommon",
+    "description": "A bristly and rough piece of twine of a deep red colour.\nCan be tied around the Map to enhance its Aura-reading ability.\nUnlocks the ability to track Killer Belongings.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_redTwine.png"
+  },
+  {
+    "name": "Glass Bead",
+    "code": "glassbead",
+    "itemType": "map",
+    "rarity": "Uncommon",
+    "description": "A strange bead circled with gold that can be used to magnify the map and mark a specific position.\nThe bead emits an energy which can be felt and seen by Survivors.\nPress the Secondary Action button while using the Map to use the Glass Bead:\nPlace a Pillar of Light at your current location that can be seen by all Survivors.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1a/FulliconAddon_glassBead.png"
+  },
+  {
+    "name": "Odd Stamp",
+    "code": "oddstamp",
+    "itemType": "map",
+    "rarity": "Rare",
+    "description": "A stamp carved out of sturdy blonde wood.\nThe text found at the base is incomprehensible: \"kw'zvre'od\".\nIncreases the Map's Tracking range by 12 metres.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconAddon_oddStamp.png"
+  },
+  {
+    "name": "Black Silk Cord",
+    "code": "blacksilkcord",
+    "itemType": "map",
+    "rarity": "Rare",
+    "description": "A smooth black cord with a soft appearance.\nCan be tied around the Map to enhance its Aura-reading ability.\nUnlocks the ability to track the Hatch.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/FulliconAddon_blackSilkCord.png"
+  },
+  {
+    "name": "Crystal Bead",
+    "code": "crystalbead",
+    "itemType": "map",
+    "rarity": "Very Rare",
+    "description": "An intricate set of lenses wrapped up in an astonishingly complex apparatus.\nThe gears controlling the lenses' focus move by themselves as to focus on something invisible to humans.\nReveals the Auras generated by the Map to all Survivors.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/FulliconAddon_crystalBead.png"
+  },
+  {
+    "name": "Rubber Gloves",
+    "code": "rubbergloves",
+    "itemType": "med-kit",
+    "rarity": "Common",
+    "description": "Disposable medical gloves to avoid cross-contamination.\nIncreases the Progression bonus of Great Healing Skill Checks by 3%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_rubberGloves.png"
+  },
+  {
+    "name": "Butterfly Tape",
+    "code": "butterflytape",
+    "itemType": "med-kit",
+    "rarity": "Common",
+    "description": "Medical quality tape used to close small wounds.\nIncreases the Med-Kit's Healing speeds by 5%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_butterflyTape.png"
+  },
+  {
+    "name": "Bandages",
+    "code": "bandages",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "A pack of bandages usually found in First Aid Kits.\nIncreases the Med-Kit's Capacity by 8 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/65/FulliconAddon_bandages.png"
+  },
+  {
+    "name": "Sponge",
+    "code": "sponge",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "A mundane sponge used to soak up extra blood, providing easier access to wounds.\nIncreases the Progression bonus of Great Healing Skill Checks by 5%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_sponge.png"
+  },
+  {
+    "name": "Self Adherent Wrap",
+    "code": "selfadherentwrap",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments.\nIncreases the Med-Kit's Healing speeds by 5%.\nIncreases the Med-Kit's Capacity by 8 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cf/FulliconAddon_selfAdherentWrap.png"
+  },
+  {
+    "name": "Needle and Theread",
+    "code": "neddleandthread",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "Not exactly a medical device.\nHowever, it can be used to quickly and painfully close up a wound.\nIncreases the Med-Kit's Healing speeds by 15%.\nIncreases the Trigger odds of Healing Skill Checks IconHelp skillChecks.png by 10%.\nGrants 100% bonus Bloodpoints for Great Healing Skill Checks.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/FulliconAddon_needle%26Thread.png"
+  },
+  {
+    "name": "Medical Scissors",
+    "code": "medicalscissors",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "Scissors designed to easily cut through textiles.\nIncreases the Med-Kit's Healing speeds by 15%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a9/FulliconAddon_medicalScissors.png"
+  },
+  {
+    "name": "Gauze Roll",
+    "code": "gauzeroll",
+    "itemType": "med-kit",
+    "rarity": "Uncommon",
+    "description": "A sterile gauze used for a variety of wounds.\nPart of a total wound care system.\nIncreases the Med-Kit's Capacity by 12 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/FulliconAddon_gauzeRoll.png"
+  },
+  {
+    "name": "Surgical Suture",
+    "code": "surgicalsuture",
+    "itemType": "med-kit",
+    "rarity": "Rare",
+    "description": "A medical device used to close and hold body tissue.\nEven though it is very effective, the surgical suture is challenging to use.\nIncreases the Med-Kit's Healing speeds by 15%.\nIncreases the Trigger odds of Healing Skill Checks by 15%.\nGrants 150% bonus Bloodpoints for Great Healing Skill Checks.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/65/FulliconAddon_surgicalSuture.png"
+  },
+  {
+    "name": "Gel Dressings",
+    "code": "geldressings",
+    "itemType": "med-kit",
+    "rarity": "Rare",
+    "description": "A pack of gel forming pads used to patch up heavily exuding wounds.\nIncreases the Med-Kit's Capacity by 16 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_gelDressings.png"
+  },
+  {
+    "name": "Abdominal Dressing",
+    "code": "abdominaldressing",
+    "itemType": "med-kit",
+    "rarity": "Rare",
+    "description": "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds.\nIncreases the Med-Kit's Healing speeds by 25%.\nReduces the Med-Kit's Capacity by 8 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/FulliconAddon_abdominalDressing.png"
+  },
+  {
+    "name": "Styptic Agent",
+    "code": "stypticagent",
+    "itemType": "med-kit",
+    "rarity": "Very Rare",
+    "description": "A white powder with coagulant properties.\nApply the agent to a wound to stop it from haemorrhaging.\nPress the Secondary Action button while healing an injured Survivor with the Med-Kit to use the Styptic Agent:\nGrants the Endurance  Status Effect for 8 seconds.\nCan be used on other Survivors or yourself.\nConsumes the Med-Kit on use.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/FulliconAddon_stypticAgent.png"
+  },
+  {
+    "name": "Anti-Haemorrhagic Syringe",
+    "code": "antihaemorrhagicsyringe",
+    "itemType": "med-kit",
+    "rarity": "Ultra Rare",
+    "description": "An anti-haemorrhagic substance that stops the bleeding in a matter of seconds.\nPress the Secondary Action button while healing with the Med-Kit to use the Anti-Haemorrhagic Syringe:\nOver the next 16 seconds, the affected Survivor will passively gain 1 Health State.\nThis time is affected by Healing Speed modifiers.\nThe effect is cancelled if the affected Survivor changes their Health State or is picked up by the Killer.\nCan be used on other Survivors or yourself.\nConsumes the Med-Kit on use.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/FulliconAddon_anti-haemorrhagicSyringe.png"
+  },
+  {
+    "name": "Refined Serum",
+    "code": "refinedserum",
+    "itemType": "med-kit",
+    "rarity": "Event",
+    "description": "A refined version of the Putrid Serum IconHelp putridSerum.png that is mostly safe for human consumption.\nMostly.\nPress the Secondary Action button while healing with the Med-Kit to use the Refined Serum:\nIncreases your Movement speed by 5% for 16 seconds.\nCreates a Blight trail behind the affected Survivor.\nCan be used on other Survivors or yourself.\nConsumes the Med-Kit on use.\nThe Midnight Grove Event Item.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconAddon_refinedSerum.png"
+  },
+  {
+    "name": "Scraps",
+    "code": "scraps",
+    "itemType": "toolbox",
+    "rarity": "Common",
+    "description": "Springs, screws and gears.\nMostly unusable junk.\nIncreases the Capacity of the Toolbox by 8 charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/78/FulliconAddon_scraps.png"
+  },
+  {
+    "name": "Instructions",
+    "code": "instructions",
+    "itemType": "toolbox",
+    "rarity": "Common",
+    "description": "Someone quickly painted what seems to be repair instructions on this piece of bark.\nSuppresses all normal Skill Checks that are usually triggered while repairing a Generator.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/FulliconAddon_instructions.png"
+  },
+  {
+    "name": "Clean Rag",
+    "code": "cleanrag",
+    "itemType": "toolbox",
+    "rarity": "Common",
+    "description": "A mundane rag.\nSuspiciously clean.\nIncreases the Repair speed of the Toolbox by 20%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4e/FulliconAddon_cleanRag.png"
+  },
+  {
+    "name": "Wire Spool",
+    "code": "wirespool",
+    "itemType": "toolbox",
+    "rarity": "Uncommon",
+    "description": "A portable but heavy spool of copper wire.\nIncreases the Capacity of the Toolbox by 12 charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/FulliconAddon_wireSpool.png"
+  },
+  {
+    "name": "Spring Clamp",
+    "code": "springclamp",
+    "itemType": "toolbox",
+    "rarity": "Uncommon",
+    "description": "Useful tool to clamp hoses or hold wires in place and prevent damage or injury.\nReduces the range at which your Generator-Repair noises can be heard by 8 metres.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/FulliconAddon_springClamp.png"
+  },
+  {
+    "name": "Socket Swivels",
+    "code": "socketswivels",
+    "itemType": "toolbox",
+    "rarity": "Uncommon",
+    "description": "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices.\nIncreases the Repair speed of the Toolbox by 30%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/FulliconAddon_socketSwivels.png"
+  },
+  {
+    "name": "Protective Gloves",
+    "code": "protectivegloves",
+    "itemType": "toolbox",
+    "rarity": "Uncommon",
+    "description": "Thick gloves, which reduce manual dexterity but protect hands from injury.\nSuppresses the Loud Noise Notification to the Killer that is usually triggered after sabotaging a Hook.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/FulliconAddon_protectiveGloves.png"
+  },
+  {
+    "name": "Cutting Wire",
+    "code": "cuttingwire",
+    "itemType": "toolbox",
+    "rarity": "Uncommon",
+    "description": "A rudimentary cutting tool made from a jagged metal wire and two wooden handles.\nIncreases the Sabotage speed of the Toolbox by 15%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/FulliconAddon_cuttingWire.png"
+  },
+  {
+    "name": "Hacksaw",
+    "code": "hacksaw",
+    "itemType": "toolbox",
+    "rarity": "Rare",
+    "description": "A small hand saw mounted with a metal cutting blade.\nIncreases the Sabotage speed of the Toolbox by 20%.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/FulliconAddon_hacksaw.png"
+  },
+  {
+    "name": "Grip Wrench",
+    "code": "gripwrench",
+    "itemType": "toolbox",
+    "rarity": "Rare",
+    "description": "An adjustable wrench with a tough grip.\nEssential in any Toolbox.\nIncreases the Auto-Repair timer for sabotaged Hooks IconHelpLoading hook.png by 15 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/FulliconAddon_gripWrench.png"
+  },
+  {
+    "name": "Brand New Part",
+    "code": "brandnewpart",
+    "itemType": "toolbox",
+    "rarity": "Ultra Rare",
+    "description": "This intricate mechanical part feels oddly out of place.\nIt is clean and shiny as if straight out of the factory.\nreplaces the \"Toolbox Repair\" prompt with \"Install Brand New Part\" instead:\nInstalling the Brand New Part takes 5 seconds to complete and adds 15% to the Generator IconHelpLoading generators.png Progression.\nTriggers 2 difficult Skill Checks during the Installation process.\nSuccedding each Skill Check adds an additional 5% bonus Progression, up to a maximum of 10% bonus Progression, and a combined total of up to 25% Generator Progression.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/FulliconAddon_brandNewPart.png"
+  }
+]

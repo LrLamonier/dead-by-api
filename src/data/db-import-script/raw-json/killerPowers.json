@@ -1,0 +1,295 @@
+[
+	{
+		"powerId": 0,
+		"powerName": "Bear Trap",
+		"powerCode": "beartrap",
+		"killerCode": "thetrapper",
+		"description": "A large foothold trap made of steel. Bear Traps are found lying around throughout the Trial Grounds, waiting to be picked up and set anywhere.\n\nBEAR TRAP:\nThe Trapper starts the Trial with 2 Bear Traps equipped, with 6 Bear Traps spawned randomly throughout the Trial Grounds.\nThe Trapper sees the Aurasof every Bear Trap at all times.\n\nCollecting Bear Traps:\nPress the Interaction button while standing near a disarmed Bear Trap to collect it.\nThe Trapper can carry 2 Bear Traps at a time.\n\nSetting Bear Traps:\nPress and hold the Power button to set and arm a Bear Trap in a valid location in front of The Trapper.\nAn armed Bear Trap will trap and immobilise any Survivor who steps into it.\nIf the Survivor was healthy, they will be put into the Injured State.\nAn armed Bear Trap will also trap The Trapper, if he steps into it.\nThis temporarily immobilises him while he frees his foot and resets the Bear Trap.\nIf he was carrying a Survivor, that Survivor will escape from his shoulder.\nA trapped Survivor can attempt to free themselves from the Bear Trap or have another Survivor rescue them.\n\nCatching Survivors in Bear Traps:\nPress the Interaction button on a trapped Survivor to lift them out of the Bear Trap and onto The Trapper's shoulder.\nResetting Bear Traps:\nPress and hold the Power button while standing near a disarmed Bear Trap to reset it.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/20/FulliconPowers_trap.png"
+		]
+	},
+	{
+		"powerId": 1,
+		"powerName": "Wailing Bell",
+		"powerCode": "wailingbell",
+		"killerCode": "thewraith",
+		"description": "A heavy cast iron bell imbued with ancient powers. Allows the user to enter and walk the Spirit World when rung.\n\nWAILING BELL:\nPress and hold the Power button to cloak.\nPress and hold it again to uncloak, granting a short Lunge forward for 1 second upon re-appearing.\nThe Wailing Bell can be heard up to 24 metres away, and the accompanying *Wooosh* noise up to 40 metres away.\n\nCloak:\nGrants near total invisibility when moving and total invisibility while standing still for a moment.\nThe Wraith is completely invisible from farther than 20 metres away.\nGrants increased Movement speed (6.0 m/s).\nGrants the Undetectable Status Effect.\nThe Wraith is unable to attack, but can interact with environmental objects.\n\nLight Vulnerability:\nInteracting with the Spirit World causes The Wraith to suffer from Lightburn, which leaves him vulnerable to bright lights:\nWhen he is cloaked, shining Flashlights directly at The Wraith or detonating Firecrackers or Flash Grenades near him will stun him and force him to uncloak.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/FulliconPowers_bell.png"
+		]
+	},
+	{
+		"powerId": 2,
+		"powerName": "Chainsaw",
+		"powerCode": "chainsaw",
+		"killerCode": "thehillbilly",
+		"description": "A hulking and deadly Chainsaw of terrifying strength. Grinds through flesh, bone, and soul. Once revved up, sends its user into a violent frenzy.\n\nCHAINSAW:\nPress and hold the Power button to break into a Chainsaw Sprint, moving at twice your regular Movement speed (9.2 m/s).\nSurvivors hit during a Chainsaw Sprint are put into the Dying State.\nEach Chainsaw action (starting, revving, and sprinting) will cause the Overheat meter to fill.\nWhen the Overheat meter is filled, the Chainsaw cannot be used until its fully cooled down.\nReaching the Overheat limit will not interrupt an ongoing Chainsaw Sprint.\nThe Overheat meter decreases when the Chainsaw is not in use.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/FulliconPowers_chainsaw.png"
+		]
+	},
+	{
+		"powerId": 3,
+		"powerName": "Spencer's Last Breath",
+		"powerCode": "spencerslastbreath",
+		"killerCode": "thenurse",
+		"description": "A powerful and violent last breath snatched from Crotus Prenn Asylum Warden Patrick Spencer.\nChannelling its energy allows The Nurse to pierce and jump through the Spirit World in a blink multiple times in a row. Doing so leaves her in a state of fatigue.\n\nSPENCER'S LAST BREATH:\nPress and hold the Power button to charge a Blink:\nBlink for up to 20 metres upon activation.\nDuring the ensuing Chain Blink Window, charge again to initiate a Chain Blink of up to 12 metres upon activation.\nAfter either the Chain Blink Window closed or the final Chain Blink elapsed, enter a state of Fatigue (2-3 seconds*).\nGrants 1 Chain Blink.\n\nLight Vulnerability:\nInteracting with the Spirit World causes The Nurse to suffer from Lightburn, which leaves her vulnerable to bright lights:\nShining Flashlights directly at The Nurse prevents her from charging a Blink for as long as the light is shining at her.\nWhen she is already charging a Blink, shining Flashlights directly at The Nurse or detonating Firecrackers or Flash Grenades near her will stun her, causing her to abort the Blink and go into Fatigue.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconPowers_breath.png"
+		]
+	},
+	{
+		"powerId": 4,
+		"powerName": "Evil Within",
+		"powerCode": "evilwithin",
+		"killerCode": "theshape",
+		"description": "The darkness inside feeds his determination to take the life of his prey.\n\nEVIL WITHIN:\nActivating Evil Within allows The Shape to see his prey clearly and build up more evil power by stalking them:\n\nEvil Within I:\nThe Shape is granted the Undetectable Status Effect.\nThe Shape has a reduced Movement speed of 4.2 m/s.\nThe Shape has a reduced Lunge Attack open time of 0.2 seconds, decreasing his range.\nThe Shape has a normal Vaulting time of 1.7 seconds.\n\nEvil Within II:\nThe Shape has a reduced Terror Radius of 16 metres.\nThe Shape has a normal Movement speed of 4.6 m/s.\nThe Shape has a normal Lunge Attack open time of 0.5 seconds.\nThe Shape has a reduced Vaulting time of 1.48 seconds.\n\nEvil Within III:\nAll Survivors suffer from the Exposed Status Effect for 60 seconds, after which The Shape automatically regresses to Evil Within II.\nThe Shape has a normal Terror Radius of 32 metres.\nThe Shape has a normal Movement speed of 4.6 m/s.\nThe Shape has an increased Lunge Attack open time of 0.6 seconds, increasing his range.\nThe Shape has a further reduced Vaulting time of 1.275 seconds.\n\nSPECIAL ABILITY: Stalk\nPress and hold the Power button to stalk all visible Survivors.\nStalking Survivors builds up your progress through Evil Within Tiers.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f2/FulliconPowers_stalker1.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c8/FulliconPowers_stalker2.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/FulliconPowers_stalker3.png"
+		]
+	},
+	{
+		"powerId": 5,
+		"powerName": "Blackened Catalyst",
+		"powerCode": "blackenedcatalyst",
+		"killerCode": "thehag",
+		"description": "The Source of The Hag's power, a blackened finger used as a catalyst for her terrible power.\nThe Hag bends and shapes mud to her will. With simple ritualistic drawings, she creates deceitful duplicates of herself, made from mud and decay, which she can use for various effects.\n\nBLACKENED CATALYST:\nPress the Power button to bend down and draw a muddy Phantasm Trap sign:\nThe Hag can maintain up to 10 Phantasm Traps.\nEach subsequently drawn Phantasm Trap will replace the oldest one.\n\nPhantasm Traps:\nSurvivors entering the Phantasm Trap's Area of Effect will trip the trap, spawning a Mud Phantasm:\nThe Mud Phantasm will yank the Survivor's camera towards it, disorienting them.\nThe Mud Phantasm will emit a fake, short-ranged Terror Radius and keep its sight trained on the Survivor disappearing.\nSurvivors can prevent tripping a Phantasm Trap by either crouching within or interacting with Props within its Area of Effect.\n\nLight Vulnerability:\nPhantasm Traps are vulnerable to bright lights:\nShining Flashlights near Phantasm Traps will reveal their Aura to the Survivor.\nShining Flashlights directly at Phantasm Traps or detonating Firecrackers or Flash Grenades near them will destroy them.\nDestroying a Phantasm Trap notifies The Hag with a Loud Noise Notification.\n\nSPECIAL ABILITY: Teleport\nPress the Active Ability button to teleport to a tripped Phantasm Trap located within a range of 40 metres, taking the place of the Mud Phantasm.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/FulliconPowers_blackenedCatalyst.png"
+		]
+	},
+	{
+		"powerId": 6,
+		"powerName": "Carter's Spark",
+		"powerCode": "cartersspark",
+		"killerCode": "thedoctor",
+		"description": "Is it a gift, or a curse?\nThe Entity has ignited a corrupted and inexhaustible spark in The Doctor's heart which allows him to generate electroconvulsive power at will.\nHis insidious treatment corrupts the minds of those it touches.\nVictims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness.\n\nCARTER'S SPARK:\nSuccessfully striking Survivors with The Doctor's special abilities, Shock Therapy and Static Blast, increases the Survivors' Madness, eventually afflicting them with the Madness Status Effect and triggering increasingly potent effects:\n\nMadness I:\nCauses Survivors to scream once, revealing their location to The Doctor.\nSlight chance to trigger Madness Skill Checks (33 %).\n\nMadness II:\nCauses Survivors to scream once, revealing their location to The Doctor.\nCauses Survivors to experience hallucinations in the form of an Illusionary Doctor.\nModerate chance to trigger Madness Skill Checks (66 %).\n\nMadness III:\nCauses Survivors to scream intermittently, revealing their location to The Doctor.\nCauses Survivors to experience hallucinations in the form of an Illusionary Doctor.\nDisables Survivors' ability to perform any Repairing, Healing, Sabotaging, Searching, or Cleansing interactions until they successfully Snap Out of It.\nTremendous chance to trigger Madness Skill Checks (100 %) during Snap Out of It.\nSucceeding Snap Out of It will return Survivors back to Madness I.\n\nSPECIAL ABILITY: Shock Therapy\nPress and hold the Power button to perform a Shock Therapy Attack, unleashing a ranged shock attack on the ground in front of The Doctor.\nSurvivors struck by Shock Therapy gain increased Madness and any interactions they are performing are immediately cancelled and put on a cool-down of 2.5 seconds.\nShock Therapy immediately negates the Oblivious Status Effect.\n\nSPECIAL ABILITY: Static Blast\nPress and hold the Active Ability button to perform a Static Blast, causing all Survivors within The Doctor's Terror Radius to scream.\nSurvivors struck by Static Blast gain one Madness Tier and any interactions they are performing are immediately cancelled.\nStatic Blast can only be activated when not on cool-down (60 seconds).\nStatic Blast immediately negates the Oblivious Status Effect.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconPowers_cartersSpark.png"
+		]
+	},
+	{
+		"powerId": 7,
+		"powerName": "Hunting Hatchets",
+		"powerCode": "huntinghatchets",
+		"killerCode": "thehuntress",
+		"description": "A skill taught by her mother and mastered in the wild. The Huntress can throw Hatchets with deadly precision.\n\nHUNTING HATCHETS:\nPress and hold the Power button to wind up a Hunting Hatchet.\nRelease the Power button to initiate a Hatchet Throw.\nStart the Trial with 5 Hunting Hatchets.\nThe Hatchet Throw can be charged for maximum Throwing speed (40 m/s).\nThe Hatchet Throw can be cancelled mid-charge.\nHunting Hatchets are consumed on use and can be refilled at Lockers.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ed/FulliconPowers_huntingHatchets.png"
+		]
+	},
+	{
+		"powerId": 8,
+		"powerName": "Bubba's Chainsaw",
+		"powerCode": "bubbaschainsaw",
+		"killerCode": "thecannibal",
+		"description": "An incredibly powerful and heavy Chainsaw which sank its teeth into countless victims.\nA suitable birthday gift for The Cannibal.\n\nBUBBA'S CHAINSAW:\nThe Cannibal starts the Trial with 3 Charges.\n\nSPECIAL ABILITY: Chainsaw Sweep\nPress and hold the Power button to consume one Charge and perform a Chainsaw Dash for 2 seconds that can hit multiple targets.\nSurvivors hit during a Chainsaw Dash are put into the Dying State.\n\nAdditional Chainsaw Dashes\nPress the Power button again during the Chainsaw Dash window to consume another Charge and extend the Chainsaw Sweep by another Chainsaw Dash.\nResets the Chainsaw Sweep timer to 2 seconds.\nIncreases the Chainsaw Sweep cool-down by 1 second per charge.\nCharges replenish while Bubba's Chainsaw is not in use.\n\nTantrum\nThe Tantrum meter slowly fills when revving Bubba's Chainsaw.\nOnce the meter is full, or after hitting an obstacle during a Chainsaw Sweep, The Cannibal unleashes a Tantrum, wildly slashing out and damaging any Survivors in close proximity, putting them into the Dying State.\nTantrum duration increases by 1 second for each Charge that was consumed.\nLose any remaining Charges.\nTremendously decreased Movement speed.\nThe Tantrum meter decreases when Bubba's Chainsaw is not in use and completely depletes during a Chainsaw Sweep.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconPowers_bubbasChainsaw.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconPowers_bubbasChainsaw_tantrum.png"
+		]
+	},
+	{
+		"powerId": 9,
+		"powerName": "Dream Demon",
+		"powerCode": "dreamdemon",
+		"killerCode": "thenightmare",
+		"description": "Death won't accept him and thus he remains, a calamity, indisputable master of his victims' nightmares.\n\nDREAM DEMON:\nDream Demon cloaks The Nightmare from awake Survivors, causing them to hear his Terror Radius, but only seeing him fully when he is within 16 metres, and only intermittently from 16 to 32 metres.\nThe Nightmare is invisible to Survivors when he is farther than 32 metres away.\n\nMicro-Sleep:\nThe Nightmare's presence in the Trial Grounds induces micro-sleep, passively causing Survivors to fall asleep over 60 seconds, after which they enter the Dream World.\n\nDream World:\nOnce inside the Dream World, Survivors suffer from the Oblivious Status Effect:\nSurvivors only hear The Nightmare's non-directional Lullaby.\nSurvivors can see and be affected by Dream Traps placed by The Nightmare.\nSuccessful Basic Attacks immediately pull Survivors into the Dream World, unless they recently woke up using an Alarm Clock.\n\nWaking Up:\nSurvivors have several ways to wake up and leave the Dream World:\nFailing Skill Checks.\nHave an awake Survivor perform the Wake Up action on them.\nEach successive Wake Up action will take twice as long to perform.\nFind and use their personal Alarm Clock.\nUsing the Alarm Clock will give Survivors immunity from micro-sleep for 30 seconds.\nThis includes being pulled into the Dream World by successful Basic Attacks.\n\nSPECIAL ABILITY: Dream Snare\nPress and hold the Power button to place a Dream Snare on the ground directly in front of The Nightmare.\nSurvivors that come in contact with a Dream Snare suffer from the Hindered Status Effect, slowing them for as long as they remain within its Area of Effect and for a short duration after leaving it.\n\nSPECIAL ABILITY: Dream Pallet\nPress and hold the Power button to place a Dream Pallet at an available location.\nA Dream Pallet dropped by a Survivor will be destroyed immediately and not stun The Nightmare.\n\nSPECIAL ABILITY: Dream Projection\nPress and hold the Active Ability button to perform a Dream Projection and teleport to a Generator in view.\nReleasing the button early will cancel the action.\nFor each Survivor in the Dream World, the cool-down of using Dream Projection is reduced by a stack-able 15 %",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/FulliconPowers_dreamDemon.png"
+		]
+	},
+	{
+		"powerId": 10,
+		"powerName": "Jigsaw's Baptism",
+		"powerCode": "jigsawsbaptism",
+		"killerCode": "the pig",
+		"description": "Forever devoted to her master's cause, she punished the ungrateful and the guilty with slyness and murderous puzzles.\nThe Pig can move stealthily, dash in Ambush Attacks and put deadly Reverse Bear Traps on Survivors' heads.\n\nJIGSAW'S BAPTISM:\nThe Pig starts the Trial with 4 Reverse Bear Traps.\n\nInactive Reverse Bear Traps:\nWhile standing over a Survivor who is in the Dying State, press the Active Ability button to place an Inactive Reverse Bear Trap on that Survivor's head.\nSurvivors may attempt to free themselves from an Inactive Reverse Bear Trap by searching Jigsaw Boxes for the key.\nJigsaw Boxes are located around the environment.\nSurvivors may leave through an Exit Gate while wearing an Inactive Reverse Bear Trap.\n\nActive Reverse Bear Traps:\nWhenever a Generator is completed, all currently Inactive Reverse Bear Trap will activate:\nActive Reverse Bear Traps initiate the Death timer, a countdown timer displayed on the Survivor's Status icon that expires after 150 seconds.\nOnce the Death timer expires, the Active Reverse Bear Traps snaps open, automatically killing the Survivor.\nA Survivor attempting to leave the Trial Grounds through an Exit Gate with an Active Reverse Bear Traps immediately trips the Reverse Bear Trap.\nThe trap will beep rapidly warning the Survivor of the active nature, even with the timer paused due to chase or downed.\nThe tripping occurs halfway between the gate and the exit.\nSurvivors can exit through the hatch with an Active Reverse Bear Trap.\nThe Death timer is paused whenever the Survivor is being chased by The Pig, is in the Dying State, or is on the Hook.\n\nSPECIAL ABILITY: Crouch\nPress the Active Ability button to crouch and uncrouch.\nWhen crouched, The Pig is granted the Undetectable Status Effect at the cost of moving at a slower speed (3.6 m/s).\n\nSPECIAL ATTACK: Ambush Dash\nPress and hold the Attack button when crouched to perform an Ambush Dash attack at increased speed (6.9 m/s) and range.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/FulliconPowers_jigsawsBaptism.png"
+		]
+	},
+	{
+		"powerId": 11,
+		"powerName": "The Afterpiece Tonic",
+		"powerCode": "theafterpiecetonic",
+		"killerCode": "theclown",
+		"description": "Throughout his years experimenting with anaesthetics and muscle relaxants, The Clown developed several effective concoctions and formulas.\nHis favourite, The Afterpiece Tonic, he has used to great effect, intoxicating and capturing many unwilling victims.\nThe associated Afterpiece Antidote also has useful effects.\n\nTHE AFTERPIECE TONIC:\nTap the Active Ability button to switch between the Afterpiece Tonic and the Afterpiece Antidote.\nTap or hold and release the Power button to launch a Bottle.\nMaximum Throw charge is reached when a shimmer travels across the Bottle.\n\nSPECIAL ABILITY: Afterpiece Tonic\nOn contact, the Tonic Bottle will break, releasing a purple Gas Cloud that intoxicates Survivors.\nIntoxicated Survivors will suffer from impaired vision, the Hindered Status Effect, and involuntary coughing, which linger for 2 seconds after leaving the Gas Cloud.\nThe Afterpiece Gas Cloud is neutralised by an active Antidote Gas Cloud.\n\nSPECIAL ABILITY: Afterpiece Antidote\nOn contact, the Antidote Bottle will break, releasing a white Gas Cloud, which turns yellow after activation (2.5 seconds) and invigorates The Clown and Survivors.\nInvigorated Players gain a Movement Speed bonus of 10 % for 5 seconds.\nIntoxicated Survivors who enter an Antidote Gas Cloud are cured.\nThe Antidote Gas Cloud is neutralised by an Afterpiece Gas Cloud.\n\nReload:\nPress and hold the Active Ability button to replenish your Bottles.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconPowers_gasBomb.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/80/FulliconPowers_gasBomb2.png"
+		]
+	},
+	{
+		"powerId": 12,
+		"powerName": "Yamaoka's Haunting",
+		"powerCode": "yamaokashaunting",
+		"killerCode": "thespirit",
+		"description": "Yamaoka is the name she carries from her ancestors, who unleashed hell on the battlefield.\nThe Spirit draws her power from their wrath, haunting the living as retribution for her suffering.\nThe Spirit can use Yamaoka's Haunting to enter the Ethereal Plane and re-appear at a new location.\n\nYAMAOKA'S HAUNTING:\nPress and hold the Power button to charge Yamaoka's Haunting and initiate a Phase-Walk.\nThe Spirit will depart her physical body and enter the Ethereal Plane, leaving behind a stationary Husk.\nUsing Yamaoka's Haunting depletes The Spirit's Power gauge (5 seconds).\nIt will automatically replenish over time (15 seconds).\nThe Power gauge must be fully replenished before another Phase-Walk can be initiated.\n\nPhase-Walk:\nThe Spirit may traverse to a new location at an increased Movement speed (7.04 m/s).\nThe Spirit loses sight of all Survivors, but still sees the Scratch Marks they leave throughout the Trial Grounds.\nThe Spirit emits an audible, directional cue while Phase Walking within 24 metres of her ethereal form.\nWhen ending a Phase-Walk, The Spirit retains her Movement Speed boost for a brief moment and her Husk fades away.\n\nHusk:\nThe Husk emits The Spirit's regular Terror Radius.\nSurvivors may disperse the Husk by shining a Flashlight on it.\n\nPassive Phasing:\nWhen not Phase-Walking and only from the Survivor's Point of View, The Spirit constantly phases in and out of view at random intervals.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconPowers_yamaokasHaunting.png"
+		]
+	},
+	{
+		"powerId": 13,
+		"powerName": "Feral Frenzy",
+		"powerCode": "feralfrenzy",
+		"killerCode": "thelegion",
+		"description": "They were a plain group of friends until Frank formed them into a Legion. Now they draw power from the thrilling freedom of not abiding by any rule but their own.\n\nFERAL FRENZY:\nTrigger Feral Frenzy to run at a high speed and chain attacks between multiple Survivors. When your power gauge is full, press the Power button to initiate Feral Frenzy. While Feral Frenzy is active, The Legion moves faster and gains access to additional abilities: Pallet Vault and Feral Slash.\n\nSPECIAL ABILITY: PALLET VAULT:\nPress the Interaction button while Feral Frenzy is active to perform a Pallet Vault at a dropped pallet.\n\nSPECIAL ATTACK: FERAL SLASH:\nPress the Attack button while Feral Frenzy is active to perform a Feral Slash. Hitting a Survivor with Feral Slash puts the Survivor into the injured state, inflicting the Deep Wound status effect, and refills the Legion's power gauge. Additionally, any Survivors within the Terror Radius not afflicted by the Deep Wound status effect are indicated by Killer Instinct. If a Survivor hit by Feral Slash is already afflicted by the Deep Wound status, Feral Frenzy ends immediately. Each successful Feral Slash that does not end Feral Frenzy increases The Legion's movement speed by 0.2 m/s for the remainder of Feral Frenzy. The fifth consecutive Feral Slash will put any Survivor into the dying state. The fifth successful Feral Slash always ends Feral Frenzy.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconPowers_feralFrenzy.png"
+		]
+	},
+	{
+		"powerId": 14,
+		"powerName": "Vile Purge",
+		"powerCode": "vilepurge",
+		"killerCode": "theplague",
+		"description": "Her condition deteriorated as the black plague overtook her body: her toes blackened, her neck mushroomed into cysts, and her throat gagged with bloody vomit.\n\nVILE PURGE:\nThe Plague can infect environmental objects and Survivors with Vile Purge, creating an unending cycle of Sickness.\nPress and hold the Power button to charge Vile Purge, and release it to unleash a stream of infectious bile.\nHitting a Survivor will cause them to become infected.\nHitting an environmental object will cause it to become infected for 40 seconds.\nSurvivors interacting with infected objects will also become infected themselves.\n\nSickness Meter:\nA Survivor's Sickness Meter increases each time they are hit by Vile Purge.\nOnce the meter is filled, they are put into the Injured State and suffer from the Broken Status Effect.\nA sick Survivor will vomit at random intervals, infecting nearby environmental objects as well as other Survivors.\n\nSPECIAL ABILITY: Ingest Corruption\nInfected Survivors can heal themselves back to full health, and cure their infection, by cleansing themselves at a Pool of Devotion.\nPools of Devotion are located around the environment.\nCleansing will corrupt the Pool of Devotion, allowing The Plague to consume the corruption and empower her purge.\nPress and hold the Interaction button while next to a corrupt Pool of Devotion to transform Vile Purge into Corrupt Purge for 60 seconds, removing it from the Pool of Devotion.\n\nSPECIAL ATTACK: Corrupt Purge\nPress and hold the Power button to charge Corrupt Purge, and release it to unleash a stream of damaging bile.\nHitting a Survivor will cause them to lose a Health State, putting them either into the Injured or Dying State.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/FulliconPowers_vilePurge.png"
+		]
+	},
+	{
+		"powerId": 15,
+		"powerName": "Night Shroud",
+		"powerCode": "nightshroud",
+		"killerCode": "theghostface",
+		"description": "The Ghost Face used to study his victims for weeks, mediculously registering their habits. When the urge to kill swelled, he'd know exactly how to and where to strike.\n\nNIGHT SHROUD:\nPress the Power button to activate Night Shroud when the power gauge is full. The Ghost Face is granted the Undetectable status effect while Night Shroud is active. Performing a basic attack fully depletes the power gauge and deactivates Night Shroud.\n\nReveal:\nSurvivors within proximity to The Ghost Face may attempt to reveal him by looking in his direction for a short duration. A successful reveal fully depletes The Ghost Face's power gauge and automatically deactivates Night Shroud. Survivors who reveal The Ghost Face have their current location indicated by Killer Instinct for a very short duration.\n\nSPECIAL ABILITY: STALK:\nHold down the Power button to Stalk Survivors while Night Shroud is active. Hold down the Power button while behind cover to lean out and Stalk at a faster rate. Completing Stalk progress on a Survivor Marks your target fand applies the Exposed status effect to your Mark for a limited amount of time. Marked Survivors cannot reveal The Ghost Face.\n\nSPECIAL ABILITY: CROUCH:\nPress the Ability button to Crouch. Press the Active Ability button again while Crouched to stand. The Ghost Face moves at a slower speed while Crouched.\n\n\"Don't mind me. That's it, keep going. Perfect. That's the image I'll keep of you,\" - The Ghost Face",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/FulliconPowers_nightShroud.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/FulliconPowers_nightShroud_activated.png"
+		]
+	},
+	{
+		"powerId": 16,
+		"powerName": "Of the Abyss",
+		"powerCode": "oftheabyss",
+		"killerCode": "thedemogorgon",
+		"description": "An unknown and otherworldly power surged through its body.\nSuddenly the ground ripped open, swallowing The Demogorgon whole.\n\nOF THE ABYSS:\nPress and hold the Power button to fully charge and activate Of the Abyss.\nAll Survivors within a close proximity to any activated Portals will be indicated by Killer Instinct.\n\nSPECIAL ATTACK: Shred\nPress the Attack button while charging or holding Of the Abyss to dive forwards and unleash a vicious slash.\nShredding into Breakable Walls IconHelp or Pallets will destroy them.\n\nSPECIAL ABILITY: Portals\nPress the Active Ability button to place an inactive Portal on the ground in front of you.\nInactive Portals are invisible to Survivors and cannot be sealed by them.\n\nTraversing the Upside Down\nWhen standing on a placed Portal while viewing a highlighted Portal, press the Active Ability button to travel through the Upside Down, emerging from the highlighted Portal\nAfter emerging from a Portal, The Demogorgon is cloaked by the Undetectable Status Effect for 3 seconds.\n\nActivated Portals\nPortals become activated when they are first traversed to or from.\nActivated Portals are visible to Survivors and can be sealed by them.\nSurvivors walking atop or sealing an activated Portal suffer from the Oblivious Status Effect.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/FulliconPowers_ofTheAbyss.png"
+		]
+	},
+	{
+		"powerId": 17,
+		"powerName": "Yamaoka's Wrath",
+		"powerCode": "yamaokaswrath",
+		"killerCode": "theoni",
+		"description": "The desire to destroy weaker bloodlines shaped into a literal force.\n\nYAMAOKA'S WRATH:\nAbsorption Mode:\nAbsorb Blood Orbs left by your injured foes.\nPress and hold the Power button to absorb Blood Orbs in the environment and fill your Power gauge.\nWhen your Power gauge is full, press and hold the Active Ability button to initiate Blood Fury.\n\nBlood Fury:\nWhile Blood Fury is active, The Oni becomes lethal and gains access to additional abilities: Demon Dash and Demon Strike.\n\nSPECIAL ABILITY: Demon Dash\nPress and hold the Power button while Blood Fury is active, to perform a Demon Dash. This ability allows The Oni to cover large distances rapidly.\nSPECIAL ATTACK: Demon Strike\nPress and hold the Attack button while Blood Fury is active, to perform a Demon Strike in the direction you are facing. Demon Strike has an extended Lunge range and successful hits immediately put healthy Survivors into the Dying State.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f2/FulliconPowers_yamaokasWrath.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bd/FulliconPowers_yamaokasWrath_Demon.png"
+		]
+	},
+	{
+		"powerId": 18,
+		"powerName": "The Redeemer",
+		"powerCode": "theredeemer",
+		"killerCode": "thedeathslinger",
+		"description": "The Deathslinger's ingenuity affords him the ability to reel in bounties with a unique invention — a heavily modified, hybrid rifle that replaces conventional ammunition with a razor-sharp spear affixed to a chain.\n\nTHE REDEEMER:\nPress and hold the Power button to aim down sights.\nPress the Attack button to shoot a spear that can lodge itself in a Survivor, allowing them to be reeled in towards The Deathslinger against their will.\n\nReel:\nWhile a Survivor is speared by The Redeemer, press and hold the Power button to reel them in towards you.\nSurvivors may struggle against the chain or use the environment to pressure the chain to break.\nDoing so will result in briefly stunning The Deathslinger as well as putting the Survivor in the Injured State and applying the Deep Wound Status Effect.\nUsing a Basic Attack while a Survivor is speared will break the chain without applying either a stun penalty to The Deathslinger or the Deep Wound Status Effect to the Survivor.\nSuccessfully hitting a Survivor with a Basic Attack while they are speared and healthy will also apply the Deep Wound Status Effect.\n\nReload:\nThe Redeemer must be reloaded after every shot, before it may be fired again. Press and hold the Active Ability button to reload The Redeemer.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/FulliconPowers_theRedeemer.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/FulliconPowers_theRedeemer_chainBreak.png"
+		]
+	},
+	{
+		"powerId": 19,
+		"powerName": "Rites of Judgement",
+		"powerCode": "ritesofjudgement",
+		"killerCode": "theexecutioner",
+		"description": "Open the Gates of Suffering and be judged! The Great Knife splits the ground, giving rise to an infernal construct and spreading agony to all who approach.\n\nRITES OF JUDGEMENT:\nHold the Power button to activate, then move forwards in any direction to carve a Torment Trail into the ground.\nSurvivors who walk or run on the Torment Trail will trigger Killer Instinct, as well as become afflicted with Torment.\nSurvivors afflicted with Torment may be sent to a Cage of Atonement when they are in the Dying State.\nBeing rescued or rescuing another Survivor from a Cage of Atonement will remove Torment.\n\nSPECIAL ATTACK: Punishment of the Damned\nPress the Attack button while Rites of Judgement is active to perform Punishment of the Damned.\nThis unleashes a wave of force in the form of an Attack Trail, damaging any Survivors in its path.\n\nSPECIAL ABILITY: Cage of Atonement\nPress the Active Ability button while standing over a dying Survivor afflicted with Torment to send them to a Cage of Atonement.\nSurvivors in a Cage of Atonement undergo the regular Sacrifice process as if they were on a Hook.\n\nSPECIAL ABILITY: Final Judgement\nPress the Active Ability button while standing over a dying Survivor afflicted with Torment and who has reached the second Hook Stage either on a Hook or in a Cage of Atonement to execute them using a Mini-Mori.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/FulliconPowers_ritesOfJudgement.png"
+		]
+	},
+	{
+		"powerId": 20,
+		"powerName": "Blighted Corruption",
+		"powerCode": "blightedcorruption",
+		"killerCode": "theblight",
+		"description": "Pustula serum courses through his veins, corrupting his mind and body, yet granting him unnatural physical abilities.\n\nThe Blight starts the Trial with 5 Tokens.\n\nSPECIAL ABILITY: Rush\nWhen Blighted Corruption is fully charged, press the Power button to initiate a Rush, allowing The Blight to dash forwards at great speed, consuming 1 Token in the process.\nDuring a Rush, The Blight is unable to initiate an Attack.\n\nSlam:\nA Slam is performed by rushing The Blight into obstacles or walls, which opens the Chain Rush Window.\n\nSPECIAL ATTACK: Lethal Rush\nDuring the Chain Rush Window, press the Power button again to initiate a Lethal Rush, consuming 1 Token in the process.\nDuring a Lethal Rush, The Blight can initiate an Attack by pressing the Attack button.\nRushing into Pallets or Breakable Walls while attacking will destroy them.\n\nFatigue:\nAfter either the Chain Rush Window closes or the final Lethal Rush with all Tokens are consumed, The Blight enters Fatigue and begins recharging the Tokens.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/FulliconPowers_blightedCorruption.png"
+		]
+	},
+	{
+		"powerId": 21,
+		"powerName": "Blood Bond",
+		"powerCode": "bloodbond",
+		"killerCode": "thetwins",
+		"description": "Though forever bound through blood and trauma, The Twins have been granted the power to separate from their shared body. Together they hunt as brother and sister, doubling the threat to Survivors.\n\nSPECIAL ABILITY: Blood Bond\nAs Charlotte, press and hold the Power button to unleash Victor.\nPressing the Ability button allows you to swap control back and forth between Charlotte and Victor.\n\nDormant State:\nWhile controlling Victor, Charlotte falls into a Dormant State.\nIn the Dormant State, Charlotte's Terror Radius and Red Stain are hidden.\nIn the Dormant State, Charlotte temporarily retains collision, blocking a Survivor's path.\n\nVictor:\nVictor can scour the environment at great speed in search of Survivors.\nVictor cannot see Scratch Marks.\nVictor can see Pools of Blood left by injured Survivors in bright red.\nVictor can search Lockers for Survivors.\nIf he finds one, control automatically reverts to Charlotte while he holds the Locker doors shut, trapping the Survivor for up to 10 seconds while they struggle against it.\nWhile controlling Charlotte, Victor will trigger Killer Instinct on any walking or running Survivors within his Shriek range, revealing their outlines to Charlotte.\nWhen Victor is idle, Survivors can perform the Crush action on him, crushing him in the process and forcing him to re-grow on Charlotte's after 6 seconds.\nVictor will automatically dissolve and re-grow on Charlotte after 90 seconds.\nCharlotte can voluntarily recall Victor after 30 seconds.\n\nSPECIAL ATTACK: Pounce\nWhile controlling Victor, press and hold the Ability button to charge a Pounce and press the Attack button to unleash it.\nPouncing at a Survivor will damage them.\nIf the Survivor was at full health, Victor will latch onto them; control will swap back to Charlotte.\nIf the Survivor was already in the Injured State, they will be put into the Dying State; control will remain with Victor.\nA Pounce without latching on will leave Victor vulnerable for a short time, in which nearby Survivors can crush him.\nIf a Pounce lands him on top of an obstacle taller than himself, Victor will automatically dissolve and re-grow on Charlotte.\n\nLatched-on:\nWhen latched onto a Survivor, they suffer from various afflictions:\nBroken, Oblivious, and Incapacitated Status Effects.\nAdditionally, the Survivor will be unable to enter Lockers or leave through the Exit Gates, while also activating Killer Instinct on nearby Survivors.\nThe afflicted Survivor can remove and crush Victor by performing the Remove action for 8 seconds.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/FulliconPowers_bloodBond_Sister.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b9/FulliconPowers_bloodBond_LittleBrother.png"
+		]
+	},
+	{
+		"powerId": 22,
+		"powerName": "Showstopper",
+		"powerCode": "showstopper",
+		"killerCode": "thetrickster",
+		"description": "A mesmerising skill honed through a lifetime of practice, Ji-Woon Hak unleashes a flurry of knives with rapid-fire speed.\n\nSHOWSTOPPER:\nStart the Trial with 44 Blades.\nPress and hold the Power button to wind up and enter the Throw State.\nWhile in the Throw State, tap the Attack button to throw a single Blade, or hold down the Attack button to unleash a flurry of Blades.\nThrowing a flurry of Blades increases control and Throw rate, while decreasing Movement speed.\nRestock Blades at Lockers.\n\nLaceration Meter:\nA Survivor's Laceration Meter increases each time they are hit by a Blade.\nOnce the meter is filled (6 Blade Hits), they lose a Health State, putting them either into the Injured or Dying State.\nA Survivor's Laceration Meter will gradually decrease if they have not been hit by a Blade for a short time.\nHitting a Survivor with a Basic Attack will partially deplete their Laceration Meter.\n\nSPECIAL ATTACK: The Main Event\nEach Blade Hit also fills the Event Meter.\nOnce full, The Main Event can be activated by pressing the Active Ability button.\nIn this mode The Trickster automatically throws unlimited Blades for the duration of The Main Event.\nHis Throw rate is significantly increased and his Movement speed does not decrease after each throw.\nThe Main Event can be cancelled by pressing the Active Ability button again.\nDoing so resets the Event Meter and initiates a cool-down on Showstopper.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d4/FulliconPowers_showstopper.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/FulliconPowers_showstopper_mainEvent.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconPowers_showstopper_mainEventCooldown.png"
+		]
+	},
+	{
+		"powerId": 23,
+		"powerName": "T-Virus",
+		"powerCode": "tvirus",
+		"killerCode": "thenemesis",
+		"description": "A virus that causes extreme mutations and can be transferred to others.\nIts effects heighten aggression and strength within The Nemesis.\n\nT-VIRUS\nYour Power expands as your Mutation Rate grows.\n\nSPECIAL ATTACK: Tentacle Strike\nPress and hold the Power button to charge an attack.\nOnce charged, tap the Attack button to unleash a Tentacle Strike.\nHitting a Survivor with a Tentacle Strike afflicts them with Contamination and increases your Mutation Rate.\nIf a Survivor is already Contaminated, a Tentacle Strike will damage them. It also will increase your Mutation Rate by the same amount as hitting a zombie.\n\nContamination:\nSurvivors who become Contaminated suffer briefly from the Hindered Status Effect.\nSurvivors can cure Contamination by using a Vaccine on themselves or other Survivors.\nVaccines can be found in Supply Cases located throughout the environment, but their number is limited to 4 Supply Cases.\nAfter using a Vaccine, the Survivor's location is briefly revealed by Killer Instinct.\n\nMutation Rate 1:\nNo special benefits.\n\nMutation Rate 2:\nTentacle Strike can destroy Breakable Walls and Pallets.\n\nMutation Rate 3:\nSlightly increases Tentacle Strike range.\nSlightly increases Movement speed while charging Tentacle Strike.\n\nSPECIAL ENEMY: Zombies\nT-Virus causes 2 Zombies to spawn and roam about the Trial Grounds.\nWhen a Zombie attacks a Survivor, they inflict Contamination.\nIf a Survivor is already Contaminated, they receive damage.\nZombies can be destroyed with a Tentacle Strike to increase The Nemesis' Mutation Rate, doing so with a Basic Attack will not do so.\nSurvivors have limited options to interact with Zombies:\nBlinding them to lose line-of-sight using Flashlights, Firecrackers, or Flash Grenades.\nDestroying them to force a respawn using Pallets.\nZombies destroyed by The Nemesis respawn after 12 seconds.\nZombies destroyed by Survivors respawn after 45 seconds.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/06/FulliconPowers_t-Virus_MR1.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/FulliconPowers_t-Virus_MR2.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconPowers_t-Virus_MR3.png"
+		]
+	},
+	{
+		"powerId": 24,
+		"powerName": "Summons of Pain",
+		"powerCode": "summonsofpain",
+		"killerCode": "thecenobite",
+		"description": "An extradimensional gateway that leads to pleasure and pain so great it will tear your soul apart.\n\nSUMMONS OF PAIN:\nPress the Power button to create a gateway and release the button to open it.\nOnce opened, tap the Ability button to summon forth a possessed Chain under your control.\n\nPossessed Chain:\nDirecting a Possessed Chain into a Survivor will bind them with an uncontrolled Chain.\n\nChains:\nA Survivor bound with a regular Chain is unable to sprint, suffers from the Incapacitated Status Effect, and cannot leave through the Exit Gate.\nIf the Chain is not broken, a second and eventually a third Chain will appear and bind them as well, each applying a stack-able Movement Speed penalty to the Survivor.\n\nBreaking Chains:\nBound Survivors can perform the Break Free action to break free from the Chains.\nEach Chain needs to be broken separately.\nIf the bound Survivor brings any environmental object between them and a Chain's Gateway, the Chain will break immediately.\nHowever, this action causes a replacement Chain to spawn and attempt to rebind the Survivor.\nIf other Survivors, or The Cenobite himself, walk through a Chain, the Chain will also break immediately, without spawning a replacement Chain.\n\nLament Configuration:\nUpon starting the Trial, the Lament Configuration spawns in a random location in the Trial Grounds, and does so after each time it has been interacted with.\nSurvivors can see the Aura of the Lament Configuration, which is white when idle and yellow during an on-going Chain Hunt.\nAny Survivor can pick-up the Lament Configuration and carry it with them, but not without experiencing some suffering.\nThe Survivor suffers permanently from the Oblivious Status Effect.\nThe Survivor is intermittently attacked with Chains summoned by the Lament Configuration.\nThe Lament Configuration cannot be dropped, it must be solved to remove it from their possession.\nSolving the Lament Configuration will indicate the Survivor's location to the The Cenobite through Killer Instinct.\n\nTeleport:\nWhile the Lament Configuration is being solved, The Cenobite can choose to teleport to that Survivor's location.\nThis causes the Lament Configuration to open and bind the Survivor with three small Chains while The Cenobite completes the teleportation.\n\nChain Hunt: If left to its own devices, the Lament Configuration eventually initiates a Chain Hunt.\nDuring a Chain Hunt, the Lament Configuration continuously summons Chains that pursue and attempt to bind every Survivor, until any Survivor picks up the Lament Configuration, which ends the Chain Hunt.\n\nThe Cenobite can pick up the Lament Configuration himself, which will immediately start a Chain Hunt.\nAdditionally, all Survivors are instantly bound by Chains, causing them to scream and reveal their respective locations.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconPowers_summonsOfPain.png"
+		]
+	},
+	{
+		"powerId": 25,
+		"powerName": "Birds of Torment",
+		"powerCode": "birdsoftorment",
+		"killerCode": "theartist",
+		"description": "From a wellspring of eternal agony comes a swarm of darkness, a wild and ferocious murder of ink black crows.\n\nBIRDS OF TORMENT\nPress the Power button to charge Birds of Torment.\nOnce fully charged, tap the Attack button to summon a Dire Crow.\nThis action can be repeated in quick succession by continuously holding the Power button and tapping the Attack button again.\n\nDire Crow:\nWhen at least one Dire Crow is summoned, it stays idle for a limited amount of time.\nSpawning a new Dire Crow will extend the time the previously spawned Dire Crow stays idle.\nTap the Ability button to propel all Idle Dire Crows into flight, following their indicated Flight Path.\n\nFlight Path:\nDire Crows inflict damage to Survivors while still on their Flight Path, which is indicated to The Artist.\nOnce Dire Crows continue past their individual Flight Paths or fly through an obstacle within it, they turn into a Swarm, able to pass through any obstacles while flying on through the environment.\n\nSwarm:\nWhile a Swarm continues in a straight line throughout the environment, it will reveal any nearby Survivors through Killer Instinct.\nIf a Swarm collides with a Survivor, it will start to swarm them with a Murder of Crows.\nThe Aura of the Swarm is revealed to The Artist in white at all times, except for when it is being repelled.\nIf a Swarm collides with an already Swarmed Survivor, it will inflict damage.\n\nRepel:\nSwarmed Survivors can repel the Swarm either by completing the Repel action or by entering a Locker.\nDuring this time, the Swarm's Aura is not revealed to The Artist.\nColliding with an idle Dire Crow while repelling the Swarm, will reset the Repel action.\n\nLight Vulnerability:\nBoth Idle Dire Crows and Swarms are vulnerable to bright lights:\nShining Flashlights directly at them or detonating Firecrackers or Flash Grenades near them will destroy them.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/FulliconPowers_birdsOfTorment.png"
+		]
+	},
+	{
+		"powerId": 26,
+		"powerName": "Deluge of Fear",
+		"powerCode": "delugeoffear",
+		"killerCode": "theonryo",
+		"description": "Through the medium of a mysterious videotape, Sadako spreads her curse to unwitting viewers and causes their untimely deaths.\n\nBefore Manifesting, The Onryō gains the Undetectable Status Effect and is invisible to Survivors, but becomes intermittently visible when within 24 metres of them.\n\nSPECIAL ABILITY: MANIFESTATION\nThe Onryō must physically manifest to attack Survivors.\nPress and hold the Power button to Manifest into material form in your current location.\nFor a brief duration after Manifesting, The Onryō will continue to be intermittently visible to Survivors when within 24 metres.\nAfterwards, she will be fully visible within 24 metres for as long as she remains Manifested.\nThe Onryō can Demanifest by pressing and holding the Power button again.\n\nSPECIAL ABILITY: PROJECTION\nThe Onryō can also take material form by Projecting herself through a TV.\nPress the Ability button while looking at a powered TV to Project into it, shutting off the TV in the process and automatically Manifesting yourself.\nAll Survivors within 16 metres of the TV gain Condemned progress.\n\nSPECIAL ABILITY: INEXORABLE STARE\nA fully Condemned Survivor is revealed by Killer Instinct for 6 seconds and can be killed with the Inexorable Stare when in the Dying State.\n\nSPECIAL INTERACTION: RETRIEVE TAPE / TURN-OFF TV\nSurvivors can walk up to any TV to retrieve its VHS Tape, which turns off that TV temporarily.\nHolding a VHS Tape, they can walk up to any other TV and turn it off temporarily too.\nThese interactions, however, come at the cost of adding Condemned progress to the Survivor.\nSurvivors also passively gain Condemned progress over time when holding a VHS Tape.\nRetrieving the VHS Tape procs a Loud Noise Notification, revealing the location of a TV, whose Aura is highlighted to the Survivor.\nThis TV allows the Survivor to spread The Onryō's message by inserting the VHS Tape into it.\nDoing so removes some Condemned progress.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/FulliconPowers_delugeOfFear.png",
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/FulliconPowers_delugeOfFear2.png"
+		]
+	},
+	{
+		"powerId": 27,
+		"powerName": "Reign of Darkness",
+		"powerCode": "reignofdarkness",
+		"killerCode": "thedredge",
+		"description": "Like a dark thought, The Dredge is difficult to shake. And when night falls, it is nearly impossible.\n\nREIGN OF DARKNESS:\nStart the Trial with 3 Tokens.\nPress and hold the Power button to activate The Gloaming.\n\nSPECIAL ABILITY: THE GLOAMING\nOnce activated, The Dredge leaves a Remnant behind.\nIn this state, The Dredge is free to roam the Trial Grounds, albeit at a slower pace.\n\nAim at a Locker and press the Ability button to teleport into it or press the Attack button to return to the Remnant.\nThe Remnant is disabled when teleporting to a Locker or when a Survivor touches it.\nWhile in a Locker, aim at any other Locker and press the Ability button to teleport again.\nEach teleportation consumes 1 Token.\nExiting the Locker or returning to the Remnant will activate The Gloaming's cool-down of 12 seconds, after which all Tokens are replenished.\n\nSPECIAL INTERACTION: GRABBING SURVIVORS\nIf The Dredge teleports into a Locker that happens to have a Survivor hiding inside it or is in the process of entering it, The Dredge will automatically grab them and leave the Locker with the Survivor on its shoulder.\n\nSPECIAL INTERACTION: LOCKING LOCKERS\nAt the start of the Trial, every Locker spawns with an open latch on its doors.\nSurvivors can walk up to any Locker and close that latch, locking it for The Dredge, but also for other Survivors.\nThis can be done once per Trial for every Locker.\nThe latch cannot be closed when another Survivor is hiding inside the Locker.\n\nWhen The Dredge teleports into a locked Locker, it will slow it down while exiting it.\nAfter breaking free, the lock breaks.\nThe Dredge can break the latch of locked Lockers from the outside by walking up to it and performing a Basic Attack.\n\nAttempting to lock the Locker The Dredge is currently inside of will cause The Dredge to immediately grab the Survivor.\nThe same applies when attempting to enter that Locker or generally interacting with it in any way.\n\nSPECIAL ABILITY: NIGHTFALL\nWhenever a healthy Survivor is injured, a Survivor is hooked, or The Dredge uses its teleportation power, the Nightfall Meter builds.\nThe Nightfall Meter fills faster for each Survivor in the Injured State.\n\nOnce the Nightfall Meter is full, Nightfall begins automatically, forcing Survivors to navigate in near-total darkness.\nNightfall ends after 60 seconds.\nSurvivors destroying the Remnant will reduce that time.\n\nDuring Nightfall, The Dredge benefits from the following effects:\n\nTeleportation to and between Lockers is faster and with a shorter cool-down of 4 seconds.\nGrants the Undetectable Status Effect.",
+		"powerImg": [
+			"https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2e/FulliconPowers_reignOfDarkness.png"
+		]
+	}
+]

@@ -1,41 +1,85 @@
-# 🚨🚨 HUGE CHANGES INCOMING!!!
-⚠ The Dead by API is undergoing a rework larger than Dead Hard's!
+# Dead by API - A Dead by Daylight data API (and database!)
 
-I am rebuilding the whole thing in Next.js. The database models and schema will not be affected, so all the data will work for both versions of the API. Field choices, code system, and all other functionalities also will work exactly the same. The strucure of the routes was changed in order to better group together related data.
+## Hey!
 
-The new stuff will drop on a new repository, which will be linked here. This version of the API will no longer be developed, but the repo will remain open, so if you catch a bug or a typo, open a pull request and we'll get it fixed! Also, all of the data will be placed in a repo of its own in order to decouple the database from the API. The repo will contain our little script friend to upload everything.
+> I'm [Lucas](https://www.lucaslamonier.com/) and I built this API for you! Download it, use on your projects, create new features, ~~fix it,~~ and have fun!
+If you use this code and feel like it, show me what you made. It'll make my day to see someone putting this thing to good use! 😉
 
-And, as usual, make this code your own. Build on top of it, break it, improve it, have fun! And don't forget to send me a message to show what you've done, it'll make my day!! 😄
+<br/>
 
-# Dead by API - A Dead by Daylight data API
+This API features 30 survivors, 27 killers, 197 perks, 588 add-ons, 32 items, and 29 endpoints! Updated for patch 5.7.1 (May 3rd, 2022).
 
-This API features 30 survivors, 27 killers, 197 perks, 588 add-ons, 32 items, and 26 endpoints! Updated for patch 5.7.1 (May 3rd, 2022).
-
-Built with Node.js, Express, Mongoose, MongoDB, and friends.
+Built with Next.js, MongoDB, and friends!
 
 All Dead by Daylight content belongs to [Behaviour Interactive Inc](https://deadbydaylight.com/).
 
 This API uses data from both in-game and the [Dead by Daylight Wiki](https://deadbydaylight.fandom.com/wiki/Dead_by_Daylight_Wiki).
 
-This repo contains both the data (in JSON format) and the code to run the API.
+This repo contains the source code of the API, the database models and schema, a script to import the data into a Mongo database, and thorough (hopefully) instructions on how to get it going.
 
-## Using the API
+The code of the DbA's first version (built with Node.js and Express) is in the folder `dba-v1`.
 
-The Dead by API is live on Heroku at [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
+## Summary
 
-Just add the address of the endpoint you want and you're good to go! The first request might take a couple of seconds because the app goes to sleep after spending some time inactive.
+- [Overview](#overview)
+  - [Data structure](#data-structure)
+  - [Name codes](#name-codes)
+    - [Code examples](#code-examples)
+  - [Field selection query](#field-selection-query)
+    - [Field selection example](#example)
+- [Endpoints](#endpoints)
+  - [API route structure](#api-route-structure)
+  - [Collection](#collection)
+  - [Code | Random](#code--random)
+    - [Code](#code)
+    - [Random](#random)
+  - [Additional](#additional)
+- [Running the code](#running-the-code)
+- [Quickstart](#quickstart)
+  - [1. Get the code](#1-get-the-code)
+  - [2. Install dependencies](#2-install-dependencies)
+  - [3. Add environment variables](#3-add-environment-variables)
+  - [4. Run it](#4-run-it)
+  - [5. Deploy](#5-deploy)
+- [Populating the database](#populating-the-database)
+- [Models](#models)
+  - [Item](#item)
+  - [Item add-on](#item-add-on)
+  - [Killer](#killer)
+    - [Killer power object](#killer-power-object)
+    - [Killer imgs object](#killer-imgs-object)
+  - [Killer add-on](#killer-add-on)
+  - [Killer perk](#killer-perk)
+  - [Killer power](#killer-power)
+  - [Survivor](#survivor)
+    - [Survivor imgs object](#survivor-imgs-object)
+  - [Survivor perk](#survivor-perk)
+- [Additional information](#additional-information)
+- [Get in touch](#this-api-was-built-by-lucas-lamonier-as-a-part-of-the-razorpawproject)
 
-Try it out!
+## Overview
 
-[https://dead-by-api.herokuapp.com/api/survs/felixrichter?fields=name,role,perks_names,imgs](https://dead-by-api.herokuapp.com/api/survs/felixrichter?fields=name,role)
+### Data structure
 
-## API Reference
+The data is divided into 8 collections:
 
-### Name Codes
+- [item](#item)
+- [item-addon](#item-addon)
+- [killer](#killer)
+- [killer-addon](#killer-addon)
+- [killer-perk](#killer-perk)
+- [survivor](#survivor)
+- [survivor-perk](#survivor-perk)
 
-This API uses a code system to identify each survivor, killer, perk, add-on or item. The code is the name in lowercase, without spaces or special characters.
+Click on the name of the collection to see its model or [here](#models) to go to the model section.
 
-#### Examples:
+### Name codes
+
+This API features a code system to identify each survivor, killer, perk, add-on, or item. The code is the element's name in lowercase and without spaces or special characters. Every document in every collection has its own unique code.
+
+This API features a code system that helps you quickly find a specific resource. A document's code is its name in lowercase, without spaces, and special characters. Accented letters are replaced. For example: `Onryō` becomes `onryo`. See more examples below.
+
+##### Code examples
 
 | Name                         | Code                    |
 | :--------------------------- | :---------------------- |
@@ -44,202 +88,346 @@ This API uses a code system to identify each survivor, killer, perk, add-on or i
 | Coup de Grâce                | `coupdegrace`           |
 | "Restraint" - Carter's Notes | `restraintcartersnotes` |
 
-### Fields query
+### Field selection query
 
-It is possible to select which fields to get in the response by using the query:
+It is possible to filter which fields will be returned in your request. To do so, add a `fields` query string with the name(s) of the field(s) you want. When selecting multiple fields, separate them with commas.
 
-`?fields=<field names>`
+Field selection is available on all routes.
 
-Example:
+`?fields=<field>`
+
+##### Example
 
 ```http
-  /api/survs/felixrichter?fields=name,role,perks_names
+GET /api/survivor/felixrichter?fields=name,role,perks_names
 ```
 
-returns:
+Returns:
 
 ```json
 {
   "status": "success",
-  "data": [
-    {
-      "_id": "626fef241b005986989820f3",
-      "name": "Felix Richter",
-      "role": "Visionary Architect",
-      "perks_names": ["Visionary", "Desperate Measures", "Built to Last"]
-    }
-  ]
+  "results": 1,
+  "data": {
+    "name": "Felix Richter",
+    "role": "Visionary Architect",
+    "perks_names": [
+      "Visionary",
+      "Desperate Measures",
+      "Built to Last"
+    ]
+  }
 }
 ```
 
-### Survivors
+For more details on available fields, refer to the [models](#models) section.
 
-#### Get all Survivors
+## Endpoints
 
-```http
-  GET /api/survs
-```
+### API route structure
 
-#### Get one random Survivor
+Dead by API routes are divided into 3 segments: the collection name, specific or random document, and an additional parameter to retrieve documents related to the first one.
 
-```http
-  GET /api/survs/random
-```
-
-#### Get specific Survivor
+### Collection
 
 ```http
-  GET /api/survs/<survivor code>
+GET /api/<collection>
 ```
 
-#### Get perks of a specific Survivor
+Providing only the collection name will return all of its documents. For example, `GET /api/killer` will return every single killer in the game. Note that the collection parameter is singular, passing `killers` will return an error.
+[Fields](#field-selection-query) available.
+
+### Code | Random
+
+There are two options for the second parameter: the [code](#name-codes) or the word random.
+
+#### Code
 
 ```http
-  GET /api/survs/<survivor code>/perks
+GET /api/<collection>/<code>
 ```
 
-### Killers
+Retrieves one single document based on the code supplied. `GET /api/survivor/felixrichter` will return Felix's document.
+[Fields](#field-selection-query) available.
 
-#### Get all Killers
+#### Random
 
 ```http
-  GET /api/killers
+GET /api/item/random
 ```
 
-#### Get one random Killer
+Fetches a random sample from the given collection. The default amount is 1, but it is possible to get up to 10. In order to do that, use the amount query:
+
+`?amount=<number>`
+
+Passing a number below 1, higher than 10, or not a number at all, defaults to 1.
+
+You can combo amount with [fields](#field-selection-query): `?amount=1&fields=name,description`
+
+### Additional
+
+Finally, the last segment retrieves data related to the collection:
+
+- Killer: `power`, `perk`, and `addon`
+- Survivor: `perk`
+- Item: `addon`
+
+⚠ Additional queries can only be used in routes that received a `<code>` parameter. It won't work for `<random>` requests.
 
 ```http
-  GET /api/killers/random
+GET /api/<collection>/<code>/<additional>
 ```
 
-#### Get specific Killer
+Examples:
 
 ```http
-  GET /api/killers/<killer code>
+GET /api/killer/trapper/addon
+GET /api/killer/trapper/perk
+GET /api/killer/trapper/power
+
+GET /api/survivor/felixrichter/perk
+
+GET /api/item/flashlight/addon
 ```
 
-#### Get the power of a specific Killer
+The additional queries are meant to retrieve addons, perks, and powers from specific killers/survivors/items. You can access the collections `item-addon`, `killer-addon`, `killer-perk` and `survivor-perk` to get [all documents](#collection) or [random samples](#random).
+[Fields](#field-selection-query) available.
 
-```http
-  GET /api/killers/<killer code>/power
+## Running the code
+
+In order to run this API, you need:
+
+- Git (optional) to clone the repository
+  - Alternatively, you can download the code directly from the green "code" button on the top of the page
+  - Read the docs on [how to get started with Git](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+- Node (to run the thing, version 18.16.1 or higher)
+  - [Download and install](https://nodejs.org/en/download)
+
+- MongoDB (the actual database)
+  - This one is a little tricky and requires a considerable amount of work
+  - There are two possibilites:
+      1) Run locally, [some tips here](https://zellwk.com/blog/local-mongodb/), or
+      2) Run it in the magical place called [_the cloud_](https://www.mongodb.com/)
+
+## Quickstart
+
+#### 1. Get the code
+
+`git clone` or download the code.
+
+#### 2. Install dependencies
+
+- Open your favorite CLI in the root folder of the project.
+- Run `npm install`
+- Wait for the dependencies to install
+
+#### 3. Add environment variables
+
+- At the root of your project, create a file called `.env.local`
+- Inside this file add 3 variables: `USERNAME`, `PASSWORD`, and `DATABASE`
+- These variables are the credential that allow your application to connect with your Mongo database
+- Your file should look something like this:
+
+```txt
+USERNAME=yourusername
+PASSWORD=your1password2
+DATABASE=mongodb+srv://....
 ```
 
-#### Get the power Add-ons of a specific Killer
+#### 4. Run it
 
-```http
-  GET /api/killers/<killer code>/addons
+- Run `npm run dev`
+- The API should be running on `http://localhost:3000/api/`
+- You can build scripts to fetch data or use API testing tools such as [Postman](https://www.postman.com/) and [Insomnia](https://insomnia.rest/).
+
+
+#### 5. Deploy
+
+- To get the API online you need two services: dedicated database and a host
+
+- For the database I recommend [MongoDB Atlas](https://www.mongodb.com/). It is extremely unlikely that you will ever go beyond their free tier.
+
+- For hosting, there are tons of options on the internet. My go to for Next.js is obviously [Vercel](https://vercel.com/docs).
+
+## Populating the database
+
+This API uses the Mongoose library to handle the database. The file `src/data/db-import-script/importdevdata.js` contains one script that upload the files and other that deletes them.
+
+This file imports dependencies, connects to the database, and reads the files with the raw data.
+
+Note that the lines 50-57 and 71-78 are commented out. Each line refers to one collection. This way, by removing the comment toggle whether the collection should be affected or not.
+
+Next, you need to choose which operation you want to perform. You can do that by passing an argument to the CLI command: `--import` or `--delete`.
+
+The final command would be
+
+```text
+node src/data/db-import-script --import
 ```
 
-#### Get the perks of a specific Killer
+to add the data and
 
-```http
-  GET /api/killers/<killer code>/perks
+```text
+node src/data/db-import-script -- delete
 ```
 
-#### Get all Killer powers
+The script will run and print on the log information about the status of the operation.
 
-```http
-  GET /api/killers/powers
-```
+## Models
 
-#### Get one random Killer power
+### Item
 
-```http
-  GET /api/killers/powers/random
-```
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `name` | `string` | The name of the item |
+| `code` | `string` | The unique code |
+| `type` | `string` | The type of item (e.g., flashlight, key) |
+| `rarity` | `string` | The rarity (e.g., very rare, event, limited) |
+| `description` | `string` | The in-game description text |
+| `icon` | `string` | The link to the in-game inventory image of the item |
 
-#### Get all Killer power Add-ons
+### Item add-on
 
-```http
-  GET /api/killers/addons
-```
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `name` | `string` | The name of the item add-on |
+| `code` | `string` | The unique code |
+| `type` | `string` | The type of item (e.g., flashlight, key) that uses this add-on |
+| `rarity` | `string` | The rarity (e.g., very rare, event, limited) |
+| `description` | `string` | The in-game description text |
+| `icon` | `string` | The link to the in-game inventory image of the item |
 
-#### Get one random Killer power Add-on
+### Killer
 
-```http
-  GET /api/killers/powers/random
-```
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `number` | `number` | A unique number that represents a killer |
+| `code` | `string` | The killer's unique [code](#name-codes) |
+| `name` | `string` | The name the killer is called (e.g., The Trapper) |
+| `fullName` | `string` | The killer's actual name (e.g., Sally Smithson, aka The Nurse) |
+| `nationality` | `string` | The killer's nationality. The Demogorgon, for example, does not have a nationality, so it returns `None (Extradimensional)`. |
+| `gender` | `string` | The killer's gender. For some reason. The Demogorgon is `Not applicable (not human)`. Good for them. |
+| `licensed` | `boolean` | Indicates whether the killer is an original DbD character or if it comes from another franchise. For example, `thetrapper` returns `false` and `thedemogorgon` returns `true`. |
+| `dlc` | `string` | The name of the DLC in which the killer was released |
+| `difficulty` | `string` | A string that indicates the overall difficulty of playing the killer |
+| `realm` | `string` or `null` | The map that was released in the same DLC as the killer, returns the name of the map or `null` |
+| `powerAttackType` | `string` | Indicates how the killer attacks: basic attack, traps, chainsaws, etc. |
+| `weapon` | `string` | The killer's weapon's name |
+| `moveSpeed` | `string` | The speed the killer moves normally, the string is the number followed by the unit, e.g., `4.6 m/s`. Michael Myers' speed is a longer string that shows his move speed at every level of Evil Within. |
+| `terrorRadius` | `string` | The killer's terror radius followed by the unit, `32 m` |
+| `height` | `string` | The killer's height, instead of a unit, the possible values are `Short`, `Average`, and `Tall` |
+| `perks_names` | `array` | An array of three strings, which are the names of the killer's perks |
+| `power` | `object` | An object with the killer power's id, name, and code, [more details below](#killer-power) |
+| `overview` | `string` | A quick summary of the killer |
+| `backstory` | `string` | The killer's lore |
+| `imgs` | `object` | An object containing the killer's portrait and store image, [more details below](#killer-imgs)
 
-#### Get specific Killer power Add-on
+##### Killer power object
 
-```http
-  GET /api/killers/powers/<add-on code>
-```
+| Field | Type | Description |
+| --- | --- | --- |
+| `powerId` | `number` | A unique number that represents the killer's power |
+| `powerName` | `string` | The name of the power |
+| `powerCode` | `string` | The power's code |
 
-### Perks
+##### Killer imgs object
 
-#### Get all Survivor perks
+| Field | Type | Description |
+| --- | --- | --- |
+| `portrait` | `string` | The link to the image that identifies the killer on the character selection grid |
+| `store` | `string` | The link to the image that is shown on the background of the in-game store when browsing items for the killer |
 
-```http
-  GET /api/perks/surv
-```
+### Killer add-on
 
-#### Get one random Survivor perk
+| Field | Type | Description |
+| --- | --- | --- |
+| `killerId` | `number` | The number that identifies which killer the add-on belongs to |
+| `killerCode` | `string` | The code that identificas which killer the add-on belongs to |
+| `powerCode` | `string` | The code of the power the add-on belongs to |
+| `name` | `string` | The add-on's name |
+| `addonCode` | `string` | The add-on's code |
+| `rarity` | `string` | The add-on's rarity |
+| `description` | `string` | The add-on's in-game description |
+| `icon` | `string` | The link to the add-on's in-game icon |
 
-```http
-  GET /api/perks/surv/random
-```
+### Killer perk
 
-#### Get all Killer perks
+| Field | Type | Description |
+| --- | --- | --- |
+| `id` | `number` | The perk's unique id number |
+| `name` | `string` | The perk's number |
+| `code` | `string` | The perk's code |
+| `killerCode` | `string` | The code of the killer the perk belongs to |
+| `killerName` | `string` | The name of the killer the perk belongs to |
+| `description` | `string` | The perk's in-game description |
+| `icon` | `string` | The link to the perk's in-game icon |
 
-```http
-  GET /api/perks/killer
-```
+### Killer power
 
-#### Get one random Killer perk
+| Field | Type | Description |
+| --- | --- | --- |
+| `powerId` | `number` | The power's unique id number |
+| `powerName` | `string` | The name of the killer's power |
+| `powerCode` | `string` | The code of the killer's power |
+| `killerCode` | `string` | The name of the killer the power belongs to |
+| `description` | `string` | The killer power's in-game description |
+| `powerImg` | `array` | An array that contains one of more strings, each representing a link to an image of the killer's power. Some killers, such as The Shape, have more than one image that represents different states of their power. |
 
-```http
-  GET /api/perks/killer/random
-```
+### Survivor
 
-### Items
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+| `number` | `number` | A unique number that represents a survivor |
+| `code` | `string` | The survivor's unique [code](#name-codes) |
+| `name` | `string` | The survivor's name |
+| `nationality` | `string` | The survivor's nationality |
+| `licensed` | `boolean` | Indicates whether the survivor is an original DbD character or if it comes from another franchise. For example, `felixrichter` returns `false` and `ashjwilliams` returns `true`. |
+| `dlc` | `string` | The name of the DLC in which the survivor was released |
+| `difficulty` | `string` | A string that indicates the overall difficulty of playing the survivor |
+| `perks_names` | `array` | An array of three strings, which are the names of the survivor's perks |
+| `overview` | `string` | A quick summary of the survivor |
+| `backstory` | `string` | The survivor's lore |
+| `imgs` | `object` | An object containing the killer's portrait and store image, [more details below](#survivor-imgs)
 
-#### Get all Items
+##### Survivor imgs object
 
-```http
-  GET /api/items
-```
+| Field | Type | Description |
+| --- | --- | --- |
+| `portrait` | `string` | The link to the image that identifies the survivor on the character selection grid |
+| `store` | `string` | The link to the image that is shown on the background of the in-game store when browsing items for the survivor |
 
-#### Get one random Item
 
-```http
-  GET /api/items/random
-```
+### Survivor perk
 
-#### Get one specific Item
+| Field | Type | Description |
+| --- | --- | --- |
+| `id` | `number` | The perk's unique id number |
+| `name` | `string` | The perk's number |
+| `code` | `string` | The perk's code |
+| `survivorCode` | `string` | The code of the survivor the perk belongs to |
+| `survivorName` | `string` | The name of the survivor the perk belongs to |
+| `description` | `string` | The perk's in-game description |
+| `icon` | `string` | The link to the perk's in-game icon |
 
-```http
-  GET /api/items/<item code>
-```
 
-#### Get one specific Item's Add-ons
 
-```http
-  GET /api/items/<item code>/addons
-```
 
-#### Get all Item Add-ons
 
-```http
-  GET /api/items/addons
-```
 
-#### Get one random Item Add-on
-
-```http
-  GET /api/items/addons/random
-```
-
-#### Get specific Item Add-on
-
-```http
-  GET /api/items/addons/<Add-on code>
-```
 
 ## Additional information
 
-#### This API was built by [Lucas Lamonier](https://github.com/LrLamonier).
+#### This API was built by [Lucas Lamonier](https://www.lucaslamonier.com/) as a part of the [RazorPaw<img src="https://github.com/LrLamonier/LrLamonier/blob/main/readme-imgs/rplogo.png?raw=true" width="19" height="19" />Project](https://www.razorpaw.nexus/).
 
-#### You can contact me via my [LinkedIn](https://www.linkedin.com/in/lamonier/) or at [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com).
+> Hi! I'm a full-stack web developer that loves to use Next.js and the MERN stack to build fun things. If you have an idea or a project that you would like to create, send me a message, maybe we can do something cool together. If you don't and just want to chat, go for it! 😄
 
-Special thanks to [Arthur](https://github.com/ArthR1beiro).
+You can reach me at:
+
+[<img src="https://github.com/LrLamonier/LrLamonier/blob/main/readme-imgs/mail.png?raw=true" width="20" height="20" /> hello@lucaslamonier.com](mailto:hello@lucaslamonier.com)
+
+[<img src="https://github.com/LrLamonier/LrLamonier/blob/main/readme-imgs/github.png?raw=true" width="20" height="20" /> /LrLamonier at GitHub](https://github.com/LrLamonier)
+
+[<img src="https://github.com/LrLamonier/LrLamonier/blob/main/readme-imgs/linkedin.png?raw=true" width="20" height="20" /> /lamonier at LinkedIn](https://www.linkedin.com/in/lamonier/)
+
+###### Thanks a lot, Behaviour people. Y'all're awesome!

@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Flash Grenade",
+    "code": "flashgrenade",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Craft-able & Limited Item.\nCraft-able when using Flashbang.\nCan be used as a distraction of blinding device.\nDetonates with a loud bang and flashing lights:\nCreates a Loud Noise Notification.\nThe Flash Grenade has 1 Charge.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/FulliconItems_flashGrenade.png"
+  },
+  {
+    "name": "Pocket Mirror",
+    "code": "pocketmirror",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Limited Item.\nA pocket mirror pulled from the Basement's White Glyph.\nIts surface is frosty.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f2/FulliconItems_pocketMirror.gif"
+  },
+  {
+    "name": "Lament Configuration",
+    "code": "lamentconfiguration",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Limited Item.\nSpawns in the environment when facing The Cenobite:\nInitiates Chain Hunts after an initial idle phase.\nImmediately initiates a Chain Hunt if The Cenobite interacts with it.\nReveals its Aura to all Survivors.\nSurvivors can pick up and carry the Lament Configuration to solve it:\nCauses the Oblivious Status Effect while carried.\nReveals the Survivor's location to The Cenobite when starting to solve it, allowing him to teleport near them.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/FulliconItems_lamentConfiguration.png"
+  },
+  {
+    "name": "Vaccine",
+    "code": "vaccine",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Limited Item.\nCan be found in Supply Crates:\nCures Contamination.\nThe Vaccine has 1 Charge.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/FulliconItems_vaccine.png"
+  },
+  {
+    "name": "VHS Tape",
+    "code": "vhstape",
+    "type": "limited",
+    "rarity": "Limited",
+    "description": "Limited Item.\nCan be retrieved from TVs:\nRetrieving the VHS Tape increases Condemned progress by 1 Stack.\nGrants the ability to turn off other TVs at the cost of increasing Condemned progress by 1 Stack.\nCan be inserted into another TV to spread The Onryō's message, reducing Condemned progress by 3 Stacks.\nThe VHS Tape has 1 Charge.\nLimited Items are consumed by The Entity at the Trial's end.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/FulliconItems_vhsTape.png"
+  },
+  {
+    "name": "Chinese Firecracker",
+    "code": "chinesefirecracker",
+    "type": "firecrackers",
+    "rarity": "Event",
+    "description": "A row of small explosive devices wrapped in heavy paper casing.\nCan be used as a distraction, as a blinding device or to celebrate.\nDetonates into loud bangs and intense light flashes.\nThe Chinese Firecracker has 1 Charge.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconItems_chineseFirecracker.png"
+  },
+  {
+    "name": "Winter Party Starter",
+    "code": "winterpartystarter",
+    "type": "firecracker",
+    "rarity": "Event",
+    "description": "A small, highly-explosive dinner table decoration.\nCan be used as a distraction, as a blinding device or to celebrate.\nDetonates into loud bangs and intense light flashes.\nThe Winter Party Starter has 1 Charge.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/FulliconItems_winterPartyStarter.png"
+  },
+  {
+    "name": "Third Year Party Starter",
+    "code": "thirdyearpartystarter",
+    "type": "firecracker",
+    "rarity": "Event",
+    "description": "A small, highly-explosive dinner table decoration.\nCan be used as a distraction, as a blinding device or to celebrate our three years together.\nDetonates into loud bangs and intense light flashes, and playful confetti.\nThe Third Year Party Starter has 1 Charge.\n\"Happy Anniversary! Here is to our three years together!\" The Dead by Daylight Team",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/FulliconItems_partyPopper.png"
+  },
+  {
+    "name": "Flashlight",
+    "code": "flashlight",
+    "type": "flashlight",
+    "rarity": "Uncommon",
+    "description": "A standard Flashlight.\nCan be used to light your way in the darkness.\nThe Flashlight has a Battery Life of 8 seconds.\n\"Most of the battery life was wastefully used by the previous owner.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/FulliconItems_flashlight.png"
+  },
+  {
+    "name": "Sport Flashlight",
+    "code": "sportflashlight",
+    "type": "flashlight",
+    "rarity": "Rare",
+    "description": "A very portable Flashlight with a good grip.\nIts efficient technology produces a powerful light while consuming less power.\nIncreased Aim accuracy of 20 %.\nDecreased Battery Depletion rate of 11 %.\nThe Sport Flashlight has a Battery Life of 8 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_sportFlashlight.png"
+  },
+  {
+    "name": "Utility Flashlight",
+    "code": "utilityflashlight",
+    "type": "flashlight",
+    "rarity": "Very Rare",
+    "description": "A sturdy but heavy Flashlight that packs a lot of power.\nIncreased Beam brightness of 30 %.\nIncreased Blindness duration of 15 %.\nReduced Aim accuracy of 20 %.\nThe Utility Flashlight has a Battery Life of 12 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconItems_utilityFlashlight.png"
+  },
+  {
+    "name": "Will O' Wisp",
+    "code": "willowisp",
+    "type": "flashlight",
+    "rarity": "Event",
+    "description": "A Flashlight equipped with a special lens cover that adds an orange tint and a little Ghost to the beam.\nMore friendly Ghosts in your life.\nThe Will O' Wisp has a Battery life of 8 seconds.\n\"Happy Trick or Treating!\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_willOWisp.png"
+  },
+  {
+    "name": "Anniversary Flashlight",
+    "code": "anniversaryflashlight",
+    "type": "flashlight",
+    "rarity": "Event",
+    "description": "A festive Flashlight.\nExplodes with confetti upon blinding a Killer.\nSurprise!\nThe Anniversary Flashlight has a Battery Life of 8 seconds.\n\"Happy Anniversary! Here is to many more!\"  The Dead by Daylight Team",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/FulliconItems_anniversaryFlashlight.png"
+  },
+  {
+    "name": "Broken Key",
+    "code": "brokenkey",
+    "type": "key",
+    "rarity": "Rare",
+    "description": "The bow and shank of a key, vibrating with remnant power.\nIts power cannot be triggered by itself.\nVarious objects can be attached to its jump ring, which channels the Broken Key's power into various effects.\nMust be equipped with Add-ons to unlock its Aura-reading abilities.\nCannot be used to open a closed Hatch.\nThe Broken Key's Aura-reading abilities can be used for 10 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/FulliconItems_brokenKey.png"
+  },
+  {
+    "name": "Dull Key",
+    "code": "dullkey",
+    "type": "key",
+    "rarity": "Very Rare",
+    "description": "A bent and dull Key that once held great power.\nIts power cannot be triggered by itself.\nVarious objects can be attached to its jump ring, which channels the Dull Key's power into various effects.\nMust be equipped with Add-ons to unlock its Aura-reading abilities.\nCan be consumed to open a closed Hatch, if not depleted of Charges.\nThe Dull Key's Aura-reading abilities can be used for 5 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/FulliconItems_dullKey.png"
+  },
+  {
+    "name": "Skeleton key",
+    "code": "skeletonkey",
+    "type": "key",
+    "rarity": "Ultra Rare",
+    "description": "A tarnished and crooked Key, vibrating with ominous power.\nIts power cannot be triggered by itself.\nVarious objects can be attached to its jump ring, which channels the Skeleton Key's power into various effects.\nMust be equipped with Add-ons to unlock its Aura-reading abilities.\nCan be consumed to open a closed Hatch, if not depleted of Charges.\nThe Skeleton Key's Aura-reading abilities can be used for 30 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconItems_skeletonKey.png"
+  },
+  {
+    "name": "Map",
+    "code": "map",
+    "type": "map",
+    "rarity": "Rare",
+    "description": "An old piece of parchment made out of a skin-like material that is rolled and sealed with an uncoloured leather string.\nHolding and channelling the Map unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it.\nStart the Trial with 1 Generator tracked.\nThe Map tracks any of the following objects:\nGenerators within 8 metres.\nGenerators, Chests, and Totems revealed by Detective's Hunch.\nThe Map lasts for 20 seconds.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/FulliconItems_map.png"
+  },
+  {
+    "name": "Rainbow Map",
+    "code": "rainbowmap",
+    "type": "map",
+    "rarity": "Ultra Rare",
+    "description": "An piece of parchment made out of oddly fresh skin with blood on its edge that has yet to dry, and that is rolled and sealed with multiple coloured ropes and cords.\nHolding and channelling the Rainbow Map unlocks great potential in your Aura-reading abilities, revealing the Aura of all tracked objects at the cost of slowly burning it.\nStart the Trial with 3 random objects tracked.\nThe Rainbow Map tracks any of the following objects:\nExit Gate Switches, Generators, and the Hatch when you come within 8 metres.\nVarious Killer Belongings when you come within 8 metres\nGenerators, Chests, and Totems revealed by Detective's Hunch.\nThe Rainbow Map lasts for 20 seconds.\n\"It disheartens me. All this unspeakable knowledge and gruelling effort and yet nothing tangible, nothing usable to get out of this nightmare.\"  Vigo's Journal",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconItems_rainbowMap.png"
+  },
+  {
+    "name": "Camping Aid Kit",
+    "code": "campingaidkit",
+    "type": "med-kit",
+    "rarity": "Common",
+    "description": "A rudimentary First Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies.\nUnlocks the Self-Heal action.\nIncreased Altruistic Healing speed of 25 %.\nThe Camping Aid Kit has a Capacity of 16 Charges.\n\"Barely has enough material for a decent patch-up.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconItems_campingAidKit.png"
+  },
+  {
+    "name": "First Aid Kit",
+    "code": "firstaidkit",
+    "type": "med-kit",
+    "rarity": "Uncommun",
+    "description": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries.\nUnlocks the Self-Heal action.\nIncreased Altruistic Healing speed of 35 %.\nThe First Aid Kit has a Capacity of 24 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconItems_firstAidKit.png"
+  },
+  {
+    "name": "Emergency Med-Kit",
+    "code": "emergencymedkit",
+    "type": "med-kit",
+    "rarity": "Rare",
+    "description": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies.\nUnlocks the Self-Heal action.\nIncreased Personal Healing speed of 50 %.\nIncreased Altruistic Healing speed of 50 %.\nThe Emergency Med-Kit has a Capacity of 16 Charges.\n\"There is a cure for almost everything...but not for this.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconItems_emergencyMed-Kit.png"
+  },
+  {
+    "name": "Ranger Med-Kit",
+    "code": "rangermedkit",
+    "type": "med-kit",
+    "rarity": "Very Rare",
+    "description": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations.\nUnlocks the Self-Heal action.\nIncreased Altruistic Healing speed of 50 %.\nIncreased Good Skill Check zone of 14 %.\nIncreased Great Skill Check zone of 15 %.\nThe Ranger Med-Kit has a Capacity of 32 Charges.\n\"A small engraved label can be found glued to the back panel: VK.ID-3994723.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconItems_rangerMed-Kit.png"
+  },
+  {
+    "name": "All Hallows' Eve Lunchbox",
+    "code": "allhallowsevelunchbox",
+    "type": "med-kit",
+    "rarity": "Event",
+    "description": "A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with First-Aid equipment.\nUnlocks the Self-Heal action.\nIncreased Altruistic Healing speed of 35 %.\nMakes you more visible.\nThe All Hallows' Eve Lunchbox has a Capacity of 24 Charges.\n\"Safety first! Make sure you can be seen when trick or treating.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconItems_allHallowsEveLunchbox.png"
+  },
+  {
+    "name": "Anniversary Med-Kit",
+    "code": "anniversarymedkit",
+    "type": "med-kit",
+    "rarity": "Event",
+    "description": "A festive Med-Kit.\nExplodes with confetti upon fully healing a Survivor.\nSurprise!\nUnlocks the Self-Heal action.\nIncreased Altruistic Healing speed of 35 %.\nThe Anniversary Med-Kit has a Capacity of 24 Charges.\n\"Happy Anniversary! Here's to many more!\" The Dead by Daylight Team",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconItems_anniversaryMed-Kit.png"
+  },
+  {
+    "name": "Worn-Out Tools",
+    "code": "wornouttools",
+    "type": "toolbox",
+    "rarity": "Common",
+    "description": "A metal box containing out of condition tools that could break at any moment.\nEven without training, can be used to repair or break various mechanical components.\nIncreased Generator Repair speed of 50 %.\nDecreased Good Skill Check zone of 10 %.\nUnlocks the Sabotage action.\nThe Worn-Out Toolbox has a Capacity of 16 Charges.\n\"You call these tools? ... Really?\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconItems_worn-outTools.png"
+  },
+  {
+    "name": "Toolbox",
+    "code": "toolbox",
+    "type": "toolbox",
+    "rarity": "Uncommon",
+    "description": "A metal box containing a set of basic tools.\nEven without training, can be used to repair or break various mechanical components.\nIncreased Generator Repair speed of 50 %.\nUnlocks the Sabotage action.\nIncreased Hook Sabotage speed of 10 %.\nThe Toolbox has a Capacity of 20 Charges.\n\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/FulliconItems_toolbox.png"
+  },
+  {
+    "name": "Mechanic's Toolbox",
+    "code": "mechanicstoolbox",
+    "type": "toolbox",
+    "rarity": "Rare",
+    "description": "A metal box with specialised mechanics tools.\nEven without training, can be used to repair or break various mechanical components.\nIncreased Generator Repair speed of 75 %.\nUnlocks the Sabotage action.\nDecreased Hook Sabotage speed of 10 %.\nThe Mechanic's Toolbox has a Capacity of 16 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/FulliconItems_mechanicsToolbox.png"
+  },
+  {
+    "name": "Commodious Toolbox",
+    "code": "commodioustoolbox",
+    "type": "toolbox",
+    "rarity": "Rare",
+    "description": "A large metal box containing basic tool and extra mechanical parts.\nEven without training, can be used to repair or break various mechanical components.\nIncreased Generator Repair speed by 50 %.\nUnlocks the Sabotage action.\nThe Commodious Toolbox has a Capacity of 32 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/FulliconItems_commodiousToolbox.png"
+  },
+  {
+    "name": "Engineer's Toolbox",
+    "code": "engineerstoolbox",
+    "type": "toolbox",
+    "rarity": "Very Rare",
+    "description": "A metal box with highly specialised tools meant for engineering.\nMost of the tools can be used by neophytes to make quick repairs or break various mechanical components.\nIncreased Generator Repair speed of 100 %.\nUnlocks the Sabotage action.\nDecreased Hook Sabotage speed of 25 %.\nThe Engineer's Toolbox has a Capacity of 16 Charges.\n\"I've created tools beyond compare and stood paralysed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" Vigo's Journal",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconItems_engineersToolbox.png"
+  },
+  {
+    "name": "Alex's Toolbox",
+    "code": "alexstoolbox",
+    "type": "toolbox",
+    "rarity": "Very Rare",
+    "description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools.\nEven though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.\nIncreased Generator Repair speed of 10 %.\nUnlocks the Sabotage action.\nIncreased Hook Sabotage speed of 50 %.\nAlex's Toolbox has a Capacity of 24 Charges.\n\"Most of the tools are identified as 'owned by Alex'.\"",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconItems_alexsToolbox.png"
+  },
+  {
+    "name": "Anniversary Toolbox",
+    "code": "anniversarytoolbox",
+    "type": "toolbox",
+    "rarity": "Event",
+    "description": "A Toolbox that is slightly explosive.\nIncreased Generator Repair speed of 50 %.\nDetonates a firework once depleted.\nYay!\nUnlocks the Sabotage action.\nThe Anniversary Toolbox has a Capacity of 32 Charges.\n\"Nothing says happy anniversary like detonating a firework and praying the Killer does not notice. Good luck and thank you for celebrating with us!\" The Dead by Daylight Team",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/FulliconItems_anniversaryToolbox.png"
+  },
+  {
+    "name": "Festive Toolbox",
+    "code": "festivetoolbox",
+    "type": "toolbox",
+    "rarity": "Event",
+    "description": "A Toolbox packed to the brim with fireworks, it is prepared to celebrate all your life's successes... and failures.\nIncreased Generator Repair speed of 50 %.\nSucceeding a Great Skill Check detonates a small cluster of firecrackers.\nMissing a Skill Check detonates fireworks.\nUnlocks the Sabotage action.\nThe Festive Toolbox has a Capacity of 32 Charges.",
+    "icon": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/FulliconItems_festiveToolbox.png"
+  }
+]
