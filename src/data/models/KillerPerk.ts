@@ -1,5 +1,4 @@
 import { Schema, model, models } from "mongoose";
-import { prop, modelOptions, Severity } from "@typegoose/typegoose";
 
 export interface IKillerPerk {
   id: number;
