@@ -1,5 +1,17 @@
 # Dead by API - A Dead by Daylight data API (and database!)
 
+# ⚠ PROJECT ARCHIVED! More details below
+
+All work on this project have been permanently terminated on july 26th, 2023. After sharing this project, the game's developer Behaviour Interactive accused me of infringing copyright and banned me from both the official game forums and the official subreddit.
+
+My vision for this project was to give the community the means to build fun things with which they could learn and connect with one another.
+
+I will not continue working on this project, but all of the code will remain here because maybe one day someone might need it. If that someone is you, please have fun and do something awesome. I would gladly talk about it, answer questions, and give advice.
+
+I had a ton of ideas and was looking into mentoring new developers to build apps, mini-games, etc., but now that'll be postponed until I have a new project.
+
+These docs will remain exactly the way they were on the last day because they are filled with the excitement that filled me when I released the API. Let the developer have their game all for themselves.
+
 ## Hey!
 
 > I'm [Lucas](https://www.lucaslamonier.com/) and I built this API for you! Download it, use on your projects, create new features, ~~fix it,~~ and have fun!
